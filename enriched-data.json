@@ -12,6 +12,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "2floydes",
+    "schoolName": null,
+    "url": "https://2floydes.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "3-5-stjohns",
     "schoolName": "St. John's",
     "url": "https://3-5-stjohns.typingclub.com",
@@ -19,15 +25,15 @@
     "lastSeen": "2025-12-05"
   },
   {
-    "subdomain": "3-5-stjohns.edclub.com",
-    "schoolName": null,
-    "url": "https://3-5-stjohns.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "3buckingham",
     "schoolName": null,
     "url": "https://3buckingham.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "3g-dr",
+    "schoolName": null,
+    "url": "https://3g-dr.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -86,9 +92,15 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "548zilart.edclub.com",
+    "subdomain": "548zilart",
     "schoolName": null,
-    "url": "https://548zilart.edclub.com.typingclub.com",
+    "url": "https://548zilart.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "56lab",
+    "schoolName": null,
+    "url": "https://56lab.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -105,9 +117,9 @@
     "lastSeen": null
   },
   {
-    "subdomain": "Found 35 unique subdomains",
+    "subdomain": "7oaks",
     "schoolName": null,
-    "url": "https://Found 35 unique subdomains.typingclub.com",
+    "url": "https://7oaks.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -148,9 +160,9 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "abcedudo.edclub.com",
+    "subdomain": "abdgillespie",
     "schoolName": null,
-    "url": "https://abcedudo.edclub.com.typingclub.com",
+    "url": "https://abdgillespie.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -180,18 +192,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "acpsmd.edclub.com",
-    "schoolName": null,
-    "url": "https://acpsmd.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "acschool.edclub.com",
-    "schoolName": null,
-    "url": "https://acschool.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "acsd-franklin",
     "schoolName": null,
     "url": "https://acsd-franklin.typingclub.com",
@@ -215,12 +215,6 @@
     "url": "https://actonlascruces.typingclub.com",
     "firstSeen": null,
     "lastSeen": null
-  },
-  {
-    "subdomain": "actonwestend.edclub.com",
-    "schoolName": null,
-    "url": "https://actonwestend.edclub.com.typingclub.com",
-    "source": "commoncrawl"
   },
   {
     "subdomain": "addison-elementary3",
@@ -249,9 +243,9 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "aecsd.edclub.com",
+    "subdomain": "aecsd",
     "schoolName": null,
-    "url": "https://aecsd.edclub.com.typingclub.com",
+    "url": "https://aecsd.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -309,12 +303,6 @@
     "subdomain": "aidb-ats",
     "schoolName": null,
     "url": "https://aidb-ats.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "aidb-ats.edclub.com",
-    "schoolName": null,
-    "url": "https://aidb-ats.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -382,12 +370,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "alameda-elementary.edclub.com",
-    "schoolName": null,
-    "url": "https://alameda-elementary.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "alamedaschools",
     "schoolName": "Alameda Unified School District",
     "url": "https://alamedaschools.typingclub.com",
@@ -415,15 +397,21 @@
     "lastSeen": "2024-11-11"
   },
   {
-    "subdomain": "albiacsd.edclub.com",
+    "subdomain": "albiacsd",
     "schoolName": null,
-    "url": "https://albiacsd.edclub.com.typingclub.com",
+    "url": "https://albiacsd.typingclub.com",
     "source": "commoncrawl"
   },
   {
     "subdomain": "alcoa",
     "schoolName": null,
     "url": "https://alcoa.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "alcott2030",
+    "schoolName": null,
+    "url": "https://alcott2030.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -442,12 +430,6 @@
     "subdomain": "aldenintermediateschool",
     "schoolName": null,
     "url": "https://aldenintermediateschool.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "aldenintermediateschool.edclub.com",
-    "schoolName": null,
-    "url": "https://aldenintermediateschool.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -521,6 +503,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "allsaintsofsjv",
+    "schoolName": null,
+    "url": "https://allsaintsofsjv.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "allschools",
     "schoolName": "Cooper",
     "url": "https://allschools.typingclub.com",
@@ -553,6 +541,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "alpinecomputers",
+    "schoolName": null,
+    "url": "https://alpinecomputers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "alshomoukh",
     "schoolName": "Al Shomoukh International School",
     "url": "https://alshomoukh.typingclub.com",
@@ -582,12 +576,6 @@
     "subdomain": "altclub",
     "schoolName": null,
     "url": "https://altclub.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "altic.edclub.com",
-    "schoolName": null,
-    "url": "https://altic.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -629,15 +617,9 @@
     "lastSeen": "2024-07-14"
   },
   {
-    "subdomain": "analytics.edclub.com",
+    "subdomain": "anchorage",
     "schoolName": null,
-    "url": "https://analytics.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "anchorage.edclub.com",
-    "schoolName": null,
-    "url": "https://anchorage.edclub.com.typingclub.com",
+    "url": "https://anchorage.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -647,15 +629,15 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "anna-rungo",
+    "subdomain": "ankeny",
     "schoolName": null,
-    "url": "https://anna-rungo.typingclub.com",
+    "url": "https://ankeny.typingclub.com",
     "source": "commoncrawl"
   },
   {
-    "subdomain": "anna-rungo.edclub.com",
+    "subdomain": "anna-rungo",
     "schoolName": null,
-    "url": "https://anna-rungo.edclub.com.typingclub.com",
+    "url": "https://anna-rungo.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -681,6 +663,18 @@
     "subdomain": "annistown",
     "schoolName": null,
     "url": "https://annistown.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "annunciationbvm",
+    "schoolName": null,
+    "url": "https://annunciationbvm.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "anqing",
+    "schoolName": null,
+    "url": "https://anqing.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -715,12 +709,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "aosrtyping.edclub.com",
-    "schoolName": null,
-    "url": "https://aosrtyping.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "apex-elementary",
     "schoolName": "Apex Elementary School",
     "url": "https://apex-elementary.typingclub.com",
@@ -748,9 +736,15 @@
     "lastSeen": "2022-08-11"
   },
   {
-    "subdomain": "applingco.edclub.com",
+    "subdomain": "applingco",
     "schoolName": null,
-    "url": "https://applingco.edclub.com.typingclub.com",
+    "url": "https://applingco.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "aps48",
+    "schoolName": null,
+    "url": "https://aps48.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -767,21 +761,9 @@
     "lastSeen": "2025-12-09"
   },
   {
-    "subdomain": "apsva.edclub.com",
-    "schoolName": null,
-    "url": "https://apsva.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "aquinas-academygbg",
     "schoolName": null,
     "url": "https://aquinas-academygbg.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "aquinas-academygbg.edclub.com",
-    "schoolName": null,
-    "url": "https://aquinas-academygbg.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -819,9 +801,15 @@
     "lastSeen": null
   },
   {
-    "subdomain": "arevalobermejo.edclub.com",
+    "subdomain": "aremrsbell",
     "schoolName": null,
-    "url": "https://arevalobermejo.edclub.com.typingclub.com",
+    "url": "https://aremrsbell.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "arevalobermejo",
+    "schoolName": null,
+    "url": "https://arevalobermejo.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -882,12 +870,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "arroyodeloso.edclub.com",
-    "schoolName": null,
-    "url": "https://arroyodeloso.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "arsu",
     "schoolName": "Fair Haven Grade School",
     "url": "https://arsu.typingclub.com",
@@ -927,12 +909,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "ascensionlutheranschool.edclub.com",
-    "schoolName": null,
-    "url": "https://ascensionlutheranschool.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "ascs-mn",
     "schoolName": null,
     "url": "https://ascs-mn.typingclub.com",
@@ -959,9 +935,9 @@
     "lastSeen": null
   },
   {
-    "subdomain": "aseschool.edclub.com",
+    "subdomain": "aseschool",
     "schoolName": null,
-    "url": "https://aseschool.edclub.com.typingclub.com",
+    "url": "https://aseschool.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -990,6 +966,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ashmi",
+    "schoolName": null,
+    "url": "https://ashmi.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ashtc",
     "schoolName": null,
     "url": "https://ashtc.typingclub.com",
@@ -999,12 +981,6 @@
     "subdomain": "aslondon",
     "schoolName": null,
     "url": "https://aslondon.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "aslondon.edclub.com",
-    "schoolName": null,
-    "url": "https://aslondon.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1027,15 +1003,9 @@
     "lastSeen": "2019-07-05"
   },
   {
-    "subdomain": "athenscs.edclub.com",
+    "subdomain": "athenscs",
     "schoolName": null,
-    "url": "https://athenscs.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "atigramakers.edclub.com",
-    "schoolName": null,
-    "url": "https://atigramakers.edclub.com.typingclub.com",
+    "url": "https://athenscs.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1059,6 +1029,12 @@
     "lastSeen": "2024-07-20"
   },
   {
+    "subdomain": "audubon-elementarynissen",
+    "schoolName": null,
+    "url": "https://audubon-elementarynissen.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "aurora-borealis",
     "schoolName": "Aurora Borealis Charter School",
     "url": "https://aurora-borealis.typingclub.com",
@@ -1079,15 +1055,15 @@
     "lastSeen": null
   },
   {
-    "subdomain": "aviston-elementary",
+    "subdomain": "avillapanthers",
     "schoolName": null,
-    "url": "https://aviston-elementary.typingclub.com",
+    "url": "https://avillapanthers.typingclub.com",
     "source": "commoncrawl"
   },
   {
-    "subdomain": "aviston-elementary.edclub.com",
+    "subdomain": "aviston-elementary",
     "schoolName": null,
-    "url": "https://aviston-elementary.edclub.com.typingclub.com",
+    "url": "https://aviston-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1160,6 +1136,12 @@
     "lastSeen": "2021-05-12"
   },
   {
+    "subdomain": "baldwinschools",
+    "schoolName": null,
+    "url": "https://baldwinschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "balmoral",
     "schoolName": "Balmoral",
     "url": "https://balmoral.typingclub.com",
@@ -1173,15 +1155,15 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "bannoncreek16",
+    "subdomain": "bannerelementary",
     "schoolName": null,
-    "url": "https://bannoncreek16.typingclub.com",
+    "url": "https://bannerelementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
-    "subdomain": "bannoncreek16.edclub.com",
+    "subdomain": "bannoncreek16",
     "schoolName": null,
-    "url": "https://bannoncreek16.edclub.com.typingclub.com",
+    "url": "https://bannoncreek16.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1214,6 +1196,12 @@
     "url": "https://barranca.typingclub.com",
     "firstSeen": "2016-03-12",
     "lastSeen": "2019-06-15"
+  },
+  {
+    "subdomain": "barrett",
+    "schoolName": null,
+    "url": "https://barrett.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "barrhead-elementary3a",
@@ -1268,6 +1256,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "bayberry",
+    "schoolName": null,
+    "url": "https://bayberry.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bayfarm18",
     "schoolName": null,
     "url": "https://bayfarm18.typingclub.com",
@@ -1294,21 +1288,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "bcebears",
+    "schoolName": null,
+    "url": "https://bcebears.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bcelem",
     "schoolName": null,
     "url": "https://bcelem.typingclub.com",
     "source": "commoncrawl"
   },
   {
-    "subdomain": "bcelem.edclub.com",
-    "schoolName": null,
-    "url": "https://bcelem.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "bces-lib",
     "schoolName": null,
     "url": "https://bces-lib.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bcesowls2",
+    "schoolName": null,
+    "url": "https://bcesowls2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bck8typing",
+    "schoolName": null,
+    "url": "https://bck8typing.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bcpsauburn",
+    "schoolName": null,
+    "url": "https://bcpsauburn.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1385,6 +1397,12 @@
     "lastSeen": "2025-02-17"
   },
   {
+    "subdomain": "beckemeyer-school",
+    "schoolName": null,
+    "url": "https://beckemeyer-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "becker",
     "schoolName": "Bowling Green R-1 School",
     "url": "https://becker.typingclub.com",
@@ -1392,9 +1410,15 @@
     "lastSeen": null
   },
   {
-    "subdomain": "beckerduvall.edclub.com",
+    "subdomain": "becker-elementary-school",
     "schoolName": null,
-    "url": "https://beckerduvall.edclub.com.typingclub.com",
+    "url": "https://becker-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bedford",
+    "schoolName": null,
+    "url": "https://bedford.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1410,9 +1434,9 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "bedokgreenpri.edclub.com",
+    "subdomain": "bedokgreenpri",
     "schoolName": null,
-    "url": "https://bedokgreenpri.edclub.com.typingclub.com",
+    "url": "https://bedokgreenpri.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1454,6 +1478,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "belding-area-schools",
+    "schoolName": null,
+    "url": "https://belding-area-schools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bellecreekcs",
     "schoolName": null,
     "url": "https://bellecreekcs.typingclub.com",
@@ -1475,12 +1505,6 @@
     "subdomain": "belleviewelementary",
     "schoolName": null,
     "url": "https://belleviewelementary.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "belleviewelementary.edclub.com",
-    "schoolName": null,
-    "url": "https://belleviewelementary.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1543,6 +1567,12 @@
     "lastSeen": null
   },
   {
+    "subdomain": "benjamin-franklin2",
+    "schoolName": null,
+    "url": "https://benjamin-franklin2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bennettib",
     "schoolName": "",
     "url": "https://bennettib.typingclub.com",
@@ -1603,12 +1633,6 @@
     "subdomain": "bergen-valley4",
     "schoolName": null,
     "url": "https://bergen-valley4.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "bergen-valley4.edclub.com",
-    "schoolName": null,
-    "url": "https://bergen-valley4.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1684,9 +1708,21 @@
     "lastSeen": "2025-01-13"
   },
   {
+    "subdomain": "bes-foxes",
+    "schoolName": null,
+    "url": "https://bes-foxes.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "beshounds",
     "schoolName": null,
     "url": "https://beshounds.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "besstudent",
+    "schoolName": null,
+    "url": "https://besstudent.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1748,12 +1784,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "beverly-cleary.edclub.com",
-    "schoolName": null,
-    "url": "https://beverly-cleary.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "beverly-hills",
     "schoolName": "Beverly Hills Elementary School",
     "url": "https://beverly-hills.typingclub.com",
@@ -1798,6 +1828,12 @@
     "subdomain": "bhsprep",
     "schoolName": null,
     "url": "https://bhsprep.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bialikcollege",
+    "schoolName": null,
+    "url": "https://bialikcollege.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1848,21 +1884,9 @@
     "lastSeen": "2024-09-13"
   },
   {
-    "subdomain": "birchwood.edclub.com",
-    "schoolName": null,
-    "url": "https://birchwood.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "bischgym",
     "schoolName": null,
     "url": "https://bischgym.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "bischgym.edclub.com",
-    "schoolName": null,
-    "url": "https://bischgym.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1875,12 +1899,6 @@
     "subdomain": "bisk4",
     "schoolName": null,
     "url": "https://bisk4.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "bisk4.edclub.com",
-    "schoolName": null,
-    "url": "https://bisk4.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1910,9 +1928,21 @@
     "lastSeen": null
   },
   {
+    "subdomain": "blackmansparks",
+    "schoolName": null,
+    "url": "https://blackmansparks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "blackwellfrierson",
     "schoolName": null,
     "url": "https://blackwellfrierson.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "blaineschools",
+    "schoolName": null,
+    "url": "https://blaineschools.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -1953,12 +1983,6 @@
     "url": "https://bliss-school.typingclub.com",
     "firstSeen": "2023-06-06",
     "lastSeen": "2025-12-11"
-  },
-  {
-    "subdomain": "bliss-school.edclub.com",
-    "schoolName": null,
-    "url": "https://bliss-school.edclub.com.typingclub.com",
-    "source": "commoncrawl"
   },
   {
     "subdomain": "bloom-mem",
@@ -2008,6 +2032,12 @@
     "lastSeen": "2023-04-01"
   },
   {
+    "subdomain": "bluecats",
+    "schoolName": null,
+    "url": "https://bluecats.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bluffridge",
     "schoolName": "Bluff Ridge Elementary",
     "url": "https://bluffridge.typingclub.com",
@@ -2045,15 +2075,9 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "bmstechapps.edclub.com",
+    "subdomain": "bmstechapps",
     "schoolName": null,
-    "url": "https://bmstechapps.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "bolpa.edclub.com",
-    "schoolName": null,
-    "url": "https://bolpa.edclub.com.typingclub.com",
+    "url": "https://bmstechapps.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2096,6 +2120,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "boulder-elementary",
+    "schoolName": null,
+    "url": "https://boulder-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "bow-valley",
     "schoolName": "Bow Valley High School",
     "url": "https://bow-valley.typingclub.com",
@@ -2112,6 +2142,12 @@
     "subdomain": "boydelem",
     "schoolName": null,
     "url": "https://boydelem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bpd3",
+    "schoolName": null,
+    "url": "https://bpd3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2181,9 +2217,15 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "brg18.edclub.com",
+    "subdomain": "brexo",
     "schoolName": null,
-    "url": "https://brg18.edclub.com.typingclub.com",
+    "url": "https://brexo.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "brg18",
+    "schoolName": null,
+    "url": "https://brg18.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2273,6 +2315,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "brittan",
+    "schoolName": null,
+    "url": "https://brittan.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "broad-creek",
     "schoolName": null,
     "url": "https://broad-creek.typingclub.com",
@@ -2282,6 +2330,12 @@
     "subdomain": "brocton-elementary-school",
     "schoolName": null,
     "url": "https://brocton-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "bronxdance308",
+    "schoolName": null,
+    "url": "https://bronxdance308.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2305,15 +2359,27 @@
     "lastSeen": null
   },
   {
-    "subdomain": "brookhavenelementary.edclub.com",
+    "subdomain": "brookhavenelementary",
     "schoolName": null,
-    "url": "https://brookhavenelementary.edclub.com.typingclub.com",
+    "url": "https://brookhavenelementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "brookshome",
+    "schoolName": null,
+    "url": "https://brookshome.typingclub.com",
     "source": "commoncrawl"
   },
   {
     "subdomain": "brssd",
     "schoolName": null,
     "url": "https://brssd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "brtyping",
+    "schoolName": null,
+    "url": "https://brtyping.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2380,9 +2446,9 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "buckeye-local-schools.edclub.com",
+    "subdomain": "buckeye-local-schools",
     "schoolName": null,
-    "url": "https://buckeye-local-schools.edclub.com.typingclub.com",
+    "url": "https://buckeye-local-schools.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2410,15 +2476,15 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "buckleyschools.edclub.com",
-    "schoolName": null,
-    "url": "https://buckleyschools.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "budbeasley",
     "schoolName": null,
     "url": "https://budbeasley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "budbrooke",
+    "schoolName": null,
+    "url": "https://budbrooke.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2448,22 +2514,30 @@
   {
     "subdomain": "bullpups",
     "schoolName": "Suwannee Middle School",
-    "url": "https://bullpups.typingclub.com"
+    "url": "https://bullpups.typingclub.com",
+    "firstSeen": "2013-05-14",
+    "lastSeen": "2019-06-23"
   },
   {
     "subdomain": "buncombe",
     "schoolName": "Buncombe County Central Office",
-    "url": "https://buncombe.typingclub.com"
+    "url": "https://buncombe.typingclub.com",
+    "firstSeen": "2020-12-02",
+    "lastSeen": "2020-12-02"
   },
   {
     "subdomain": "burley",
     "schoolName": "Burley Elementary School",
-    "url": "https://burley.typingclub.com"
+    "url": "https://burley.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "burlington-edison",
     "schoolName": "Burlington-Edison",
-    "url": "https://burlington-edison.typingclub.com"
+    "url": "https://burlington-edison.typingclub.com",
+    "firstSeen": "2019-10-21",
+    "lastSeen": "2025-10-26"
   },
   {
     "subdomain": "burrton-elementary",
@@ -2474,17 +2548,23 @@
   {
     "subdomain": "burton-valley",
     "schoolName": "Burton Valley Elementary",
-    "url": "https://burton-valley.typingclub.com"
+    "url": "https://burton-valley.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "busbee-bulldogs",
     "schoolName": "Busbee Creative Arts Academy",
-    "url": "https://busbee-bulldogs.typingclub.com"
+    "url": "https://busbee-bulldogs.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "busd",
     "schoolName": "Bellevue Union School District",
-    "url": "https://busd.typingclub.com"
+    "url": "https://busd.typingclub.com",
+    "firstSeen": "2021-04-17",
+    "lastSeen": "2022-12-01"
   },
   {
     "subdomain": "busdtyping",
@@ -2503,21 +2583,15 @@
     "url": "https://bushland.typingclub.com"
   },
   {
-    "subdomain": "bushland.edclub.com",
+    "subdomain": "bwcomputer",
     "schoolName": null,
-    "url": "https://bushland.edclub.com.typingclub.com",
+    "url": "https://bwcomputer.typingclub.com",
     "source": "commoncrawl"
   },
   {
     "subdomain": "byrnecreek",
     "schoolName": null,
     "url": "https://byrnecreek.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
-    "subdomain": "byrnecreek.edclub.com",
-    "schoolName": null,
-    "url": "https://byrnecreek.edclub.com.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2548,9 +2622,9 @@
     "url": "https://cacprimary.typingclub.com"
   },
   {
-    "subdomain": "caewboces.edclub.com",
+    "subdomain": "caewboces",
     "schoolName": null,
-    "url": "https://caewboces.edclub.com.typingclub.com",
+    "url": "https://caewboces.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2563,6 +2637,18 @@
     "subdomain": "caj-knights",
     "schoolName": null,
     "url": "https://caj-knights.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cajon",
+    "schoolName": null,
+    "url": "https://cajon.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "caldwell-elementary2",
+    "schoolName": null,
+    "url": "https://caldwell-elementary2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2580,6 +2666,12 @@
     "subdomain": "calwheat",
     "schoolName": "Calamus-Wheatland Elementary School",
     "url": "https://calwheat.typingclub.com"
+  },
+  {
+    "subdomain": "camargo-elementary",
+    "schoolName": null,
+    "url": "https://camargo-elementary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "cambridge",
@@ -2608,6 +2700,12 @@
     "url": "https://camelot-elem.typingclub.com"
   },
   {
+    "subdomain": "camerones",
+    "schoolName": null,
+    "url": "https://camerones.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "campasano",
     "schoolName": null,
     "url": "https://campasano.typingclub.com",
@@ -2631,9 +2729,9 @@
     "url": "https://campion.typingclub.com"
   },
   {
-    "subdomain": "canaan.edclub.com",
+    "subdomain": "canaan",
     "schoolName": null,
-    "url": "https://canaan.edclub.com.typingclub.com",
+    "url": "https://canaan.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2643,15 +2741,21 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "canadahill.edclub.com",
+    "subdomain": "canyon-elementary",
     "schoolName": null,
-    "url": "https://canadahill.edclub.com.typingclub.com",
+    "url": "https://canyon-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
     "subdomain": "canyon-springs-stem",
     "schoolName": null,
     "url": "https://canyon-springs-stem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "canyon-springs3",
+    "schoolName": null,
+    "url": "https://canyon-springs3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2675,6 +2779,12 @@
     "subdomain": "capacschools",
     "schoolName": null,
     "url": "https://capacschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cape-cornwall",
+    "schoolName": null,
+    "url": "https://cape-cornwall.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2707,6 +2817,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "carey-school2",
+    "schoolName": null,
+    "url": "https://carey-school2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "carleton-middle4",
     "schoolName": null,
     "url": "https://carleton-middle4.typingclub.com",
@@ -2716,6 +2832,12 @@
     "subdomain": "carlisleschool",
     "schoolName": null,
     "url": "https://carlisleschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "carmelchristian",
+    "schoolName": null,
+    "url": "https://carmelchristian.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2773,9 +2895,21 @@
     "url": "https://caseypark.typingclub.com"
   },
   {
+    "subdomain": "castleheights",
+    "schoolName": null,
+    "url": "https://castleheights.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "catalystschools",
     "schoolName": "Catalyst Circle Rock Charter School",
     "url": "https://catalystschools.typingclub.com"
+  },
+  {
+    "subdomain": "catawba-trail2",
+    "schoolName": null,
+    "url": "https://catawba-trail2.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "cathcart-elementary",
@@ -2828,12 +2962,6 @@
     "source": "commoncrawl"
   },
   {
-    "subdomain": "cc-md.edclub.com",
-    "schoolName": null,
-    "url": "https://cc-md.edclub.com.typingclub.com",
-    "source": "commoncrawl"
-  },
-  {
     "subdomain": "cc-montessori",
     "schoolName": null,
     "url": "https://cc-montessori.typingclub.com",
@@ -2866,6 +2994,12 @@
     "subdomain": "ccedina",
     "schoolName": null,
     "url": "https://ccedina.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cceslionstype",
+    "schoolName": null,
+    "url": "https://cceslionstype.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -2931,6 +3065,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ceipidp",
+    "schoolName": null,
+    "url": "https://ceipidp.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "centennial-elementary4",
     "schoolName": null,
     "url": "https://centennial-elementary4.typingclub.com",
@@ -2978,6 +3118,36 @@
     "subdomain": "centrerridge",
     "schoolName": null,
     "url": "https://centrerridge.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "centura-elementary",
+    "schoolName": null,
+    "url": "https://centura-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "centura-elementary-school",
+    "schoolName": null,
+    "url": "https://centura-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "centura-elementary2",
+    "schoolName": null,
+    "url": "https://centura-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "centura-elementary3lucht",
+    "schoolName": null,
+    "url": "https://centura-elementary3lucht.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "centura3b",
+    "schoolName": null,
+    "url": "https://centura3b.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3035,6 +3205,12 @@
     "subdomain": "cespintos",
     "schoolName": null,
     "url": "https://cespintos.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cesteam",
+    "schoolName": null,
+    "url": "https://cesteam.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3097,6 +3273,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "chamisa-elementary",
+    "schoolName": null,
+    "url": "https://chamisa-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "champs",
     "schoolName": "Champlain Elementary School",
     "url": "https://champs.typingclub.com"
@@ -3117,6 +3299,12 @@
     "url": "https://chargers.typingclub.com"
   },
   {
+    "subdomain": "charles-e-mack-elementary-school",
+    "schoolName": null,
+    "url": "https://charles-e-mack-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "charles-ellis",
     "schoolName": null,
     "url": "https://charles-ellis.typingclub.com",
@@ -3126,6 +3314,12 @@
     "subdomain": "charles-white",
     "schoolName": null,
     "url": "https://charles-white.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "charlescountyps",
+    "schoolName": null,
+    "url": "https://charlescountyps.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3153,6 +3347,12 @@
     "subdomain": "che2122",
     "schoolName": null,
     "url": "https://che2122.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "chebarlow",
+    "schoolName": null,
+    "url": "https://chebarlow.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3204,6 +3404,12 @@
     "subdomain": "chesterbrook-elementary",
     "schoolName": null,
     "url": "https://chesterbrook-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "chestnut-hill3",
+    "schoolName": null,
+    "url": "https://chestnut-hill3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3300,9 +3506,21 @@
     "url": "https://cismanila.typingclub.com"
   },
   {
+    "subdomain": "citizen-genet",
+    "schoolName": null,
+    "url": "https://citizen-genet.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "cityviewes",
     "schoolName": null,
     "url": "https://cityviewes.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cjohnson3",
+    "schoolName": null,
+    "url": "https://cjohnson3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3383,6 +3601,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "clcschool",
+    "schoolName": null,
+    "url": "https://clcschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "clear-creek-school",
     "schoolName": null,
     "url": "https://clear-creek-school.typingclub.com",
@@ -3392,6 +3616,12 @@
     "subdomain": "cleveland1910",
     "schoolName": "Cleveland Elementary",
     "url": "https://cleveland1910.typingclub.com"
+  },
+  {
+    "subdomain": "clintmoore",
+    "schoolName": null,
+    "url": "https://clintmoore.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "clinton-elementary2",
@@ -3415,6 +3645,18 @@
     "subdomain": "clintonelementaryschool",
     "schoolName": null,
     "url": "https://clintonelementaryschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "clintqsmith",
+    "schoolName": null,
+    "url": "https://clintqsmith.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "clive",
+    "schoolName": null,
+    "url": "https://clive.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3464,6 +3706,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "coady",
+    "schoolName": null,
+    "url": "https://coady.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "coalcreekcanyonk8",
     "schoolName": "Coal Creek Canyon K-8 School",
     "url": "https://coalcreekcanyonk8.typingclub.com"
@@ -3495,6 +3743,12 @@
     "url": "https://cojowa.typingclub.com"
   },
   {
+    "subdomain": "colegiodiocesanosantaclara",
+    "schoolName": null,
+    "url": "https://colegiodiocesanosantaclara.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "colegiolapaz",
     "schoolName": "Colegio La Paz A.C.",
     "url": "https://colegiolapaz.typingclub.com"
@@ -3503,6 +3757,12 @@
     "subdomain": "colegiomexicobachillerato",
     "schoolName": "Colegio M\u00e9xico Bachillerato",
     "url": "https://colegiomexicobachillerato.typingclub.com"
+  },
+  {
+    "subdomain": "colegiosapde",
+    "schoolName": null,
+    "url": "https://colegiosapde.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "college-view",
@@ -3544,6 +3804,12 @@
     "url": "https://columbia-elementary4.typingclub.com"
   },
   {
+    "subdomain": "columbia125",
+    "schoolName": null,
+    "url": "https://columbia125.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "columbiaville-elementary-mi",
     "schoolName": null,
     "url": "https://columbiaville-elementary-mi.typingclub.com",
@@ -3562,9 +3828,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "comfortisd",
+    "schoolName": null,
+    "url": "https://comfortisd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "como-pickton-school2",
     "schoolName": null,
     "url": "https://como-pickton-school2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "computech-real",
+    "schoolName": null,
+    "url": "https://computech-real.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3600,6 +3878,12 @@
     "subdomain": "conklinacademy",
     "schoolName": null,
     "url": "https://conklinacademy.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "conley",
+    "schoolName": null,
+    "url": "https://conley.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3650,9 +3934,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "coralreef",
+    "schoolName": null,
+    "url": "https://coralreef.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "cordelia-hills3",
     "schoolName": null,
     "url": "https://cordelia-hills3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "corindi",
+    "schoolName": null,
+    "url": "https://corindi.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "corindi-ps",
+    "schoolName": null,
+    "url": "https://corindi-ps.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "corindi-public34p",
+    "schoolName": null,
+    "url": "https://corindi-public34p.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "cornell-elementary-school",
+    "schoolName": null,
+    "url": "https://cornell-elementary-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -3730,6 +4044,12 @@
     "url": "https://county.typingclub.com"
   },
   {
+    "subdomain": "courtnier",
+    "schoolName": null,
+    "url": "https://courtnier.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "cox-coyotes",
     "schoolName": null,
     "url": "https://cox-coyotes.typingclub.com",
@@ -3772,6 +4092,12 @@
     "subdomain": "cpsfc",
     "schoolName": "Central Park School for Children",
     "url": "https://cpsfc.typingclub.com"
+  },
+  {
+    "subdomain": "cpupointers",
+    "schoolName": null,
+    "url": "https://cpupointers.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "cr-hanna-elem",
@@ -3905,6 +4231,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ctafreedom1",
+    "schoolName": null,
+    "url": "https://ctafreedom1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ctough",
     "schoolName": null,
     "url": "https://ctough.typingclub.com",
@@ -3954,6 +4286,12 @@
     "url": "https://cusdk8.typingclub.com"
   },
   {
+    "subdomain": "cutbank",
+    "schoolName": null,
+    "url": "https://cutbank.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "cutler",
     "schoolName": "Hamilton Wenham",
     "url": "https://cutler.typingclub.com"
@@ -3981,9 +4319,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "d11carver",
+    "schoolName": null,
+    "url": "https://d11carver.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "dakotavalley",
     "schoolName": null,
     "url": "https://dakotavalley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "dalecountyboehagler5thgrade",
+    "schoolName": null,
+    "url": "https://dalecountyboehagler5thgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "daly27",
+    "schoolName": null,
+    "url": "https://daly27.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4024,6 +4380,12 @@
     "subdomain": "davisonkindergarten",
     "schoolName": "",
     "url": "https://davisonkindergarten.typingclub.com"
+  },
+  {
+    "subdomain": "dayton-elementary",
+    "schoolName": null,
+    "url": "https://dayton-elementary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "dayton-heights-elementary-school",
@@ -4076,6 +4438,12 @@
     "subdomain": "dean-valley",
     "schoolName": null,
     "url": "https://dean-valley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "defer",
+    "schoolName": null,
+    "url": "https://defer.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4142,6 +4510,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "desert-sage3",
+    "schoolName": null,
+    "url": "https://desert-sage3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "desert-vista-elementary-school",
     "schoolName": null,
     "url": "https://desert-vista-elementary-school.typingclub.com",
@@ -4184,6 +4558,12 @@
     "url": "https://dewar.typingclub.com"
   },
   {
+    "subdomain": "dewardragons",
+    "schoolName": null,
+    "url": "https://dewardragons.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "dgfrebels",
     "schoolName": null,
     "url": "https://dgfrebels.typingclub.com",
@@ -4193,6 +4573,12 @@
     "subdomain": "dginn",
     "schoolName": "Salmon Creek Charter School",
     "url": "https://dginn.typingclub.com"
+  },
+  {
+    "subdomain": "diamond-ridge",
+    "schoolName": null,
+    "url": "https://diamond-ridge.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "diamondvalley",
@@ -4264,6 +4650,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "divisadero-computers",
+    "schoolName": null,
+    "url": "https://divisadero-computers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "division10malaspina",
     "schoolName": null,
     "url": "https://division10malaspina.typingclub.com",
@@ -4301,6 +4693,12 @@
     "subdomain": "dlkto9",
     "schoolName": null,
     "url": "https://dlkto9.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "dmcomputing",
+    "schoolName": null,
+    "url": "https://dmcomputing.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4487,6 +4885,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "dunkel",
+    "schoolName": null,
+    "url": "https://dunkel.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "dunkerton-elementary",
     "schoolName": null,
     "url": "https://dunkerton-elementary.typingclub.com",
@@ -4502,6 +4906,12 @@
     "subdomain": "dunnib",
     "schoolName": "Dunn IB World School",
     "url": "https://dunnib.typingclub.com"
+  },
+  {
+    "subdomain": "dunstableschool",
+    "schoolName": null,
+    "url": "https://dunstableschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "duvall-elementary",
@@ -4548,6 +4958,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "east-side",
+    "schoolName": null,
+    "url": "https://east-side.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "eastderry",
     "schoolName": null,
     "url": "https://eastderry.typingclub.com",
@@ -4582,6 +4998,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "eastrochester",
+    "schoolName": null,
+    "url": "https://eastrochester.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "eastsidegradeschool",
     "schoolName": "East Side Elementary Grade School",
     "url": "https://eastsidegradeschool.typingclub.com"
@@ -4595,6 +5017,18 @@
     "subdomain": "eastwood-middle",
     "schoolName": null,
     "url": "https://eastwood-middle.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "echo-lake-elementary-school",
+    "schoolName": null,
+    "url": "https://echo-lake-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "edclub-static",
+    "schoolName": null,
+    "url": "https://edclub-static.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4670,9 +5104,21 @@
     "url": "https://edgewoodmiddleschool.typingclub.com"
   },
   {
+    "subdomain": "edinburg-common",
+    "schoolName": null,
+    "url": "https://edinburg-common.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "edison-elementary",
     "schoolName": "Edison Elementary - AUSD",
     "url": "https://edison-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "edison14",
+    "schoolName": null,
+    "url": "https://edison14.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "edison4203",
@@ -4751,6 +5197,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ehmemorial",
+    "schoolName": null,
+    "url": "https://ehmemorial.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "eiber-elementary",
     "schoolName": null,
     "url": "https://eiber-elementary.typingclub.com",
@@ -4787,9 +5239,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "electa-quinney4bw",
+    "schoolName": null,
+    "url": "https://electa-quinney4bw.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "electa3d",
+    "schoolName": null,
+    "url": "https://electa3d.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "elevateok",
     "schoolName": null,
     "url": "https://elevateok.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "elitedigita",
+    "schoolName": null,
+    "url": "https://elitedigita.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4805,9 +5275,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ellicott-computers",
+    "schoolName": null,
+    "url": "https://ellicott-computers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "elliseagles",
     "schoolName": null,
     "url": "https://elliseagles.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "elmontufsd",
+    "schoolName": null,
+    "url": "https://elmontufsd.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4825,6 +5307,12 @@
     "subdomain": "elsischool",
     "schoolName": null,
     "url": "https://elsischool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "elyria-christian",
+    "schoolName": null,
+    "url": "https://elyria-christian.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4869,6 +5357,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "epgcentennial",
+    "schoolName": null,
+    "url": "https://epgcentennial.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "epgjh",
+    "schoolName": null,
+    "url": "https://epgjh.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ephesus",
     "schoolName": "Ephesus Road Elementary School",
     "url": "https://ephesus.typingclub.com"
@@ -4895,6 +5395,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "eqmrk",
+    "schoolName": null,
+    "url": "https://eqmrk.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "eqroom66",
+    "schoolName": null,
+    "url": "https://eqroom66.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "equinox",
     "schoolName": "Oyster Rive Middle School",
     "url": "https://equinox.typingclub.com"
@@ -4903,6 +5415,12 @@
     "subdomain": "ereckson-kirby",
     "schoolName": null,
     "url": "https://ereckson-kirby.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ericaly",
+    "schoolName": null,
+    "url": "https://ericaly.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -4957,6 +5475,18 @@
     "subdomain": "essex-elementary",
     "schoolName": "Essex Elementary School",
     "url": "https://essex-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "estelline-juniorhigh",
+    "schoolName": null,
+    "url": "https://estelline-juniorhigh.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "estrella-durazo",
+    "schoolName": null,
+    "url": "https://estrella-durazo.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "estrella3",
@@ -5156,6 +5686,12 @@
     "url": "https://farnsworth.typingclub.com"
   },
   {
+    "subdomain": "farnsworthk1",
+    "schoolName": null,
+    "url": "https://farnsworthk1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "farr-west",
     "schoolName": "Farr West Elementary School",
     "url": "https://farr-west.typingclub.com"
@@ -5226,6 +5762,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "field-elementary",
+    "schoolName": null,
+    "url": "https://field-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "fiestagardens",
     "schoolName": "Fiesta Gardens School",
     "url": "https://fiestagardens.typingclub.com"
@@ -5279,6 +5821,18 @@
     "subdomain": "fisherblocktyping",
     "schoolName": null,
     "url": "https://fisherblocktyping.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "fitzgerald-public",
+    "schoolName": null,
+    "url": "https://fitzgerald-public.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "fitzl",
+    "schoolName": null,
+    "url": "https://fitzl.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -5344,6 +5898,18 @@
     "url": "https://forest.typingclub.com"
   },
   {
+    "subdomain": "forest-lake",
+    "schoolName": null,
+    "url": "https://forest-lake.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "forest-trail",
+    "schoolName": null,
+    "url": "https://forest-trail.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "forestpark",
     "schoolName": "Forest Park Elementary School",
     "url": "https://forestpark.typingclub.com"
@@ -5360,6 +5926,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "forestville-elementary",
+    "schoolName": null,
+    "url": "https://forestville-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "forsterfourthgrade",
+    "schoolName": null,
+    "url": "https://forsterfourthgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "forsythcd",
     "schoolName": null,
     "url": "https://forsythcd.typingclub.com",
@@ -5369,6 +5947,12 @@
     "subdomain": "foster1",
     "schoolName": null,
     "url": "https://foster1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "fountain-city2",
+    "schoolName": null,
+    "url": "https://fountain-city2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -5419,6 +6003,12 @@
     "subdomain": "franklineagles",
     "schoolName": "Franklin Elementary School",
     "url": "https://franklineagles.typingclub.com"
+  },
+  {
+    "subdomain": "franklinlincoln",
+    "schoolName": null,
+    "url": "https://franklinlincoln.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "franklinpioneer",
@@ -5523,6 +6113,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "fulcher",
+    "schoolName": null,
+    "url": "https://fulcher.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "fulton-schools",
     "schoolName": "Fulton Schools",
     "url": "https://fulton-schools.typingclub.com"
@@ -5603,6 +6199,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "gavino",
+    "schoolName": null,
+    "url": "https://gavino.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "gbems",
     "schoolName": null,
     "url": "https://gbems.typingclub.com",
@@ -5631,6 +6233,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "gemfederation",
+    "schoolName": null,
+    "url": "https://gemfederation.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "gen1234",
     "schoolName": null,
     "url": "https://gen1234.typingclub.com",
@@ -5643,6 +6251,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "generalstewart",
+    "schoolName": null,
+    "url": "https://generalstewart.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "geneseeschool",
     "schoolName": "",
     "url": "https://geneseeschool.typingclub.com"
@@ -5651,6 +6265,18 @@
     "subdomain": "geneva-elementary-school",
     "schoolName": null,
     "url": "https://geneva-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "genoa-elementary",
+    "schoolName": null,
+    "url": "https://genoa-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "georgetowncentral",
+    "schoolName": null,
+    "url": "https://georgetowncentral.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -5727,6 +6353,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "gillh",
+    "schoolName": null,
+    "url": "https://gillh.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "gillispie",
     "schoolName": null,
     "url": "https://gillispie.typingclub.com",
@@ -5749,6 +6381,24 @@
     "url": "https://glenellynd41.typingclub.com"
   },
   {
+    "subdomain": "glenmeade-elementarymaiorana",
+    "schoolName": null,
+    "url": "https://glenmeade-elementarymaiorana.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "glenmeade-mrsm2",
+    "schoolName": null,
+    "url": "https://glenmeade-mrsm2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "glenmeadelund",
+    "schoolName": null,
+    "url": "https://glenmeadelund.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "glocester",
     "schoolName": "Glocester Elementary Schools",
     "url": "https://glocester.typingclub.com"
@@ -5757,6 +6407,18 @@
     "subdomain": "gloucester-road",
     "schoolName": null,
     "url": "https://gloucester-road.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "gls36k5",
+    "schoolName": null,
+    "url": "https://gls36k5.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "gms-flames12",
+    "schoolName": null,
+    "url": "https://gms-flames12.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -5918,6 +6580,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "grand-lake-elem",
+    "schoolName": null,
+    "url": "https://grand-lake-elem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "grandviewwildcats",
+    "schoolName": null,
+    "url": "https://grandviewwildcats.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "granitefalls",
     "schoolName": null,
     "url": "https://granitefalls.typingclub.com",
@@ -5952,15 +6626,33 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "great-plain",
+    "schoolName": null,
+    "url": "https://great-plain.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "greatheartstx",
     "schoolName": null,
     "url": "https://greatheartstx.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "greco",
+    "schoolName": null,
+    "url": "https://greco.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "green-valley-elementary-school",
     "schoolName": null,
     "url": "https://green-valley-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "greenbush-elementary3",
+    "schoolName": null,
+    "url": "https://greenbush-elementary3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -5985,6 +6677,12 @@
     "url": "https://greenmountainbears.typingclub.com"
   },
   {
+    "subdomain": "greenridge",
+    "schoolName": null,
+    "url": "https://greenridge.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "greenschool",
     "schoolName": null,
     "url": "https://greenschool.typingclub.com",
@@ -5994,6 +6692,12 @@
     "subdomain": "greentree",
     "schoolName": null,
     "url": "https://greentree.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "greentype",
+    "schoolName": null,
+    "url": "https://greentype.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6101,6 +6805,18 @@
     "url": "https://gsdacs.typingclub.com"
   },
   {
+    "subdomain": "gsesmc3",
+    "schoolName": null,
+    "url": "https://gsesmc3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "gssfrankfort",
+    "schoolName": null,
+    "url": "https://gssfrankfort.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "guadalupeschoolslc",
     "schoolName": null,
     "url": "https://guadalupeschoolslc.typingclub.com",
@@ -6130,15 +6846,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "gw-carver-elementary-academy",
+    "schoolName": null,
+    "url": "https://gw-carver-elementary-academy.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "gwlong-elementary",
+    "schoolName": null,
+    "url": "https://gwlong-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "gwright",
     "schoolName": null,
     "url": "https://gwright.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "hadleighcps",
+    "schoolName": null,
+    "url": "https://hadleighcps.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hadley-luzerne",
     "schoolName": "Hadley Luzerne Central School District",
     "url": "https://hadley-luzerne.typingclub.com"
+  },
+  {
+    "subdomain": "hagenjrhigh",
+    "schoolName": null,
+    "url": "https://hagenjrhigh.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "haigh-elementary",
@@ -6297,6 +7037,12 @@
     "url": "https://harrisonjuniorschool.typingclub.com"
   },
   {
+    "subdomain": "harry-russell",
+    "schoolName": null,
+    "url": "https://harry-russell.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "harterelem",
     "schoolName": null,
     "url": "https://harterelem.typingclub.com",
@@ -6311,6 +7057,12 @@
     "subdomain": "harvard-elementary",
     "schoolName": null,
     "url": "https://harvard-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "harvest-elementary",
+    "schoolName": null,
+    "url": "https://harvest-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6352,6 +7104,18 @@
     "subdomain": "havilandlaws",
     "schoolName": null,
     "url": "https://havilandlaws.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hawksrisefeijoo",
+    "schoolName": null,
+    "url": "https://hawksrisefeijoo.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hay-springs2",
+    "schoolName": null,
+    "url": "https://hay-springs2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6421,6 +7185,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "hcaeagles2018",
+    "schoolName": null,
+    "url": "https://hcaeagles2018.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hceacuna",
     "schoolName": null,
     "url": "https://hceacuna.typingclub.com",
@@ -6485,6 +7255,12 @@
     "subdomain": "henhudschools",
     "schoolName": null,
     "url": "https://henhudschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hennepin",
+    "schoolName": null,
+    "url": "https://hennepin.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6647,6 +7423,36 @@
     "url": "https://highroad-academy.typingclub.com"
   },
   {
+    "subdomain": "highroad-academy-grade-6",
+    "schoolName": null,
+    "url": "https://highroad-academy-grade-6.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "highroad-academy2",
+    "schoolName": null,
+    "url": "https://highroad-academy2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "highroadac",
+    "schoolName": null,
+    "url": "https://highroadac.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "highroadacademyschool",
+    "schoolName": null,
+    "url": "https://highroadacademyschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "highroadmrsmoisin",
+    "schoolName": null,
+    "url": "https://highroadmrsmoisin.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hildabarbour",
     "schoolName": "",
     "url": "https://hildabarbour.typingclub.com"
@@ -6695,6 +7501,12 @@
     "url": "https://hilo-union.typingclub.com"
   },
   {
+    "subdomain": "hinsdalebobcats",
+    "schoolName": null,
+    "url": "https://hinsdalebobcats.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hmsbps",
     "schoolName": null,
     "url": "https://hmsbps.typingclub.com",
@@ -6712,6 +7524,12 @@
     "url": "https://hoffman-boston.typingclub.com"
   },
   {
+    "subdomain": "hoh-hill",
+    "schoolName": null,
+    "url": "https://hoh-hill.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "holcomb-elementary",
     "schoolName": "Holcomb Elementary",
     "url": "https://holcomb-elementary.typingclub.com"
@@ -6720,6 +7538,12 @@
     "subdomain": "holden",
     "schoolName": null,
     "url": "https://holden.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "holland-brook",
+    "schoolName": null,
+    "url": "https://holland-brook.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6746,6 +7570,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "hollywood-hs-nma",
+    "schoolName": null,
+    "url": "https://hollywood-hs-nma.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "holomua",
     "schoolName": "Holomua Elementary School",
     "url": "https://holomua.typingclub.com"
@@ -6768,9 +7598,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "holy-familyparma",
+    "schoolName": null,
+    "url": "https://holy-familyparma.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "holy-rosary-catholic-school",
     "schoolName": null,
     "url": "https://holy-rosary-catholic-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "holy-spirit1",
+    "schoolName": null,
+    "url": "https://holy-spirit1.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6810,9 +7652,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "holynamemary",
+    "schoolName": null,
+    "url": "https://holynamemary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "holyrosaryws",
     "schoolName": null,
     "url": "https://holyrosaryws.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "honegger",
+    "schoolName": null,
+    "url": "https://honegger.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6847,6 +7701,12 @@
     "subdomain": "hopeman-primary",
     "schoolName": null,
     "url": "https://hopeman-primary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hopetrainingacademy",
+    "schoolName": null,
+    "url": "https://hopetrainingacademy.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6923,9 +7783,21 @@
     "url": "https://hpseagles.typingclub.com"
   },
   {
+    "subdomain": "hrcsd",
+    "schoolName": null,
+    "url": "https://hrcsd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hsanchezlakesk12inus",
     "schoolName": null,
     "url": "https://hsanchezlakesk12inus.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hswanson",
+    "schoolName": null,
+    "url": "https://hswanson.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -6949,6 +7821,18 @@
     "subdomain": "hueneme-alldistrict",
     "schoolName": "Hueneme School District",
     "url": "https://hueneme-alldistrict.typingclub.com"
+  },
+  {
+    "subdomain": "hugger-elementary-school",
+    "schoolName": null,
+    "url": "https://hugger-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "hugger-elementary2",
+    "schoolName": null,
+    "url": "https://hugger-elementary2.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "humboldt-park",
@@ -6990,6 +7874,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "hveshawks",
+    "schoolName": null,
+    "url": "https://hveshawks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hvetech",
     "schoolName": null,
     "url": "https://hvetech.typingclub.com",
@@ -7002,6 +7892,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "hwschools",
+    "schoolName": null,
+    "url": "https://hwschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "hymanfine",
     "schoolName": "Hyman Fine Elementary School",
     "url": "https://hymanfine.typingclub.com"
@@ -7010,6 +7906,12 @@
     "subdomain": "hyundai-foreign",
     "schoolName": "Hyundai Foreign School",
     "url": "https://hyundai-foreign.typingclub.com"
+  },
+  {
+    "subdomain": "hyweldda",
+    "schoolName": null,
+    "url": "https://hyweldda.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "iaajordan",
@@ -7031,6 +7933,12 @@
     "subdomain": "iccsd",
     "schoolName": null,
     "url": "https://iccsd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "icenhower",
+    "schoolName": null,
+    "url": "https://icenhower.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7065,6 +7973,12 @@
     "subdomain": "iftin",
     "schoolName": "Iftin Charter School",
     "url": "https://iftin.typingclub.com"
+  },
+  {
+    "subdomain": "igjsm",
+    "schoolName": null,
+    "url": "https://igjsm.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "ihills",
@@ -7115,6 +8029,12 @@
     "subdomain": "immaculate",
     "schoolName": null,
     "url": "https://immaculate.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "immanuel-lutheran6",
+    "schoolName": null,
+    "url": "https://immanuel-lutheran6.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7169,6 +8089,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "inspire-learning",
+    "schoolName": null,
+    "url": "https://inspire-learning.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "inspired-learning",
     "schoolName": null,
     "url": "https://inspired-learning.typingclub.com",
@@ -7181,9 +8107,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "international-school-of-sosua",
+    "schoolName": null,
+    "url": "https://international-school-of-sosua.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "internationalschoolsingapore",
     "schoolName": "international school of singapore",
     "url": "https://internationalschoolsingapore.typingclub.com"
+  },
+  {
+    "subdomain": "invictusacton",
+    "schoolName": null,
+    "url": "https://invictusacton.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "iolak12",
@@ -7229,6 +8167,12 @@
     "url": "https://isd-200.typingclub.com"
   },
   {
+    "subdomain": "isd362",
+    "schoolName": null,
+    "url": "https://isd362.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "isd748",
     "schoolName": null,
     "url": "https://isd748.typingclub.com",
@@ -7251,9 +8195,21 @@
     "url": "https://ispstt1.typingclub.com"
   },
   {
+    "subdomain": "iss-grade4",
+    "schoolName": null,
+    "url": "https://iss-grade4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "istclions",
     "schoolName": "Imagine School at Town Center",
     "url": "https://istclions.typingclub.com"
+  },
+  {
+    "subdomain": "ivy-drive",
+    "schoolName": null,
+    "url": "https://ivy-drive.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "izard-county",
@@ -7262,9 +8218,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "jac-cen-del",
+    "schoolName": null,
+    "url": "https://jac-cen-del.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "jackhayeselem",
     "schoolName": null,
     "url": "https://jackhayeselem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "jackson-elementary4",
+    "schoolName": null,
+    "url": "https://jackson-elementary4.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7312,9 +8280,21 @@
     "url": "https://jcfremont.typingclub.com"
   },
   {
+    "subdomain": "jcprimary",
+    "schoolName": null,
+    "url": "https://jcprimary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "jcsdsmne",
     "schoolName": null,
     "url": "https://jcsdsmne.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "jeffersonelem",
+    "schoolName": null,
+    "url": "https://jeffersonelem.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7340,6 +8320,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "jenison-christian",
+    "schoolName": null,
+    "url": "https://jenison-christian.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "jenkins1",
     "schoolName": null,
     "url": "https://jenkins1.typingclub.com",
@@ -7351,9 +8337,21 @@
     "url": "https://jeremy-ranch.typingclub.com"
   },
   {
+    "subdomain": "jfomps2",
+    "schoolName": null,
+    "url": "https://jfomps2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "jgmes",
     "schoolName": "Jeffreys Grove Elementary School",
     "url": "https://jgmes.typingclub.com"
+  },
+  {
+    "subdomain": "jh-moorelibrary",
+    "schoolName": null,
+    "url": "https://jh-moorelibrary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "jhmoore",
@@ -7377,6 +8375,18 @@
     "subdomain": "joeys-alstonville",
     "schoolName": null,
     "url": "https://joeys-alstonville.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "johann-pachelbel-realschule",
+    "schoolName": null,
+    "url": "https://johann-pachelbel-realschule.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "john-burroughs-elementary",
+    "schoolName": null,
+    "url": "https://john-burroughs-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7467,6 +8477,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "jovita21",
+    "schoolName": null,
+    "url": "https://jovita21.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "joynersjewels",
     "schoolName": "Olive Chapel Elementary School",
     "url": "https://joynersjewels.typingclub.com"
@@ -7481,6 +8497,18 @@
     "subdomain": "jramajo",
     "schoolName": null,
     "url": "https://jramajo.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "jrosene",
+    "schoolName": null,
+    "url": "https://jrosene.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "jsdmelrose",
+    "schoolName": null,
+    "url": "https://jsdmelrose.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7504,6 +8532,18 @@
     "subdomain": "juab-school",
     "schoolName": null,
     "url": "https://juab-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "juda-school",
+    "schoolName": null,
+    "url": "https://juda-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "judaelem",
+    "schoolName": null,
+    "url": "https://judaelem.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7601,6 +8641,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "katesclassos",
+    "schoolName": null,
+    "url": "https://katesclassos.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kaumana",
     "schoolName": null,
     "url": "https://kaumana.typingclub.com",
@@ -7640,9 +8686,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "kcselementary",
+    "schoolName": null,
+    "url": "https://kcselementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kdhsrams",
     "schoolName": "Kennard-Dale High School",
     "url": "https://kdhsrams.typingclub.com"
+  },
+  {
+    "subdomain": "keeling1",
+    "schoolName": null,
+    "url": "https://keeling1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "keene-elementary",
+    "schoolName": null,
+    "url": "https://keene-elementary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "keewatin-elementary",
@@ -7674,6 +8738,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "kelly-chelsea",
+    "schoolName": null,
+    "url": "https://kelly-chelsea.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kemptype",
     "schoolName": "Kemp Elementary School",
     "url": "https://kemptype.typingclub.com"
@@ -7696,9 +8766,75 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "kenmore-dplant",
+    "schoolName": null,
+    "url": "https://kenmore-dplant.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmore-el",
+    "schoolName": null,
+    "url": "https://kenmore-el.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmore-elementary",
+    "schoolName": null,
+    "url": "https://kenmore-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmore-elementary-wa",
+    "schoolName": null,
+    "url": "https://kenmore-elementary-wa.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmoreburris",
+    "schoolName": null,
+    "url": "https://kenmoreburris.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmoreburrows",
+    "schoolName": null,
+    "url": "https://kenmoreburrows.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmorecomstock",
+    "schoolName": null,
+    "url": "https://kenmorecomstock.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmorehanika",
+    "schoolName": null,
+    "url": "https://kenmorehanika.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmoremukai",
+    "schoolName": null,
+    "url": "https://kenmoremukai.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kenmoreplant",
+    "schoolName": null,
+    "url": "https://kenmoreplant.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kennedy-community",
     "schoolName": null,
     "url": "https://kennedy-community.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kennedy-elementary4",
+    "schoolName": null,
+    "url": "https://kennedy-elementary4.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7727,6 +8863,12 @@
     "subdomain": "kerrcomets",
     "schoolName": "Kerr Elementary",
     "url": "https://kerrcomets.typingclub.com"
+  },
+  {
+    "subdomain": "kerrynacademy",
+    "schoolName": null,
+    "url": "https://kerrynacademy.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "kershaw-intermediate",
@@ -7758,6 +8900,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "kihei-charter-elementary",
+    "schoolName": null,
+    "url": "https://kihei-charter-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "killearnlakes",
     "schoolName": null,
     "url": "https://killearnlakes.typingclub.com",
@@ -7776,9 +8924,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "kincaides",
+    "schoolName": null,
+    "url": "https://kincaides.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kings2",
     "schoolName": null,
     "url": "https://kings2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kingsbury-elementary",
+    "schoolName": null,
+    "url": "https://kingsbury-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -7809,6 +8969,12 @@
     "url": "https://kinkaidls.typingclub.com"
   },
   {
+    "subdomain": "kinn131",
+    "schoolName": null,
+    "url": "https://kinn131.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kinnikinnick-school",
     "schoolName": "Kinnikinnick School District",
     "url": "https://kinnikinnick-school.typingclub.com"
@@ -7817,6 +8983,18 @@
     "subdomain": "kippexplore",
     "schoolName": "KIPP Explore Academy",
     "url": "https://kippexplore.typingclub.com"
+  },
+  {
+    "subdomain": "kisbkk",
+    "schoolName": null,
+    "url": "https://kisbkk.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "kitchenerdiv11",
+    "schoolName": null,
+    "url": "https://kitchenerdiv11.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "kittson-centralelem",
@@ -7861,6 +9039,12 @@
     "url": "https://korea-international2.typingclub.com"
   },
   {
+    "subdomain": "kortt3",
+    "schoolName": null,
+    "url": "https://kortt3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "kosterkids",
     "schoolName": null,
     "url": "https://kosterkids.typingclub.com",
@@ -7875,6 +9059,12 @@
     "subdomain": "kruse",
     "schoolName": "Kruse Elementary",
     "url": "https://kruse.typingclub.com"
+  },
+  {
+    "subdomain": "kruse2",
+    "schoolName": null,
+    "url": "https://kruse2.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "kullerstrand",
@@ -7949,6 +9139,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "lake-city",
+    "schoolName": null,
+    "url": "https://lake-city.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lake-delton",
+    "schoolName": null,
+    "url": "https://lake-delton.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lake-park-elementary",
     "schoolName": "Lake Park Elementary",
     "url": "https://lake-park-elementary.typingclub.com"
@@ -7962,6 +9164,12 @@
     "subdomain": "lake-travis-ms",
     "schoolName": null,
     "url": "https://lake-travis-ms.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lakecity",
+    "schoolName": null,
+    "url": "https://lakecity.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8034,6 +9242,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "laues",
+    "schoolName": null,
+    "url": "https://laues.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "laura-macarthur",
     "schoolName": null,
     "url": "https://laura-macarthur.typingclub.com",
@@ -8043,6 +9257,12 @@
     "subdomain": "laurel1",
     "schoolName": "Laurel",
     "url": "https://laurel1.typingclub.com"
+  },
+  {
+    "subdomain": "lawton-elementary4",
+    "schoolName": null,
+    "url": "https://lawton-elementary4.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "lbcrs5th",
@@ -8078,6 +9298,12 @@
     "subdomain": "lcmpruim",
     "schoolName": "La Costa Meadows Elementary School",
     "url": "https://lcmpruim.typingclub.com"
+  },
+  {
+    "subdomain": "lcschool",
+    "schoolName": null,
+    "url": "https://lcschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "lcusd",
@@ -8122,6 +9348,12 @@
     "url": "https://leevining.typingclub.com"
   },
   {
+    "subdomain": "leevining5-6",
+    "schoolName": null,
+    "url": "https://leevining5-6.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "legacy-elementary",
     "schoolName": "Legacy Elementary",
     "url": "https://legacy-elementary.typingclub.com"
@@ -8137,6 +9369,18 @@
     "url": "https://legacyclc.typingclub.com"
   },
   {
+    "subdomain": "legacycs",
+    "schoolName": null,
+    "url": "https://legacycs.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "legacystudentmedia",
+    "schoolName": null,
+    "url": "https://legacystudentmedia.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "legend-springs",
     "schoolName": null,
     "url": "https://legend-springs.typingclub.com",
@@ -8146,6 +9390,12 @@
     "subdomain": "leipsic",
     "schoolName": "Leipsic Local School District",
     "url": "https://leipsic.typingclub.com"
+  },
+  {
+    "subdomain": "lemonade-school",
+    "schoolName": null,
+    "url": "https://lemonade-school.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "lemonroad",
@@ -8160,15 +9410,33 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "leonvision",
+    "schoolName": null,
+    "url": "https://leonvision.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lescubs",
     "schoolName": null,
     "url": "https://lescubs.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "lesfifthgradechancey",
+    "schoolName": null,
+    "url": "https://lesfifthgradechancey.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lesleopards",
     "schoolName": null,
     "url": "https://lesleopards.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "levittown-schools",
+    "schoolName": null,
+    "url": "https://levittown-schools.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8183,9 +9451,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "lewisburg-elementary-school",
+    "schoolName": null,
+    "url": "https://lewisburg-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lewiston",
     "schoolName": null,
     "url": "https://lewiston.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lewiswilliams",
+    "schoolName": null,
+    "url": "https://lewiswilliams.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lexington-elementary-school",
+    "schoolName": null,
+    "url": "https://lexington-elementary-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8223,6 +9509,12 @@
     "url": "https://liberty-center-elementary-school.typingclub.com"
   },
   {
+    "subdomain": "liberty-elementary-school",
+    "schoolName": null,
+    "url": "https://liberty-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "liberty-park",
     "schoolName": "Liberty Park Elementary",
     "url": "https://liberty-park.typingclub.com"
@@ -8241,6 +9533,12 @@
     "subdomain": "liberty2",
     "schoolName": "Liberty",
     "url": "https://liberty2.typingclub.com"
+  },
+  {
+    "subdomain": "libertyca",
+    "schoolName": null,
+    "url": "https://libertyca.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "libertymiddleschool",
@@ -8287,6 +9585,12 @@
     "url": "https://lincoln11.typingclub.com"
   },
   {
+    "subdomain": "lincolnel",
+    "schoolName": null,
+    "url": "https://lincolnel.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lincolnelementarynorman",
     "schoolName": null,
     "url": "https://lincolnelementarynorman.typingclub.com",
@@ -8296,6 +9600,12 @@
     "subdomain": "lincolngators",
     "schoolName": null,
     "url": "https://lincolngators.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lincolnkolea",
+    "schoolName": null,
+    "url": "https://lincolnkolea.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8402,6 +9712,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "loccs",
+    "schoolName": null,
+    "url": "https://loccs.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lockettelementary",
     "schoolName": "Lockett Elementary School",
     "url": "https://lockettelementary.typingclub.com"
@@ -8419,6 +9735,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "locust-fork3",
+    "schoolName": null,
+    "url": "https://locust-fork3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "locustvalleyschools",
     "schoolName": null,
     "url": "https://locustvalleyschools.typingclub.com",
@@ -8428,6 +9750,12 @@
     "subdomain": "lombardiarps",
     "schoolName": null,
     "url": "https://lombardiarps.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lomond-view3",
+    "schoolName": null,
+    "url": "https://lomond-view3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8444,6 +9772,18 @@
     "subdomain": "long-branch-elementary-school",
     "schoolName": null,
     "url": "https://long-branch-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "long-comp",
+    "schoolName": null,
+    "url": "https://long-comp.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "long-elementary",
+    "schoolName": null,
+    "url": "https://long-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8499,6 +9839,18 @@
     "url": "https://losaltos.typingclub.com"
   },
   {
+    "subdomain": "lostcreek",
+    "schoolName": null,
+    "url": "https://lostcreek.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "loudouncounty",
+    "schoolName": null,
+    "url": "https://loudouncounty.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "louer",
     "schoolName": null,
     "url": "https://louer.typingclub.com",
@@ -8518,6 +9870,12 @@
     "subdomain": "lpesnc",
     "schoolName": null,
     "url": "https://lpesnc.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "lpge4g",
+    "schoolName": null,
+    "url": "https://lpge4g.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8582,6 +9940,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "lwsd414",
+    "schoolName": null,
+    "url": "https://lwsd414.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lwstudent",
     "schoolName": null,
     "url": "https://lwstudent.typingclub.com",
@@ -8604,6 +9968,12 @@
     "url": "https://lymecsd.typingclub.com"
   },
   {
+    "subdomain": "lymeschool",
+    "schoolName": null,
+    "url": "https://lymeschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "lynchburg-city2",
     "schoolName": "Lynchburg City Schools",
     "url": "https://lynchburg-city2.typingclub.com"
@@ -8624,6 +9994,12 @@
     "subdomain": "lyonms",
     "schoolName": "W Mack Lyon Middle School",
     "url": "https://lyonms.typingclub.com"
+  },
+  {
+    "subdomain": "lyonsdecaturschools",
+    "schoolName": null,
+    "url": "https://lyonsdecaturschools.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "lyonsupper",
@@ -8655,6 +10031,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "madamebarnes",
+    "schoolName": null,
+    "url": "https://madamebarnes.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "madison-plains",
+    "schoolName": null,
+    "url": "https://madison-plains.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "madison-st",
     "schoolName": null,
     "url": "https://madison-st.typingclub.com",
@@ -8682,6 +10070,12 @@
     "url": "https://maidu.typingclub.com"
   },
   {
+    "subdomain": "maiduk1",
+    "schoolName": null,
+    "url": "https://maiduk1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "main-dunstable-1st-grade",
     "schoolName": null,
     "url": "https://main-dunstable-1st-grade.typingclub.com",
@@ -8694,9 +10088,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "main-elementary2nd",
+    "schoolName": null,
+    "url": "https://main-elementary2nd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "majbms",
     "schoolName": null,
     "url": "https://majbms.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "malden-elementary4",
+    "schoolName": null,
+    "url": "https://malden-elementary4.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8715,6 +10121,12 @@
     "url": "https://maltahighschool.typingclub.com"
   },
   {
+    "subdomain": "malvernprimary",
+    "schoolName": null,
+    "url": "https://malvernprimary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mandarin-chinese",
     "schoolName": "Mandarin Chinese LIMS",
     "url": "https://mandarin-chinese.typingclub.com"
@@ -8723,6 +10135,12 @@
     "subdomain": "mandarin-immersion-magnet",
     "schoolName": "Mandarin Immersion Magnet",
     "url": "https://mandarin-immersion-magnet.typingclub.com"
+  },
+  {
+    "subdomain": "manilautah",
+    "schoolName": null,
+    "url": "https://manilautah.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "mannelementary",
@@ -8760,6 +10178,24 @@
     "subdomain": "maple-avenue",
     "schoolName": null,
     "url": "https://maple-avenue.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mapleton-elementary",
+    "schoolName": null,
+    "url": "https://mapleton-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mares4",
+    "schoolName": null,
+    "url": "https://mares4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "margaretta-carey-elementary-school",
+    "schoolName": null,
+    "url": "https://margaretta-carey-elementary-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8803,6 +10239,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "marland-secondary-bideford",
+    "schoolName": null,
+    "url": "https://marland-secondary-bideford.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "marlboroschool",
     "schoolName": "Marlboro Elementary School",
     "url": "https://marlboroschool.typingclub.com"
@@ -8831,6 +10273,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "marshallmodesto",
+    "schoolName": null,
+    "url": "https://marshallmodesto.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "martens",
     "schoolName": "Salmon Creek Charter School",
     "url": "https://martens.typingclub.com"
@@ -8847,14 +10295,32 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "martic4thgrade",
+    "schoolName": null,
+    "url": "https://martic4thgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "martinsferrychristian",
     "schoolName": "Martins Ferry Christian Gradeschool",
     "url": "https://martinsferrychristian.typingclub.com"
   },
   {
+    "subdomain": "mary-jo",
+    "schoolName": null,
+    "url": "https://mary-jo.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mary-montgomery",
     "schoolName": null,
     "url": "https://mary-montgomery.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mary-r",
+    "schoolName": null,
+    "url": "https://mary-r.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8874,6 +10340,12 @@
     "url": "https://marysvillejusd.typingclub.com"
   },
   {
+    "subdomain": "marywardstp",
+    "schoolName": null,
+    "url": "https://marywardstp.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "masadaschool",
     "schoolName": "Masada Charter School",
     "url": "https://masadaschool.typingclub.com"
@@ -8887,6 +10359,12 @@
     "subdomain": "mason-leadership",
     "schoolName": null,
     "url": "https://mason-leadership.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mathesonpark",
+    "schoolName": null,
+    "url": "https://mathesonpark.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -8908,6 +10386,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "matthews-elementary4",
+    "schoolName": null,
+    "url": "https://matthews-elementary4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mattostype",
     "schoolName": null,
     "url": "https://mattostype.typingclub.com",
@@ -8923,6 +10407,12 @@
     "subdomain": "mauro",
     "schoolName": "HES and FES",
     "url": "https://mauro.typingclub.com"
+  },
+  {
+    "subdomain": "mauryk12",
+    "schoolName": null,
+    "url": "https://mauryk12.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "max-school",
@@ -8949,6 +10439,12 @@
     "subdomain": "mayhoward",
     "schoolName": "May Howard Elementary",
     "url": "https://mayhoward.typingclub.com"
+  },
+  {
+    "subdomain": "maynard",
+    "schoolName": null,
+    "url": "https://maynard.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "mayo-middle",
@@ -9101,6 +10597,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mckelem",
+    "schoolName": null,
+    "url": "https://mckelem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mckenzie",
     "schoolName": "Mr. McKenzie's Class",
     "url": "https://mckenzie.typingclub.com"
@@ -9116,6 +10618,12 @@
     "url": "https://mckinley-elementary3.typingclub.com"
   },
   {
+    "subdomain": "mckinley09",
+    "schoolName": null,
+    "url": "https://mckinley09.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mclean",
     "schoolName": null,
     "url": "https://mclean.typingclub.com",
@@ -9128,6 +10636,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mcnulty",
+    "schoolName": null,
+    "url": "https://mcnulty.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mcpasd",
     "schoolName": "Middleton-Cross Plains Area School District",
     "url": "https://mcpasd.typingclub.com"
@@ -9136,6 +10650,12 @@
     "subdomain": "mcpolin-elementary",
     "schoolName": null,
     "url": "https://mcpolin-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mcpsrussell",
+    "schoolName": null,
+    "url": "https://mcpsrussell.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9167,6 +10687,12 @@
     "url": "https://mdragons.typingclub.com"
   },
   {
+    "subdomain": "meador-elementary",
+    "schoolName": null,
+    "url": "https://meador-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "meadow-brook-elementary-school",
     "schoolName": null,
     "url": "https://meadow-brook-elementary-school.typingclub.com",
@@ -9182,6 +10708,12 @@
     "subdomain": "meadow-elementary2",
     "schoolName": null,
     "url": "https://meadow-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "meadowdale-middle",
+    "schoolName": null,
+    "url": "https://meadowdale-middle.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9206,6 +10738,12 @@
     "subdomain": "mefford",
     "schoolName": "West Woods Elementary School",
     "url": "https://mefford.typingclub.com"
+  },
+  {
+    "subdomain": "meganthird",
+    "schoolName": null,
+    "url": "https://meganthird.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "meigs-intermediate",
@@ -9239,6 +10777,24 @@
     "subdomain": "melville-elementary",
     "schoolName": "Melville Elementary School",
     "url": "https://melville-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "melville-elementary2",
+    "schoolName": null,
+    "url": "https://melville-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "melville-elementary3",
+    "schoolName": null,
+    "url": "https://melville-elementary3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "melville-school",
+    "schoolName": null,
+    "url": "https://melville-school.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "memorial-media",
@@ -9313,6 +10869,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "meswolves",
+    "schoolName": null,
+    "url": "https://meswolves.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "metcalf-elementary6",
     "schoolName": null,
     "url": "https://metcalf-elementary6.typingclub.com",
@@ -9356,6 +10918,12 @@
     "url": "https://middleton-elementary.typingclub.com"
   },
   {
+    "subdomain": "middleton-heights",
+    "schoolName": null,
+    "url": "https://middleton-heights.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "middleton735",
     "schoolName": "John Middleton Elementary School",
     "url": "https://middleton735.typingclub.com"
@@ -9369,6 +10937,12 @@
     "subdomain": "midland-high-school",
     "schoolName": null,
     "url": "https://midland-high-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "midlandcos",
+    "schoolName": null,
+    "url": "https://midlandcos.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9390,6 +10964,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "millcreek5",
+    "schoolName": null,
+    "url": "https://millcreek5.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mills-middle",
     "schoolName": null,
     "url": "https://mills-middle.typingclub.com",
@@ -9404,6 +10984,18 @@
     "subdomain": "milpitas-thaonguyen",
     "schoolName": "Milpitas Adult Education",
     "url": "https://milpitas-thaonguyen.typingclub.com"
+  },
+  {
+    "subdomain": "milton-cooper",
+    "schoolName": null,
+    "url": "https://milton-cooper.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mims5445",
+    "schoolName": null,
+    "url": "https://mims5445.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "minidoka",
@@ -9454,6 +11046,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "misshaangrade3-4",
+    "schoolName": null,
+    "url": "https://misshaangrade3-4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mission-bellroom10",
     "schoolName": null,
     "url": "https://mission-bellroom10.typingclub.com",
@@ -9493,15 +11091,45 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mittelschule-karlsfeld",
+    "schoolName": null,
+    "url": "https://mittelschule-karlsfeld.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mittelschule-schoellkrippen",
     "schoolName": null,
     "url": "https://mittelschule-schoellkrippen.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mittelschule-zellerau",
+    "schoolName": null,
+    "url": "https://mittelschule-zellerau.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mittelstufe-a",
+    "schoolName": null,
+    "url": "https://mittelstufe-a.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mlhslancers",
+    "schoolName": null,
+    "url": "https://mlhslancers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mmcru-remsen",
     "schoolName": null,
     "url": "https://mmcru-remsen.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mme-macey-reid",
+    "schoolName": null,
+    "url": "https://mme-macey-reid.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9581,9 +11209,39 @@
     "url": "https://montaukschool.typingclub.com"
   },
   {
+    "subdomain": "monteney-primary",
+    "schoolName": null,
+    "url": "https://monteney-primary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "montessoricentreacademy",
+    "schoolName": null,
+    "url": "https://montessoricentreacademy.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "montevistaca",
+    "schoolName": null,
+    "url": "https://montevistaca.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "montezuma-ia",
+    "schoolName": null,
+    "url": "https://montezuma-ia.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "monticello",
     "schoolName": "Monticello School District",
     "url": "https://monticello.typingclub.com"
+  },
+  {
+    "subdomain": "monticello-academy3",
+    "schoolName": null,
+    "url": "https://monticello-academy3.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "monticellopanthers",
@@ -9608,6 +11266,18 @@
     "url": "https://moodymiddleschool.typingclub.com"
   },
   {
+    "subdomain": "moorbrook-school3",
+    "schoolName": null,
+    "url": "https://moorbrook-school3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "moore",
+    "schoolName": null,
+    "url": "https://moore.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "moorestown",
     "schoolName": "Moorestown Schools",
     "url": "https://moorestown.typingclub.com"
@@ -9626,6 +11296,12 @@
     "subdomain": "moretownschoolvt",
     "schoolName": null,
     "url": "https://moretownschoolvt.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "morning-sun",
+    "schoolName": null,
+    "url": "https://morning-sun.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9746,6 +11422,12 @@
     "url": "https://moulsford-preparatory.typingclub.com"
   },
   {
+    "subdomain": "mount",
+    "schoolName": null,
+    "url": "https://mount.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mount-carmel-christian-school",
     "schoolName": null,
     "url": "https://mount-carmel-christian-school.typingclub.com",
@@ -9755,6 +11437,12 @@
     "subdomain": "mount-horeb",
     "schoolName": "Mount Horeb Area School District",
     "url": "https://mount-horeb.typingclub.com"
+  },
+  {
+    "subdomain": "mount-zion-christian-academy",
+    "schoolName": null,
+    "url": "https://mount-zion-christian-academy.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "mountainesd",
@@ -9784,6 +11472,18 @@
     "subdomain": "mountcarbon",
     "schoolName": null,
     "url": "https://mountcarbon.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mouseacookie",
+    "schoolName": null,
+    "url": "https://mouseacookie.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mpetns",
+    "schoolName": null,
+    "url": "https://mpetns.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9952,15 +11652,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mrbrantley",
+    "schoolName": null,
+    "url": "https://mrbrantley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mrcode",
     "schoolName": null,
     "url": "https://mrcode.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mremoe",
+    "schoolName": null,
+    "url": "https://mremoe.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mrgallagher",
     "schoolName": null,
     "url": "https://mrgallagher.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrgiorlando",
+    "schoolName": null,
+    "url": "https://mrgiorlando.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrhgrade4",
+    "schoolName": null,
+    "url": "https://mrhgrade4.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -9983,6 +11707,18 @@
     "subdomain": "mrpearse",
     "schoolName": "Palmer River Elementary School",
     "url": "https://mrpearse.typingclub.com"
+  },
+  {
+    "subdomain": "mrpeppers",
+    "schoolName": null,
+    "url": "https://mrpeppers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrpham",
+    "schoolName": null,
+    "url": "https://mrpham.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "mrs-halstater-media-center",
@@ -10052,6 +11788,12 @@
     "url": "https://mrsgraves.typingclub.com"
   },
   {
+    "subdomain": "mrsjennifersanchez",
+    "schoolName": null,
+    "url": "https://mrsjennifersanchez.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mrskatz",
     "schoolName": null,
     "url": "https://mrskatz.typingclub.com",
@@ -10067,6 +11809,12 @@
     "subdomain": "mrsmarhanka",
     "schoolName": null,
     "url": "https://mrsmarhanka.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrsmonroig",
+    "schoolName": null,
+    "url": "https://mrsmonroig.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10099,6 +11847,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mrssokolowski",
+    "schoolName": null,
+    "url": "https://mrssokolowski.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrssteege3rdgrade",
+    "schoolName": null,
+    "url": "https://mrssteege3rdgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mrsswindle",
     "schoolName": "Ethel Jones Elementary School",
     "url": "https://mrsswindle.typingclub.com"
@@ -10113,6 +11873,12 @@
     "subdomain": "mrstevens",
     "schoolName": null,
     "url": "https://mrstevens.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mrswalters",
+    "schoolName": null,
+    "url": "https://mrswalters.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10131,6 +11897,24 @@
     "subdomain": "ms-hs-141",
     "schoolName": null,
     "url": "https://ms-hs-141.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ms-klostertal",
+    "schoolName": null,
+    "url": "https://ms-klostertal.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ms-krb",
+    "schoolName": null,
+    "url": "https://ms-krb.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "msa-east",
+    "schoolName": null,
+    "url": "https://msa-east.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10185,9 +11969,39 @@
     "url": "https://msmelara.typingclub.com"
   },
   {
+    "subdomain": "msmos",
+    "schoolName": null,
+    "url": "https://msmos.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "msornelas",
     "schoolName": null,
     "url": "https://msornelas.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "msrastgrade3",
+    "schoolName": null,
+    "url": "https://msrastgrade3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "msrobinsoncook",
+    "schoolName": null,
+    "url": "https://msrobinsoncook.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mstaiskirchen",
+    "schoolName": null,
+    "url": "https://mstaiskirchen.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mstyping",
+    "schoolName": null,
+    "url": "https://mstyping.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10215,6 +12029,12 @@
     "subdomain": "mthics",
     "schoolName": null,
     "url": "https://mthics.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mtpsbraves",
+    "schoolName": null,
+    "url": "https://mtpsbraves.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10248,6 +12068,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mulvane-grade",
+    "schoolName": null,
+    "url": "https://mulvane-grade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mumford-elementaryk",
     "schoolName": null,
     "url": "https://mumford-elementaryk.typingclub.com",
@@ -10265,9 +12091,33 @@
     "url": "https://muriel-martin.typingclub.com"
   },
   {
+    "subdomain": "murray-chittick",
+    "schoolName": null,
+    "url": "https://murray-chittick.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "musson-elementary2",
+    "schoolName": null,
+    "url": "https://musson-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "mv-buffalos",
     "schoolName": null,
     "url": "https://mv-buffalos.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mvbtliberty",
+    "schoolName": null,
+    "url": "https://mvbtliberty.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "mves35",
+    "schoolName": null,
+    "url": "https://mves35.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10300,6 +12150,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "mwwelementary",
+    "schoolName": null,
+    "url": "https://mwwelementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "my-school-name",
     "schoolName": null,
     "url": "https://my-school-name.typingclub.com",
@@ -10323,6 +12179,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "narromine-christian",
+    "schoolName": null,
+    "url": "https://narromine-christian.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "nashville-primary",
     "schoolName": null,
     "url": "https://nashville-primary.typingclub.com",
@@ -10341,6 +12203,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "nbces",
+    "schoolName": null,
+    "url": "https://nbces.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "nbcook-elementary",
+    "schoolName": null,
+    "url": "https://nbcook-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "nbehumble",
     "schoolName": null,
     "url": "https://nbehumble.typingclub.com",
@@ -10352,9 +12226,27 @@
     "url": "https://nbtigers.typingclub.com"
   },
   {
+    "subdomain": "nc-elem",
+    "schoolName": null,
+    "url": "https://nc-elem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ncs206",
     "schoolName": null,
     "url": "https://ncs206.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ncsd",
+    "schoolName": null,
+    "url": "https://ncsd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ndlc3",
+    "schoolName": null,
+    "url": "https://ndlc3.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10444,6 +12336,24 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "new-georgia",
+    "schoolName": null,
+    "url": "https://new-georgia.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "new-haven-elementary",
+    "schoolName": null,
+    "url": "https://new-haven-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "new-windsor-auckland",
+    "schoolName": null,
+    "url": "https://new-windsor-auckland.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "new-york-mills-elementary-school",
     "schoolName": "New York Mills Elementary School",
     "url": "https://new-york-mills-elementary-school.typingclub.com"
@@ -10471,14 +12381,32 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "newdirections",
+    "schoolName": null,
+    "url": "https://newdirections.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "newfield-csd",
     "schoolName": "Newfield CSD",
     "url": "https://newfield-csd.typingclub.com"
   },
   {
+    "subdomain": "newfieldschool",
+    "schoolName": null,
+    "url": "https://newfieldschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "newfound",
     "schoolName": "Newfound Area School District",
     "url": "https://newfound.typingclub.com"
+  },
+  {
+    "subdomain": "newhtfd",
+    "schoolName": null,
+    "url": "https://newhtfd.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "newlifeacademy",
@@ -10507,6 +12435,12 @@
     "subdomain": "newton-school",
     "schoolName": null,
     "url": "https://newton-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "newtonchristianschool",
+    "schoolName": null,
+    "url": "https://newtonchristianschool.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10681,6 +12615,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "north-fayette",
+    "schoolName": null,
+    "url": "https://north-fayette.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "north-mor-elementary-school",
     "schoolName": "",
     "url": "https://north-mor-elementary-school.typingclub.com"
@@ -10712,6 +12652,12 @@
     "subdomain": "northern-adirondack",
     "schoolName": "Northern Adirondack",
     "url": "https://northern-adirondack.typingclub.com"
+  },
+  {
+    "subdomain": "northernmichiganchristian",
+    "schoolName": null,
+    "url": "https://northernmichiganchristian.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "northgreshamelementary",
@@ -10865,6 +12811,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "nptyping",
+    "schoolName": null,
+    "url": "https://nptyping.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "nrelonghorns",
     "schoolName": null,
     "url": "https://nrelonghorns.typingclub.com",
@@ -10876,6 +12828,12 @@
     "url": "https://nrheg.typingclub.com"
   },
   {
+    "subdomain": "ntca22",
+    "schoolName": null,
+    "url": "https://ntca22.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ntchristianschools",
     "schoolName": null,
     "url": "https://ntchristianschools.typingclub.com",
@@ -10885,6 +12843,12 @@
     "subdomain": "nuttall-middle",
     "schoolName": null,
     "url": "https://nuttall-middle.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "nuuanu2",
+    "schoolName": null,
+    "url": "https://nuuanu2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -10989,6 +12953,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "oakgroveschool",
+    "schoolName": null,
+    "url": "https://oakgroveschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "oakgroveschool220",
     "schoolName": null,
     "url": "https://oakgroveschool220.typingclub.com",
@@ -11000,9 +12970,21 @@
     "url": "https://oakhills-elementary-school.typingclub.com"
   },
   {
+    "subdomain": "oakridgees",
+    "schoolName": null,
+    "url": "https://oakridgees.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "oaks-elementary",
     "schoolName": null,
     "url": "https://oaks-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "oakviewowls",
+    "schoolName": null,
+    "url": "https://oakviewowls.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11077,6 +13059,12 @@
     "url": "https://olcacademy.typingclub.com"
   },
   {
+    "subdomain": "old-trail-school",
+    "schoolName": null,
+    "url": "https://old-trail-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "olgacademy-org",
     "schoolName": null,
     "url": "https://olgacademy-org.typingclub.com",
@@ -11129,6 +13117,12 @@
     "subdomain": "olofprimarytyping",
     "schoolName": null,
     "url": "https://olofprimarytyping.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "olphbak",
+    "schoolName": null,
+    "url": "https://olphbak.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11189,6 +13183,12 @@
     "url": "https://op-library.typingclub.com"
   },
   {
+    "subdomain": "opawa-school",
+    "schoolName": null,
+    "url": "https://opawa-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "orangesouthwest",
     "schoolName": null,
     "url": "https://orangesouthwest.typingclub.com",
@@ -11232,6 +13232,12 @@
     "subdomain": "oshkosh-area",
     "schoolName": null,
     "url": "https://oshkosh-area.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "osoyo",
+    "schoolName": null,
+    "url": "https://osoyo.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11324,6 +13330,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "padelford",
+    "schoolName": null,
+    "url": "https://padelford.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "page-elementary",
     "schoolName": "Page Elementary",
     "url": "https://page-elementary.typingclub.com"
@@ -11351,6 +13363,12 @@
     "url": "https://palmetto-elementary-school.typingclub.com"
   },
   {
+    "subdomain": "panguitch",
+    "schoolName": null,
+    "url": "https://panguitch.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "panguitch-middle",
     "schoolName": "",
     "url": "https://panguitch-middle.typingclub.com"
@@ -11376,6 +13394,18 @@
     "subdomain": "panther119",
     "schoolName": null,
     "url": "https://panther119.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "panthers2nd",
+    "schoolName": null,
+    "url": "https://panthers2nd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "papermill",
+    "schoolName": null,
+    "url": "https://papermill.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11410,6 +13440,12 @@
     "subdomain": "parkade",
     "schoolName": "Parkade Elementary School",
     "url": "https://parkade.typingclub.com"
+  },
+  {
+    "subdomain": "parkade-elementary-school",
+    "schoolName": null,
+    "url": "https://parkade-elementary-school.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "parkin",
@@ -11464,6 +13500,12 @@
     "subdomain": "parkway5thgrade",
     "schoolName": null,
     "url": "https://parkway5thgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "parkwood-elementary2",
+    "schoolName": null,
+    "url": "https://parkwood-elementary2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11546,6 +13588,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "pcf-academy",
+    "schoolName": null,
+    "url": "https://pcf-academy.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "pcm",
     "schoolName": null,
     "url": "https://pcm.typingclub.com",
@@ -11610,6 +13658,12 @@
     "url": "https://pebblebrook-high.typingclub.com"
   },
   {
+    "subdomain": "pebblebrook-high4",
+    "schoolName": null,
+    "url": "https://pebblebrook-high4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "pecatonica-elementary",
     "schoolName": "Pecatonica  School",
     "url": "https://pecatonica-elementary.typingclub.com"
@@ -11654,6 +13708,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "pennmanorthompson4th",
+    "schoolName": null,
+    "url": "https://pennmanorthompson4th.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "pennridge",
     "schoolName": "Pennridge School District",
     "url": "https://pennridge.typingclub.com"
@@ -11667,6 +13727,12 @@
     "subdomain": "pequot186",
     "schoolName": null,
     "url": "https://pequot186.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "perezelementary",
+    "schoolName": null,
+    "url": "https://perezelementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11753,6 +13819,12 @@
     "url": "https://pgtigers.typingclub.com"
   },
   {
+    "subdomain": "pham5",
+    "schoolName": null,
+    "url": "https://pham5.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "phelps-county-r-3",
     "schoolName": "Phelps County R-3",
     "url": "https://phelps-county-r-3.typingclub.com"
@@ -11763,9 +13835,27 @@
     "url": "https://phelpscor3.typingclub.com"
   },
   {
+    "subdomain": "phoenix-charter",
+    "schoolName": null,
+    "url": "https://phoenix-charter.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "phoenixms",
     "schoolName": null,
     "url": "https://phoenixms.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "phshoneywellstudents",
+    "schoolName": null,
+    "url": "https://phshoneywellstudents.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "piedmontmiddle",
+    "schoolName": null,
+    "url": "https://piedmontmiddle.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11778,6 +13868,12 @@
     "subdomain": "pilgrim-lutheran",
     "schoolName": "Pilgrim Lutheran School",
     "url": "https://pilgrim-lutheran.typingclub.com"
+  },
+  {
+    "subdomain": "pine-city",
+    "schoolName": null,
+    "url": "https://pine-city.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "pine-grove2",
@@ -11815,6 +13911,12 @@
     "subdomain": "piner-olivet-union",
     "schoolName": "Piner-Olivet Union School District",
     "url": "https://piner-olivet-union.typingclub.com"
+  },
+  {
+    "subdomain": "pingry",
+    "schoolName": null,
+    "url": "https://pingry.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "pinnacleprepschool",
@@ -11870,6 +13972,18 @@
     "subdomain": "placeprescott",
     "schoolName": "PLACE@Prescott",
     "url": "https://placeprescott.typingclub.com"
+  },
+  {
+    "subdomain": "plain-elementary-school",
+    "schoolName": null,
+    "url": "https://plain-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "plainwellschools",
+    "schoolName": null,
+    "url": "https://plainwellschools.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "planada",
@@ -11952,9 +14066,21 @@
     "url": "https://polkd7.typingclub.com"
   },
   {
+    "subdomain": "polktypes",
+    "schoolName": null,
+    "url": "https://polktypes.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "pomonahope",
     "schoolName": null,
     "url": "https://pomonahope.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ponteb",
+    "schoolName": null,
+    "url": "https://ponteb.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11963,9 +14089,21 @@
     "url": "https://pontiac-academy.typingclub.com"
   },
   {
+    "subdomain": "poolesville-elementary123",
+    "schoolName": null,
+    "url": "https://poolesville-elementary123.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "poplar-springs",
     "schoolName": null,
     "url": "https://poplar-springs.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "popps-ferry-elementary",
+    "schoolName": null,
+    "url": "https://popps-ferry-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -11996,6 +14134,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "potter",
+    "schoolName": null,
+    "url": "https://potter.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "potter-road29",
     "schoolName": null,
     "url": "https://potter-road29.typingclub.com",
@@ -12016,6 +14160,12 @@
     "subdomain": "powelles",
     "schoolName": null,
     "url": "https://powelles.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "powellesva",
+    "schoolName": null,
+    "url": "https://powellesva.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12093,9 +14243,33 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "prestonms",
+    "schoolName": null,
+    "url": "https://prestonms.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "primbauma",
+    "schoolName": null,
+    "url": "https://primbauma.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "primrose-hill",
     "schoolName": null,
     "url": "https://primrose-hill.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "progressions-kids",
+    "schoolName": null,
+    "url": "https://progressions-kids.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "projectschool",
+    "schoolName": null,
+    "url": "https://projectschool.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12108,6 +14282,12 @@
     "subdomain": "prospect-valley",
     "schoolName": "Prospect Valley Elementary School",
     "url": "https://prospect-valley.typingclub.com"
+  },
+  {
+    "subdomain": "providence-hall",
+    "schoolName": null,
+    "url": "https://providence-hall.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "providence-public",
@@ -12166,15 +14346,33 @@
     "url": "https://ps103.typingclub.com"
   },
   {
+    "subdomain": "ps166tech",
+    "schoolName": null,
+    "url": "https://ps166tech.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ps181q",
     "schoolName": null,
     "url": "https://ps181q.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ps343cls",
+    "schoolName": null,
+    "url": "https://ps343cls.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ps48m",
     "schoolName": null,
     "url": "https://ps48m.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "ps91q",
+    "schoolName": null,
+    "url": "https://ps91q.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12289,6 +14487,24 @@
     "url": "https://qcusd.typingclub.com"
   },
   {
+    "subdomain": "qnkjxx",
+    "schoolName": null,
+    "url": "https://qnkjxx.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "qofhschool",
+    "schoolName": null,
+    "url": "https://qofhschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "qsiszn",
+    "schoolName": null,
+    "url": "https://qsiszn.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "quakerridge",
     "schoolName": "",
     "url": "https://quakerridge.typingclub.com"
@@ -12373,6 +14589,12 @@
     "url": "https://rancho-romero.typingclub.com"
   },
   {
+    "subdomain": "raquel-pena",
+    "schoolName": null,
+    "url": "https://raquel-pena.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ravenswood",
     "schoolName": null,
     "url": "https://ravenswood.typingclub.com",
@@ -12430,6 +14652,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "reamstown-elementary",
+    "schoolName": null,
+    "url": "https://reamstown-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "red-arrow-elementary-school",
     "schoolName": null,
     "url": "https://red-arrow-elementary-school.typingclub.com",
@@ -12464,9 +14692,21 @@
     "url": "https://reddingschools.typingclub.com"
   },
   {
+    "subdomain": "redeemer-baptist-school",
+    "schoolName": null,
+    "url": "https://redeemer-baptist-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "redfield-elementary",
     "schoolName": "Redfield Elementary School",
     "url": "https://redfield-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "redhill",
+    "schoolName": null,
+    "url": "https://redhill.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "redland-elementary",
@@ -12491,9 +14731,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "reid-traditional",
+    "schoolName": null,
+    "url": "https://reid-traditional.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "renathink",
     "schoolName": null,
     "url": "https://renathink.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "renville-county",
+    "schoolName": null,
+    "url": "https://renville-county.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "reppart",
+    "schoolName": null,
+    "url": "https://reppart.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12506,6 +14764,12 @@
     "subdomain": "resowls",
     "schoolName": "Richardson Elementary",
     "url": "https://resowls.typingclub.com"
+  },
+  {
+    "subdomain": "reyn-rhes",
+    "schoolName": null,
+    "url": "https://reyn-rhes.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "rfrost",
@@ -12522,6 +14786,12 @@
     "subdomain": "rheem4th5thgr",
     "schoolName": null,
     "url": "https://rheem4th5thgr.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "rheem5th",
+    "schoolName": null,
+    "url": "https://rheem5th.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12596,6 +14866,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "riggs-elementary",
+    "schoolName": null,
+    "url": "https://riggs-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "riggs-elementary2",
     "schoolName": null,
     "url": "https://riggs-elementary2.typingclub.com",
@@ -12614,9 +14890,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ripley",
+    "schoolName": null,
+    "url": "https://ripley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ripley-middle-school",
     "schoolName": "Ripley Middle School",
     "url": "https://ripley-middle-school.typingclub.com"
+  },
+  {
+    "subdomain": "ripley-middle-tn",
+    "schoolName": null,
+    "url": "https://ripley-middle-tn.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "ririebulldogs",
@@ -12624,9 +14912,21 @@
     "url": "https://ririebulldogs.typingclub.com"
   },
   {
+    "subdomain": "risechart",
+    "schoolName": null,
+    "url": "https://risechart.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "rises",
     "schoolName": "Ruamrudee International School",
     "url": "https://rises.typingclub.com"
+  },
+  {
+    "subdomain": "rittman-elementary",
+    "schoolName": null,
+    "url": "https://rittman-elementary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "rivendell",
@@ -12649,6 +14949,12 @@
     "subdomain": "riveredge",
     "schoolName": "River Edge",
     "url": "https://riveredge.typingclub.com"
+  },
+  {
+    "subdomain": "rivermill",
+    "schoolName": null,
+    "url": "https://rivermill.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "riverside-elementary4",
@@ -12691,6 +14997,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "riviera-hall",
+    "schoolName": null,
+    "url": "https://riviera-hall.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "rlasd",
     "schoolName": null,
     "url": "https://rlasd.typingclub.com",
@@ -12705,6 +15017,12 @@
     "subdomain": "rmscape",
     "schoolName": "Robinswood Middle School",
     "url": "https://rmscape.typingclub.com"
+  },
+  {
+    "subdomain": "robe-primary",
+    "schoolName": null,
+    "url": "https://robe-primary.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "robert-h2",
@@ -12744,6 +15062,12 @@
     "subdomain": "rock-creek-community-academy",
     "schoolName": "Rock Creek Community Academy",
     "url": "https://rock-creek-community-academy.typingclub.com"
+  },
+  {
+    "subdomain": "rockboro",
+    "schoolName": null,
+    "url": "https://rockboro.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "rocket",
@@ -12834,6 +15158,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "room519bears",
+    "schoolName": null,
+    "url": "https://room519bears.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "rooney-ranch20",
     "schoolName": null,
     "url": "https://rooney-ranch20.typingclub.com",
@@ -12849,6 +15179,12 @@
     "subdomain": "roose-elementary",
     "schoolName": null,
     "url": "https://roose-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "rooseprimary",
+    "schoolName": null,
+    "url": "https://rooseprimary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12918,6 +15254,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "rps",
+    "schoolName": null,
+    "url": "https://rps.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "rramos",
     "schoolName": null,
     "url": "https://rramos.typingclub.com",
@@ -12949,6 +15291,12 @@
     "subdomain": "rsu12",
     "schoolName": null,
     "url": "https://rsu12.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "rsu22",
+    "schoolName": null,
+    "url": "https://rsu22.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -12992,9 +15340,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "rupert-elementary4",
+    "schoolName": null,
+    "url": "https://rupert-elementary4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "rusd",
     "schoolName": "Racine Unified School District",
     "url": "https://rusd.typingclub.com"
+  },
+  {
+    "subdomain": "rushhsps",
+    "schoolName": null,
+    "url": "https://rushhsps.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "russell-street-school",
@@ -13006,6 +15366,12 @@
     "subdomain": "russellglenloch",
     "schoolName": "Glen Loch Elementary School",
     "url": "https://russellglenloch.typingclub.com"
+  },
+  {
+    "subdomain": "russellstreetschool",
+    "schoolName": null,
+    "url": "https://russellstreetschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "rutherford",
@@ -13031,6 +15397,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "rvtype",
+    "schoolName": null,
+    "url": "https://rvtype.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "ryland-heights",
     "schoolName": null,
     "url": "https://ryland-heights.typingclub.com",
@@ -13040,6 +15412,12 @@
     "subdomain": "s4",
     "schoolName": "",
     "url": "https://s4.typingclub.com"
+  },
+  {
+    "subdomain": "sabalpalm",
+    "schoolName": null,
+    "url": "https://sabalpalm.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "sabinpps",
@@ -13082,6 +15460,12 @@
     "subdomain": "saddle-ridge",
     "schoolName": "Saddle Ridge Elementary and Middle",
     "url": "https://saddle-ridge.typingclub.com"
+  },
+  {
+    "subdomain": "saddlerock",
+    "schoolName": null,
+    "url": "https://saddlerock.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "sage-elementary",
@@ -13159,6 +15543,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "saintmatts",
+    "schoolName": null,
+    "url": "https://saintmatts.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "saintmichael",
     "schoolName": "Saint Michael School",
     "url": "https://saintmichael.typingclub.com"
@@ -13189,6 +15579,12 @@
     "subdomain": "salem-drivek",
     "schoolName": null,
     "url": "https://salem-drivek.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "salina",
+    "schoolName": null,
+    "url": "https://salina.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13270,6 +15666,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "sant-josep",
+    "schoolName": null,
+    "url": "https://sant-josep.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "santiagoevangelista",
     "schoolName": null,
     "url": "https://santiagoevangelista.typingclub.com",
@@ -13279,6 +15681,12 @@
     "subdomain": "sardillingen",
     "schoolName": null,
     "url": "https://sardillingen.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "sastype",
+    "schoolName": null,
+    "url": "https://sastype.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13397,6 +15805,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "schools",
+    "schoolName": null,
+    "url": "https://schools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "schoolstasb",
+    "schoolName": null,
+    "url": "https://schoolstasb.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "schreiberelem",
     "schoolName": null,
     "url": "https://schreiberelem.typingclub.com",
@@ -13439,6 +15859,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "scott-elem",
+    "schoolName": null,
+    "url": "https://scott-elem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "scottcity",
     "schoolName": "Scott City Elementary",
     "url": "https://scottcity.typingclub.com"
@@ -13461,6 +15887,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "scsvt",
+    "schoolName": null,
+    "url": "https://scsvt.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "scucisd",
     "schoolName": null,
     "url": "https://scucisd.typingclub.com",
@@ -13472,15 +15904,33 @@
     "url": "https://sd34-asiasumas.typingclub.com"
   },
   {
+    "subdomain": "sdcsmobile",
+    "schoolName": null,
+    "url": "https://sdcsmobile.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sealey-elementary",
     "schoolName": null,
     "url": "https://sealey-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "seals",
+    "schoolName": null,
+    "url": "https://seals.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sealyisd",
     "schoolName": null,
     "url": "https://sealyisd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "seapcastroville",
+    "schoolName": null,
+    "url": "https://seapcastroville.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13512,9 +15962,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "serrania-comp",
+    "schoolName": null,
+    "url": "https://serrania-comp.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "serraniacharter",
     "schoolName": null,
     "url": "https://serraniacharter.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "serraniacomp",
+    "schoolName": null,
+    "url": "https://serraniacomp.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13527,6 +15989,12 @@
     "subdomain": "setigers",
     "schoolName": "Seneca East Local Schools",
     "url": "https://setigers.typingclub.com"
+  },
+  {
+    "subdomain": "seton-catholic-schools-peosta-center",
+    "schoolName": null,
+    "url": "https://seton-catholic-schools-peosta-center.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "sevenoaks",
@@ -13544,6 +16012,12 @@
     "url": "https://seward.typingclub.com"
   },
   {
+    "subdomain": "seymour-library",
+    "schoolName": null,
+    "url": "https://seymour-library.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sfacorry",
     "schoolName": null,
     "url": "https://sfacorry.typingclub.com",
@@ -13558,6 +16032,12 @@
     "subdomain": "sfdslions",
     "schoolName": "St. Francis de Sales Catholic School",
     "url": "https://sfdslions.typingclub.com"
+  },
+  {
+    "subdomain": "sfepiphany",
+    "schoolName": null,
+    "url": "https://sfepiphany.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "sfoakselem",
@@ -13583,9 +16063,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "shakopee",
+    "schoolName": null,
+    "url": "https://shakopee.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "shamp",
     "schoolName": null,
     "url": "https://shamp.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "shamrockstype",
+    "schoolName": null,
+    "url": "https://shamrockstype.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13603,6 +16095,18 @@
     "subdomain": "sharks",
     "schoolName": null,
     "url": "https://sharks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "sharon-city",
+    "schoolName": null,
+    "url": "https://sharon-city.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "sharon-city-elementary",
+    "schoolName": null,
+    "url": "https://sharon-city-elementary.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13638,6 +16142,12 @@
     "url": "https://sheldonmiddle.typingclub.com"
   },
   {
+    "subdomain": "shelley-seamons",
+    "schoolName": null,
+    "url": "https://shelley-seamons.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "shelton-elem",
     "schoolName": null,
     "url": "https://shelton-elem.typingclub.com",
@@ -13647,6 +16157,12 @@
     "subdomain": "sheltoness",
     "schoolName": "Shelton",
     "url": "https://sheltoness.typingclub.com"
+  },
+  {
+    "subdomain": "sheltonview",
+    "schoolName": null,
+    "url": "https://sheltonview.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "shelyn",
@@ -13662,6 +16178,12 @@
     "subdomain": "shepherd-elementary",
     "schoolName": null,
     "url": "https://shepherd-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "shepherd-middle",
+    "schoolName": null,
+    "url": "https://shepherd-middle.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13730,9 +16252,27 @@
     "url": "https://shubelopolis.typingclub.com"
   },
   {
+    "subdomain": "shuckahoseesquad",
+    "schoolName": null,
+    "url": "https://shuckahoseesquad.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "shuey-room9-beltran",
+    "schoolName": null,
+    "url": "https://shuey-room9-beltran.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "shuey-sharks",
     "schoolName": null,
     "url": "https://shuey-sharks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "shuey26",
+    "schoolName": null,
+    "url": "https://shuey26.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13742,9 +16282,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "siaht",
+    "schoolName": null,
+    "url": "https://siaht.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sibleyelem",
     "schoolName": null,
     "url": "https://sibleyelem.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "sierra-blanca",
+    "schoolName": null,
+    "url": "https://sierra-blanca.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13787,6 +16339,12 @@
     "url": "https://silojh.typingclub.com"
   },
   {
+    "subdomain": "silverspur",
+    "schoolName": null,
+    "url": "https://silverspur.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "simsbury",
     "schoolName": null,
     "url": "https://simsbury.typingclub.com",
@@ -13802,6 +16360,12 @@
     "subdomain": "singer-hs",
     "schoolName": "Singer High School",
     "url": "https://singer-hs.typingclub.com"
+  },
+  {
+    "subdomain": "singinghills",
+    "schoolName": null,
+    "url": "https://singinghills.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "sintaugustinusbrakeltype4deleerjaar",
@@ -13838,6 +16402,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "sjbbobcats",
+    "schoolName": null,
+    "url": "https://sjbbobcats.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sjdr3-5",
     "schoolName": null,
     "url": "https://sjdr3-5.typingclub.com",
@@ -13866,9 +16436,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "sjs-4",
+    "schoolName": null,
+    "url": "https://sjs-4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sjsaloh",
     "schoolName": null,
     "url": "https://sjsaloh.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "sjsfl",
+    "schoolName": null,
+    "url": "https://sjsfl.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13900,6 +16482,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "skerbetz-lhs",
+    "schoolName": null,
+    "url": "https://skerbetz-lhs.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "skillin",
     "schoolName": "Skillin Elementary School",
     "url": "https://skillin.typingclub.com"
@@ -13913,6 +16501,12 @@
     "subdomain": "skyhawks",
     "schoolName": null,
     "url": "https://skyhawks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "slatergator",
+    "schoolName": null,
+    "url": "https://slatergator.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -13967,6 +16561,12 @@
     "url": "https://smcgovern.typingclub.com"
   },
   {
+    "subdomain": "smcm3",
+    "schoolName": null,
+    "url": "https://smcm3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "smcst",
     "schoolName": "St. Mary's Catholic School Taylor",
     "url": "https://smcst.typingclub.com"
@@ -14008,6 +16608,12 @@
     "subdomain": "smslaa2",
     "schoolName": null,
     "url": "https://smslaa2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "smsmrg",
+    "schoolName": null,
+    "url": "https://smsmrg.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14138,6 +16744,12 @@
     "url": "https://southeastpolk.typingclub.com"
   },
   {
+    "subdomain": "southern-ute",
+    "schoolName": null,
+    "url": "https://southern-ute.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "southernbobcats",
     "schoolName": null,
     "url": "https://southernbobcats.typingclub.com",
@@ -14179,6 +16791,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "southshore",
+    "schoolName": null,
+    "url": "https://southshore.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "southwest-elementary",
     "schoolName": "Southwest Elementary",
     "url": "https://southwest-elementary.typingclub.com"
@@ -14198,6 +16816,12 @@
     "subdomain": "spa-2",
     "schoolName": "SPA",
     "url": "https://spa-2.typingclub.com"
+  },
+  {
+    "subdomain": "spaldingcatholic",
+    "schoolName": null,
+    "url": "https://spaldingcatholic.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "spangler",
@@ -14273,6 +16897,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "springfield-township",
+    "schoolName": null,
+    "url": "https://springfield-township.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "springgrove",
     "schoolName": "Spring Grove",
     "url": "https://springgrove.typingclub.com"
@@ -14290,6 +16920,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "spxelementaryrey",
+    "schoolName": null,
+    "url": "https://spxelementaryrey.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sr-elem",
     "schoolName": null,
     "url": "https://sr-elem.typingclub.com",
@@ -14299,6 +16935,12 @@
     "subdomain": "srcreek",
     "schoolName": "South Rock Creek School District Co 32",
     "url": "https://srcreek.typingclub.com"
+  },
+  {
+    "subdomain": "srlschool",
+    "schoolName": null,
+    "url": "https://srlschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "srrstorm",
@@ -14443,6 +17085,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "st-joseph-baraboo",
+    "schoolName": null,
+    "url": "https://st-joseph-baraboo.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "st-josephs-college",
     "schoolName": null,
     "url": "https://st-josephs-college.typingclub.com",
@@ -14475,6 +17123,18 @@
     "url": "https://st-mark-catholic-school.typingclub.com"
   },
   {
+    "subdomain": "st-martins-catholic-school",
+    "schoolName": null,
+    "url": "https://st-martins-catholic-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-mary-school2",
+    "schoolName": null,
+    "url": "https://st-mary-school2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "st-marys-ic",
     "schoolName": null,
     "url": "https://st-marys-ic.typingclub.com",
@@ -14484,6 +17144,12 @@
     "subdomain": "st-marysjm-baldock",
     "schoolName": "St Mary's Junior School Baldock",
     "url": "https://st-marysjm-baldock.typingclub.com"
+  },
+  {
+    "subdomain": "st-mel-school",
+    "schoolName": null,
+    "url": "https://st-mel-school.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "st-michael4",
@@ -14540,6 +17206,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "st-rose4",
+    "schoolName": null,
+    "url": "https://st-rose4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephen-martyr-school",
+    "schoolName": null,
+    "url": "https://st-stephen-martyr-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "st-stephen-middle-school",
     "schoolName": null,
     "url": "https://st-stephen-middle-school.typingclub.com",
@@ -14549,6 +17227,36 @@
     "subdomain": "st-stephens-ce-primary-school",
     "schoolName": null,
     "url": "https://st-stephens-ce-primary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephens-primary-school-year-3",
+    "schoolName": null,
+    "url": "https://st-stephens-primary-school-year-3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephens-primary-school-year-4",
+    "schoolName": null,
+    "url": "https://st-stephens-primary-school-year-4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephens-primary-school-year-5",
+    "schoolName": null,
+    "url": "https://st-stephens-primary-school-year-5.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephens-primary-school-year-6",
+    "schoolName": null,
+    "url": "https://st-stephens-primary-school-year-6.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "st-stephens-year-2",
+    "schoolName": null,
+    "url": "https://st-stephens-year-2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14570,6 +17278,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "st-wilfrids-church-of-england-primary-academy",
+    "schoolName": null,
+    "url": "https://st-wilfrids-church-of-england-primary-academy.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "st1",
     "schoolName": "",
     "url": "https://st1.typingclub.com"
@@ -14578,6 +17292,12 @@
     "subdomain": "stafford-obrien",
     "schoolName": "Stafford Primary School",
     "url": "https://stafford-obrien.typingclub.com"
+  },
+  {
+    "subdomain": "stagnesschool",
+    "schoolName": null,
+    "url": "https://stagnesschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "staidanschool",
@@ -14595,6 +17315,12 @@
     "subdomain": "stameliaschool",
     "schoolName": null,
     "url": "https://stameliaschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "standrewslc",
+    "schoolName": null,
+    "url": "https://standrewslc.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14631,14 +17357,44 @@
     "url": "https://staredu.typingclub.com"
   },
   {
+    "subdomain": "static3",
+    "schoolName": null,
+    "url": "https://static3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "staugustine-of-canterbury",
+    "schoolName": null,
+    "url": "https://staugustine-of-canterbury.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "staugustinschool",
     "schoolName": "St. Augustin School",
     "url": "https://staugustinschool.typingclub.com"
   },
   {
+    "subdomain": "stbensf3",
+    "schoolName": null,
+    "url": "https://stbensf3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "steckstars",
     "schoolName": "Steck Elementary",
     "url": "https://steckstars.typingclub.com"
+  },
+  {
+    "subdomain": "stedman-library",
+    "schoolName": null,
+    "url": "https://stedman-library.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stedward2024",
+    "schoolName": null,
+    "url": "https://stedward2024.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "steele-district11",
@@ -14680,9 +17436,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "stem-lab",
+    "schoolName": null,
+    "url": "https://stem-lab.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "stenersen",
     "schoolName": null,
     "url": "https://stenersen.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stephanie-yorek",
+    "schoolName": null,
+    "url": "https://stephanie-yorek.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14703,6 +17471,36 @@
     "url": "https://stevensonms.typingclub.com"
   },
   {
+    "subdomain": "stgregory",
+    "schoolName": null,
+    "url": "https://stgregory.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stillhart",
+    "schoolName": null,
+    "url": "https://stillhart.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stillwater-christian-school",
+    "schoolName": null,
+    "url": "https://stillwater-christian-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stillwater-township-school-district",
+    "schoolName": null,
+    "url": "https://stillwater-township-school-district.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stjamesgulfport",
+    "schoolName": null,
+    "url": "https://stjamesgulfport.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "stjameshaubstadt",
     "schoolName": "St. James Catholic School",
     "url": "https://stjameshaubstadt.typingclub.com"
@@ -14717,6 +17515,12 @@
     "subdomain": "stjohnbaptist",
     "schoolName": null,
     "url": "https://stjohnbaptist.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stjohnbeloved",
+    "schoolName": null,
+    "url": "https://stjohnbeloved.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14758,6 +17562,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "stmarkswttn",
+    "schoolName": null,
+    "url": "https://stmarkswttn.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "stmarthaschool",
     "schoolName": "St. Martha School",
     "url": "https://stmarthaschool.typingclub.com"
@@ -14766,6 +17576,18 @@
     "subdomain": "stmartins",
     "schoolName": null,
     "url": "https://stmartins.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stmartinsepiscopal",
+    "schoolName": null,
+    "url": "https://stmartinsepiscopal.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stmary-stthomas",
+    "schoolName": null,
+    "url": "https://stmary-stthomas.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14784,6 +17606,12 @@
     "subdomain": "stmarysgreensburg",
     "schoolName": "St. Mary's School",
     "url": "https://stmarysgreensburg.typingclub.com"
+  },
+  {
+    "subdomain": "stmarysluxemburg",
+    "schoolName": null,
+    "url": "https://stmarysluxemburg.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "stmatthewtigers",
@@ -14846,9 +17674,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "stoneridgeschool",
+    "schoolName": null,
+    "url": "https://stoneridgeschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "stonevalleyccs",
     "schoolName": "Stone Valley Community Charter School",
     "url": "https://stonevalleyccs.typingclub.com"
+  },
+  {
+    "subdomain": "stoneypine",
+    "schoolName": null,
+    "url": "https://stoneypine.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "stoningtonschools",
@@ -14870,6 +17710,12 @@
     "subdomain": "stormlake",
     "schoolName": null,
     "url": "https://stormlake.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stpatricksoneida",
+    "schoolName": null,
+    "url": "https://stpatricksoneida.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14922,6 +17768,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "strathaird-primary",
+    "schoolName": null,
+    "url": "https://strathaird-primary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "straymond",
     "schoolName": "Cathedral of St. Raymond",
     "url": "https://straymond.typingclub.com"
@@ -14930,6 +17782,12 @@
     "subdomain": "strettonhandley",
     "schoolName": null,
     "url": "https://strettonhandley.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "strickland2",
+    "schoolName": null,
+    "url": "https://strickland2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14944,9 +17802,33 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "stthomasday",
+    "schoolName": null,
+    "url": "https://stthomasday.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stuart-mesa",
+    "schoolName": null,
+    "url": "https://stuart-mesa.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "stuartbathurst",
     "schoolName": null,
     "url": "https://stuartbathurst.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stuarts-draft-elementary-school",
+    "schoolName": null,
+    "url": "https://stuarts-draft-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "stuckey",
+    "schoolName": null,
+    "url": "https://stuckey.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14959,6 +17841,12 @@
     "subdomain": "studio25",
     "schoolName": null,
     "url": "https://studio25.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "studley",
+    "schoolName": null,
+    "url": "https://studley.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -14983,6 +17871,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "sufferncentral",
+    "schoolName": null,
+    "url": "https://sufferncentral.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "sugar-land",
     "schoolName": null,
     "url": "https://sugar-land.typingclub.com",
@@ -15001,6 +17895,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "summersvilleelementary",
+    "schoolName": null,
+    "url": "https://summersvilleelementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "summitcove",
     "schoolName": "Summit Cove Elementary",
     "url": "https://summitcove.typingclub.com"
@@ -15009,6 +17909,12 @@
     "subdomain": "summitelementary123",
     "schoolName": null,
     "url": "https://summitelementary123.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "summitms",
+    "schoolName": null,
+    "url": "https://summitms.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15048,6 +17954,18 @@
     "url": "https://suntek.typingclub.com"
   },
   {
+    "subdomain": "sunvalleyschool",
+    "schoolName": null,
+    "url": "https://sunvalleyschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "superior-school",
+    "schoolName": null,
+    "url": "https://superior-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "suwanneeprimary",
     "schoolName": null,
     "url": "https://suwanneeprimary.typingclub.com",
@@ -15072,6 +17990,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "svsabers",
+    "schoolName": null,
+    "url": "https://svsabers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "svusdk12",
     "schoolName": "Silver Valley USD",
     "url": "https://svusdk12.typingclub.com"
@@ -15091,6 +18015,18 @@
     "subdomain": "swaink12nc",
     "schoolName": "Swain County Schools",
     "url": "https://swaink12nc.typingclub.com"
+  },
+  {
+    "subdomain": "swainschool",
+    "schoolName": null,
+    "url": "https://swainschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "swallow-school2",
+    "schoolName": null,
+    "url": "https://swallow-school2.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "swan-hills-school",
@@ -15129,6 +18065,12 @@
     "url": "https://swjcs.typingclub.com"
   },
   {
+    "subdomain": "swpschools",
+    "schoolName": null,
+    "url": "https://swpschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "tablem",
     "schoolName": "Table Mound Elementary School",
     "url": "https://tablem.typingclub.com"
@@ -15137,6 +18079,12 @@
     "subdomain": "tacoma",
     "schoolName": null,
     "url": "https://tacoma.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "taconic-hills",
+    "schoolName": null,
+    "url": "https://taconic-hills.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15171,6 +18119,12 @@
     "subdomain": "tanglentigers",
     "schoolName": null,
     "url": "https://tanglentigers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tanglin-trust",
+    "schoolName": null,
+    "url": "https://tanglin-trust.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15211,6 +18165,24 @@
     "url": "https://tartans.typingclub.com"
   },
   {
+    "subdomain": "tarver-elementary-school",
+    "schoolName": null,
+    "url": "https://tarver-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tassajarahills-stockman",
+    "schoolName": null,
+    "url": "https://tassajarahills-stockman.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tavellielementary",
+    "schoolName": null,
+    "url": "https://tavellielementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "taylor-elementary4",
     "schoolName": null,
     "url": "https://taylor-elementary4.typingclub.com",
@@ -15220,6 +18192,18 @@
     "subdomain": "taylorsvilleelementary",
     "schoolName": null,
     "url": "https://taylorsvilleelementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tcswarriors",
+    "schoolName": null,
+    "url": "https://tcswarriors.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "teague2",
+    "schoolName": null,
+    "url": "https://teague2.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15285,9 +18269,21 @@
     "url": "https://tes-charlotte.typingclub.com"
   },
   {
+    "subdomain": "tescomputer",
+    "schoolName": null,
+    "url": "https://tescomputer.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "tesdtyping",
     "schoolName": "Tredyffrin-Easttown School District",
     "url": "https://tesdtyping.typingclub.com"
+  },
+  {
+    "subdomain": "tfpst",
+    "schoolName": null,
+    "url": "https://tfpst.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "tgrove",
@@ -15298,6 +18294,12 @@
     "subdomain": "thai-international-school",
     "schoolName": null,
     "url": "https://thai-international-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "thaynetype",
+    "schoolName": null,
+    "url": "https://thaynetype.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15340,9 +18342,21 @@
     "url": "https://the-priory.typingclub.com"
   },
   {
+    "subdomain": "the-watershed",
+    "schoolName": null,
+    "url": "https://the-watershed.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "thebirchschool",
     "schoolName": null,
     "url": "https://thebirchschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "thecarmelschool",
+    "schoolName": null,
+    "url": "https://thecarmelschool.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15358,9 +18372,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "thesccs",
+    "schoolName": null,
+    "url": "https://thesccs.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "thesrocks",
+    "schoolName": null,
+    "url": "https://thesrocks.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "thesummit",
+    "schoolName": null,
+    "url": "https://thesummit.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "thetford",
     "schoolName": "Orange east",
     "url": "https://thetford.typingclub.com"
+  },
+  {
+    "subdomain": "third-ward",
+    "schoolName": null,
+    "url": "https://third-ward.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "thirkill",
+    "schoolName": null,
+    "url": "https://thirkill.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "thomas-fleming",
@@ -15398,6 +18442,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "thoreau2031",
+    "schoolName": null,
+    "url": "https://thoreau2031.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "thoreau2032",
     "schoolName": null,
     "url": "https://thoreau2032.typingclub.com",
@@ -15412,6 +18462,12 @@
     "subdomain": "threeriversschool",
     "schoolName": "Three Rivers School",
     "url": "https://threeriversschool.typingclub.com"
+  },
+  {
+    "subdomain": "thronson",
+    "schoolName": null,
+    "url": "https://thronson.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "thursonmiddle-school",
@@ -15457,6 +18513,12 @@
     "subdomain": "timothychristian",
     "schoolName": null,
     "url": "https://timothychristian.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "timpacademy",
+    "schoolName": null,
+    "url": "https://timpacademy.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15564,6 +18626,24 @@
     "url": "https://tkschools.typingclub.com"
   },
   {
+    "subdomain": "tlsgi",
+    "schoolName": null,
+    "url": "https://tlsgi.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tmcalister",
+    "schoolName": null,
+    "url": "https://tmcalister.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tmint",
+    "schoolName": null,
+    "url": "https://tmint.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "tom-green",
     "schoolName": null,
     "url": "https://tom-green.typingclub.com",
@@ -15585,6 +18665,12 @@
     "url": "https://topercer.typingclub.com"
   },
   {
+    "subdomain": "toppers",
+    "schoolName": null,
+    "url": "https://toppers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "torahday",
     "schoolName": null,
     "url": "https://torahday.typingclub.com",
@@ -15597,9 +18683,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "torrensvps",
+    "schoolName": null,
+    "url": "https://torrensvps.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "torreypines",
     "schoolName": "Torrey Pines Elementary School",
     "url": "https://torreypines.typingclub.com"
+  },
+  {
+    "subdomain": "tournament-hills",
+    "schoolName": null,
+    "url": "https://tournament-hills.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "toweringoaks",
+    "schoolName": null,
+    "url": "https://toweringoaks.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "trafalgar-elementary",
@@ -15645,6 +18749,18 @@
     "url": "https://trentlottacademy.typingclub.com"
   },
   {
+    "subdomain": "triangleschool",
+    "schoolName": null,
+    "url": "https://triangleschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "trinity-lutheran",
+    "schoolName": null,
+    "url": "https://trinity-lutheran.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "trinitycatholicjh",
     "schoolName": "Trinity Catholic School",
     "url": "https://trinitycatholicjh.typingclub.com"
@@ -15662,6 +18778,18 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "tritones",
+    "schoolName": null,
+    "url": "https://tritones.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "triway-school",
+    "schoolName": null,
+    "url": "https://triway-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "truman-elem",
     "schoolName": "Truman Elem.",
     "url": "https://truman-elem.typingclub.com"
@@ -15676,6 +18804,12 @@
     "subdomain": "trusd",
     "schoolName": null,
     "url": "https://trusd.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "tsas-second-graders",
+    "schoolName": null,
+    "url": "https://tsas-second-graders.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15703,6 +18837,12 @@
     "subdomain": "tukwila-elementary",
     "schoolName": "Tukwila Elementary School",
     "url": "https://tukwila-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "tulelake-basin",
+    "schoolName": null,
+    "url": "https://tulelake-basin.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "tupelo-high",
@@ -15781,6 +18921,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "typingclub",
+    "schoolName": null,
+    "url": "https://typingclub.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "typingclub.com",
     "schoolName": "",
     "url": "https://typingclub.com.typingclub.com",
@@ -15835,6 +18981,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "uniongrove1",
+    "schoolName": null,
+    "url": "https://uniongrove1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "unit10",
     "schoolName": null,
     "url": "https://unit10.typingclub.com",
@@ -15853,9 +19005,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "unity-west",
+    "schoolName": null,
+    "url": "https://unity-west.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "unityeast",
     "schoolName": "Unity East Elementary",
     "url": "https://unityeast.typingclub.com"
+  },
+  {
+    "subdomain": "unityprimaryschool",
+    "schoolName": null,
+    "url": "https://unityprimaryschool.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "upark",
@@ -15905,6 +19069,12 @@
     "subdomain": "usd350",
     "schoolName": null,
     "url": "https://usd350.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "usd394",
+    "schoolName": null,
+    "url": "https://usd394.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -15968,15 +19138,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "van-brunt-elementary",
+    "schoolName": null,
+    "url": "https://van-brunt-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "van-meter",
+    "schoolName": null,
+    "url": "https://van-meter.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "vanarsdale",
     "schoolName": null,
     "url": "https://vanarsdale.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "vanasit",
+    "schoolName": null,
+    "url": "https://vanasit.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "vanderhoof-elementary4",
     "schoolName": null,
     "url": "https://vanderhoof-elementary4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "vanguard",
+    "schoolName": null,
+    "url": "https://vanguard.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16001,6 +19195,12 @@
     "url": "https://vbes-typing.typingclub.com"
   },
   {
+    "subdomain": "vbglencoe",
+    "schoolName": null,
+    "url": "https://vbglencoe.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "vces-school",
     "schoolName": null,
     "url": "https://vces-school.typingclub.com",
@@ -16012,9 +19212,21 @@
     "url": "https://vcsnavigators.typingclub.com"
   },
   {
+    "subdomain": "venetuccielm",
+    "schoolName": null,
+    "url": "https://venetuccielm.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "verdugo-woodlands-elementary-school",
     "schoolName": "Verdugo Woodlands Elementary School",
     "url": "https://verdugo-woodlands-elementary-school.typingclub.com"
+  },
+  {
+    "subdomain": "veritysclassos",
+    "schoolName": null,
+    "url": "https://veritysclassos.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "verona",
@@ -16027,9 +19239,21 @@
     "url": "https://vestal.typingclub.com"
   },
   {
+    "subdomain": "vharkins",
+    "schoolName": null,
+    "url": "https://vharkins.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "vicarstownnationalschool",
     "schoolName": null,
     "url": "https://vicarstownnationalschool.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "victor-mravlag",
+    "schoolName": null,
+    "url": "https://victor-mravlag.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16042,6 +19266,12 @@
     "subdomain": "vid",
     "schoolName": "",
     "url": "https://vid.typingclub.com"
+  },
+  {
+    "subdomain": "viking-middle",
+    "schoolName": null,
+    "url": "https://viking-middle.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "village-gate-childrens-academy",
@@ -16063,6 +19293,12 @@
     "subdomain": "villagetypes",
     "schoolName": "Gorham School Department",
     "url": "https://villagetypes.typingclub.com"
+  },
+  {
+    "subdomain": "vinal-schoolnolan",
+    "schoolName": null,
+    "url": "https://vinal-schoolnolan.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "vista-academy",
@@ -16117,6 +19353,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "vwndlc",
+    "schoolName": null,
+    "url": "https://vwndlc.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "w-csd",
     "schoolName": null,
     "url": "https://w-csd.typingclub.com",
@@ -16144,9 +19386,21 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "wailuku",
+    "schoolName": null,
+    "url": "https://wailuku.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "waite-park",
     "schoolName": "",
     "url": "https://waite-park.typingclub.com"
+  },
+  {
+    "subdomain": "waitsburg",
+    "schoolName": null,
+    "url": "https://waitsburg.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "wakefield-elementary",
@@ -16161,6 +19415,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "wall5thgrade",
+    "schoolName": null,
+    "url": "https://wall5thgrade.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wallace-public",
     "schoolName": null,
     "url": "https://wallace-public.typingclub.com",
@@ -16170,6 +19430,12 @@
     "subdomain": "wallinelementarycalvert",
     "schoolName": "Shirley and Bill Wallin Elementary Schl",
     "url": "https://wallinelementarycalvert.typingclub.com"
+  },
+  {
+    "subdomain": "waltech",
+    "schoolName": null,
+    "url": "https://waltech.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "waltham",
@@ -16183,9 +19449,27 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "ward-middle-school",
+    "schoolName": null,
+    "url": "https://ward-middle-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "warder",
     "schoolName": "Warder Elementary School",
     "url": "https://warder.typingclub.com"
+  },
+  {
+    "subdomain": "warner3",
+    "schoolName": null,
+    "url": "https://warner3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "warrenschoolvt",
+    "schoolName": null,
+    "url": "https://warrenschoolvt.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "warroad-elem",
@@ -16196,6 +19480,18 @@
     "subdomain": "warroad-elementary",
     "schoolName": "Warroad Elementary School",
     "url": "https://warroad-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "wasatch-elementary123",
+    "schoolName": null,
+    "url": "https://wasatch-elementary123.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "washboroschools",
+    "schoolName": null,
+    "url": "https://washboroschools.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "washington-district50",
@@ -16209,6 +19505,24 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "washington-protogiannis",
+    "schoolName": null,
+    "url": "https://washington-protogiannis.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "washington-stateblind",
+    "schoolName": null,
+    "url": "https://washington-stateblind.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "washingtonbc",
+    "schoolName": null,
+    "url": "https://washingtonbc.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "washingtonusd",
     "schoolName": "Washington Unified School District",
     "url": "https://washingtonusd.typingclub.com"
@@ -16217,6 +19531,12 @@
     "subdomain": "washwildcats",
     "schoolName": "Washington Elementary, Santa Barbara Unified",
     "url": "https://washwildcats.typingclub.com"
+  },
+  {
+    "subdomain": "watdux",
+    "schoolName": null,
+    "url": "https://watdux.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "waters",
@@ -16251,6 +19571,12 @@
     "url": "https://waughsd.typingclub.com"
   },
   {
+    "subdomain": "waukeeschools",
+    "schoolName": null,
+    "url": "https://waukeeschools.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "waukena-elementary-school",
     "schoolName": null,
     "url": "https://waukena-elementary-school.typingclub.com",
@@ -16268,6 +19594,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "waynewood",
+    "schoolName": null,
+    "url": "https://waynewood.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wcavitt",
     "schoolName": "Wilma Cavitt Junior High",
     "url": "https://wcavitt.typingclub.com"
@@ -16276,6 +19608,18 @@
     "subdomain": "wcc-ws",
     "schoolName": null,
     "url": "https://wcc-ws.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wces-media",
+    "schoolName": null,
+    "url": "https://wces-media.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wcsdny",
+    "schoolName": null,
+    "url": "https://wcsdny.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16293,6 +19637,18 @@
     "subdomain": "wcskids",
     "schoolName": null,
     "url": "https://wcskids.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wcsmiami",
+    "schoolName": null,
+    "url": "https://wcsmiami.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wcss-ics",
+    "schoolName": null,
+    "url": "https://wcss-ics.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16336,6 +19692,24 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "wellington-unified",
+    "schoolName": null,
+    "url": "https://wellington-unified.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wellsville-elementary2",
+    "schoolName": null,
+    "url": "https://wellsville-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "welovebigwords",
+    "schoolName": null,
+    "url": "https://welovebigwords.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wembury-primary",
     "schoolName": null,
     "url": "https://wembury-primary.typingclub.com",
@@ -16358,14 +19732,44 @@
     "url": "https://wendell-phillips.typingclub.com"
   },
   {
+    "subdomain": "werner-elementary2",
+    "schoolName": null,
+    "url": "https://werner-elementary2.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wes1234",
+    "schoolName": null,
+    "url": "https://wes1234.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wesmillard",
     "schoolName": "Carter G Woodson Elementary",
     "url": "https://wesmillard.typingclub.com"
   },
   {
+    "subdomain": "wesroyals",
+    "schoolName": null,
+    "url": "https://wesroyals.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "west-elem-wford",
     "schoolName": "West Elementary--Weatherford, OK",
     "url": "https://west-elem-wford.typingclub.com"
+  },
+  {
+    "subdomain": "west-gatessmith",
+    "schoolName": null,
+    "url": "https://west-gatessmith.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "west-genesee",
+    "schoolName": null,
+    "url": "https://west-genesee.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "west-haverstraw",
@@ -16400,15 +19804,39 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "west-point",
+    "schoolName": null,
+    "url": "https://west-point.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "west-point-middle-school",
     "schoolName": null,
     "url": "https://west-point-middle-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
+    "subdomain": "west-prairie",
+    "schoolName": null,
+    "url": "https://west-prairie.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "west-riverside3",
+    "schoolName": null,
+    "url": "https://west-riverside3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "west-woods",
     "schoolName": null,
     "url": "https://west-woods.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "west-woods-elementary-school",
+    "schoolName": null,
+    "url": "https://west-woods-elementary-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16445,6 +19873,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "westelementary",
+    "schoolName": null,
+    "url": "https://westelementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "westernelementary",
     "schoolName": null,
     "url": "https://westernelementary.typingclub.com",
@@ -16476,6 +19910,42 @@
     "subdomain": "westhaven",
     "schoolName": "West Haven Elementary School",
     "url": "https://westhaven.typingclub.com"
+  },
+  {
+    "subdomain": "westhill-elementary4",
+    "schoolName": null,
+    "url": "https://westhill-elementary4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "westhill19",
+    "schoolName": null,
+    "url": "https://westhill19.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "westhillhinton",
+    "schoolName": null,
+    "url": "https://westhillhinton.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "westhillmcwayne",
+    "schoolName": null,
+    "url": "https://westhillmcwayne.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "westhillroom12",
+    "schoolName": null,
+    "url": "https://westhillroom12.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "westhillwhitehill",
+    "schoolName": null,
+    "url": "https://westhillwhitehill.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "westholtps",
@@ -16528,6 +19998,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "westwoods-pierce",
+    "schoolName": null,
+    "url": "https://westwoods-pierce.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wetumka",
     "schoolName": "Wetumka High School",
     "url": "https://wetumka.typingclub.com"
@@ -16565,6 +20041,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "wheatridge",
+    "schoolName": null,
+    "url": "https://wheatridge.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wheelersburg-pirates",
     "schoolName": "Wheelersburg K8",
     "url": "https://wheelersburg-pirates.typingclub.com"
@@ -16573,6 +20055,12 @@
     "subdomain": "whipple-heights-elementary-school",
     "schoolName": null,
     "url": "https://whipple-heights-elementary-school.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "white-lake",
+    "schoolName": null,
+    "url": "https://white-lake.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16590,6 +20078,12 @@
     "subdomain": "white-pine-elementary",
     "schoolName": null,
     "url": "https://white-pine-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "white-street-school",
+    "schoolName": null,
+    "url": "https://white-street-school.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16619,6 +20113,30 @@
     "subdomain": "whitinsvillecs",
     "schoolName": "Whitinsville Christian School",
     "url": "https://whitinsvillecs.typingclub.com"
+  },
+  {
+    "subdomain": "whittier-international3",
+    "schoolName": null,
+    "url": "https://whittier-international3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "whittier-international4",
+    "schoolName": null,
+    "url": "https://whittier-international4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "whmelton",
+    "schoolName": null,
+    "url": "https://whmelton.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wigoltingen",
+    "schoolName": null,
+    "url": "https://wigoltingen.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "wildcat",
@@ -16652,6 +20170,12 @@
     "url": "https://willardmo.typingclub.com"
   },
   {
+    "subdomain": "william-roberts4",
+    "schoolName": null,
+    "url": "https://william-roberts4.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "williston-stewart",
     "schoolName": "Williston Central School",
     "url": "https://williston-stewart.typingclub.com"
@@ -16662,9 +20186,27 @@
     "url": "https://willistonschools.typingclub.com"
   },
   {
+    "subdomain": "willow-woods",
+    "schoolName": null,
+    "url": "https://willow-woods.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "willowbrook-elementary3",
+    "schoolName": null,
+    "url": "https://willowbrook-elementary3.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "willowtigers",
     "schoolName": null,
     "url": "https://willowtigers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wills-blog",
+    "schoolName": null,
+    "url": "https://wills-blog.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16706,9 +20248,27 @@
     "url": "https://winchester-village.typingclub.com"
   },
   {
+    "subdomain": "winchester-village1",
+    "schoolName": null,
+    "url": "https://winchester-village1.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "windlake",
     "schoolName": "Seeds of Health-Windlake Elementary",
     "url": "https://windlake.typingclub.com"
+  },
+  {
+    "subdomain": "windsor-writing",
+    "schoolName": null,
+    "url": "https://windsor-writing.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wing-public-school",
+    "schoolName": null,
+    "url": "https://wing-public-school.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "winnetka",
@@ -16722,6 +20282,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "winston-churchill",
+    "schoolName": null,
+    "url": "https://winston-churchill.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "winston-churchill-elementary-school",
     "schoolName": "Winston Churchill Elementary School",
     "url": "https://winston-churchill-elementary-school.typingclub.com"
@@ -16732,14 +20298,38 @@
     "url": "https://winterhaven.typingclub.com"
   },
   {
+    "subdomain": "winters-elementary",
+    "schoolName": null,
+    "url": "https://winters-elementary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "winthrop-hwschools",
     "schoolName": "Winthrop Elementary School",
     "url": "https://winthrop-hwschools.typingclub.com"
   },
   {
+    "subdomain": "wisct",
+    "schoolName": null,
+    "url": "https://wisct.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wisdom-lane",
+    "schoolName": null,
+    "url": "https://wisdom-lane.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wistjohnsneillsville",
     "schoolName": null,
     "url": "https://wistjohnsneillsville.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wjmcareers",
+    "schoolName": null,
+    "url": "https://wjmcareers.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16751,6 +20341,12 @@
     "subdomain": "wocotigers",
     "schoolName": null,
     "url": "https://wocotigers.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wogacademy",
+    "schoolName": null,
+    "url": "https://wogacademy.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16783,6 +20379,36 @@
     "subdomain": "woodbury",
     "schoolName": "Woodbury",
     "url": "https://woodbury.typingclub.com"
+  },
+  {
+    "subdomain": "woodin-kapovich",
+    "schoolName": null,
+    "url": "https://woodin-kapovich.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "woodinbennett",
+    "schoolName": null,
+    "url": "https://woodinbennett.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "woodinjette",
+    "schoolName": null,
+    "url": "https://woodinjette.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "woodinratti",
+    "schoolName": null,
+    "url": "https://woodinratti.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "woodinspencer",
+    "schoolName": null,
+    "url": "https://woodinspencer.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "woodlandjcs",
@@ -16847,6 +20473,12 @@
     "url": "https://wsd.typingclub.com"
   },
   {
+    "subdomain": "wsrwessel",
+    "schoolName": null,
+    "url": "https://wsrwessel.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "wsvcs",
     "schoolName": null,
     "url": "https://wsvcs.typingclub.com",
@@ -16862,6 +20494,12 @@
     "subdomain": "wtisburyschool",
     "schoolName": "West Tisbury School",
     "url": "https://wtisburyschool.typingclub.com"
+  },
+  {
+    "subdomain": "wvgrade5",
+    "schoolName": null,
+    "url": "https://wvgrade5.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "wvtigers",
@@ -16894,6 +20532,18 @@
     "subdomain": "wynantskill",
     "schoolName": null,
     "url": "https://wynantskill.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wyncote-library",
+    "schoolName": null,
+    "url": "https://wyncote-library.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "wynne-intermediate",
+    "schoolName": null,
+    "url": "https://wynne-intermediate.typingclub.com",
     "source": "commoncrawl"
   },
   {
@@ -16971,6 +20621,12 @@
     "url": "https://youngamericanscorporation.typingclub.com"
   },
   {
+    "subdomain": "youngs-grove",
+    "schoolName": null,
+    "url": "https://youngs-grove.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "youtz-leadership",
     "schoolName": null,
     "url": "https://youtz-leadership.typingclub.com",
@@ -16983,6 +20639,12 @@
     "source": "commoncrawl"
   },
   {
+    "subdomain": "zachary",
+    "schoolName": null,
+    "url": "https://zachary.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
     "subdomain": "zacharyschools",
     "schoolName": "Zachary Community School District",
     "url": "https://zacharyschools.typingclub.com"
@@ -16991,6 +20653,12 @@
     "subdomain": "zachfc",
     "schoolName": "",
     "url": "https://zachfc.typingclub.com"
+  },
+  {
+    "subdomain": "zbachertstplmunstercom",
+    "schoolName": null,
+    "url": "https://zbachertstplmunstercom.typingclub.com",
+    "source": "commoncrawl"
   },
   {
     "subdomain": "zeeland",
@@ -17017,6 +20685,18 @@
     "subdomain": "zionlutheran",
     "schoolName": null,
     "url": "https://zionlutheran.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "zs-terezy-stolzove",
+    "schoolName": null,
+    "url": "https://zs-terezy-stolzove.typingclub.com",
+    "source": "commoncrawl"
+  },
+  {
+    "subdomain": "zuniga",
+    "schoolName": null,
+    "url": "https://zuniga.typingclub.com",
     "source": "commoncrawl"
   }
 ]
