@@ -1,7 +1,7 @@
 [
   {
     "subdomain": "179msk",
-    "schoolName": null,
+    "schoolName": "School 179, Moscow",
     "url": "https://179msk.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -10,7 +10,7 @@
   },
   {
     "subdomain": "1stgrade",
-    "schoolName": null,
+    "schoolName": "Paca",
     "url": "https://1stgrade.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -19,7 +19,7 @@
   },
   {
     "subdomain": "2floydes",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://2floydes.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -38,7 +38,7 @@
   },
   {
     "subdomain": "3buckingham",
-    "schoolName": null,
+    "schoolName": "Ottawa Elementary School District #141 - Jefferson School",
     "url": "https://3buckingham.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -47,7 +47,7 @@
   },
   {
     "subdomain": "3g-dr",
-    "schoolName": null,
+    "schoolName": "3G Dr Hamman",
     "url": "https://3g-dr.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -66,7 +66,7 @@
   },
   {
     "subdomain": "3ghbttwisters",
-    "schoolName": null,
+    "schoolName": "Howard B Thomas Grade School",
     "url": "https://3ghbttwisters.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -75,7 +75,7 @@
   },
   {
     "subdomain": "3gleafs",
-    "schoolName": null,
+    "schoolName": "R M Millikin Elementary School",
     "url": "https://3gleafs.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -84,7 +84,7 @@
   },
   {
     "subdomain": "443dcms",
-    "schoolName": null,
+    "schoolName": "Dodge City Middle School",
     "url": "https://443dcms.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -93,7 +93,7 @@
   },
   {
     "subdomain": "49online",
-    "schoolName": null,
+    "schoolName": "Ps-IS 49 Dorothy Bonawit Kole School",
     "url": "https://49online.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -102,7 +102,7 @@
   },
   {
     "subdomain": "4f1920",
-    "schoolName": null,
+    "schoolName": "4F 2019-20",
     "url": "https://4f1920.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -111,7 +111,7 @@
   },
   {
     "subdomain": "4rcdcehh",
-    "schoolName": null,
+    "schoolName": "4RCDC",
     "url": "https://4rcdcehh.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -120,7 +120,7 @@
   },
   {
     "subdomain": "4th-grade-carlos-fuentes",
-    "schoolName": null,
+    "schoolName": "UNO Charter School-Carlos Fuentes",
     "url": "https://4th-grade-carlos-fuentes.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -129,7 +129,7 @@
   },
   {
     "subdomain": "521oakview",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://521oakview.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -138,7 +138,7 @@
   },
   {
     "subdomain": "548zilart",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://548zilart.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -147,7 +147,7 @@
   },
   {
     "subdomain": "56lab",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://56lab.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -156,7 +156,7 @@
   },
   {
     "subdomain": "5thredoak",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://5thredoak.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -175,7 +175,7 @@
   },
   {
     "subdomain": "7oaks",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://7oaks.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -184,7 +184,7 @@
   },
   {
     "subdomain": "a-c-central-cmnty-unit-schl-district-262",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://a-c-central-cmnty-unit-schl-district-262.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -193,7 +193,7 @@
   },
   {
     "subdomain": "a-ms-hohenruppersdorf",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://a-ms-hohenruppersdorf.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -202,7 +202,7 @@
   },
   {
     "subdomain": "a2-schools",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://a2-schools.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -221,7 +221,7 @@
   },
   {
     "subdomain": "abbyreinke",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://abbyreinke.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -230,7 +230,7 @@
   },
   {
     "subdomain": "abcedudo",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://abcedudo.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -239,7 +239,7 @@
   },
   {
     "subdomain": "abdgillespie",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://abdgillespie.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -268,7 +268,7 @@
   },
   {
     "subdomain": "academysb",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://academysb.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -277,7 +277,7 @@
   },
   {
     "subdomain": "acpsmd",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://acpsmd.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -286,7 +286,7 @@
   },
   {
     "subdomain": "acsd-franklin",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://acsd-franklin.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -295,7 +295,7 @@
   },
   {
     "subdomain": "acsd4",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://acsd4.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -304,7 +304,7 @@
   },
   {
     "subdomain": "actonblairsville",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://actonblairsville.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -343,7 +343,7 @@
   },
   {
     "subdomain": "adirondack",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://adirondack.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -352,7 +352,7 @@
   },
   {
     "subdomain": "adugan0",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://adugan0.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -361,7 +361,7 @@
   },
   {
     "subdomain": "aecsd",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aecsd.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -370,7 +370,7 @@
   },
   {
     "subdomain": "aep-saint-joseph-des-carmes",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aep-saint-joseph-des-carmes.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -379,7 +379,7 @@
   },
   {
     "subdomain": "aes123",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aes123.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -398,7 +398,7 @@
   },
   {
     "subdomain": "aestaylor2",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aestaylor2.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -417,7 +417,7 @@
   },
   {
     "subdomain": "agnetyping",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://agnetyping.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -426,7 +426,7 @@
   },
   {
     "subdomain": "ahisd",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://ahisd.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -445,7 +445,7 @@
   },
   {
     "subdomain": "aidb-ats",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aidb-ats.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -454,7 +454,7 @@
   },
   {
     "subdomain": "aim-academy-fairmount",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aim-academy-fairmount.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -463,7 +463,7 @@
   },
   {
     "subdomain": "ainsworth-middle-school",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://ainsworth-middle-school.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -482,7 +482,7 @@
   },
   {
     "subdomain": "aiscyprus",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aiscyprus.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -491,7 +491,7 @@
   },
   {
     "subdomain": "aishk",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aishk.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -510,7 +510,7 @@
   },
   {
     "subdomain": "akron-elementary2",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://akron-elementary2.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -539,7 +539,7 @@
   },
   {
     "subdomain": "alameda-elementary",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alameda-elementary.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -558,7 +558,7 @@
   },
   {
     "subdomain": "alamosa-elementary",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alamosa-elementary.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -587,7 +587,7 @@
   },
   {
     "subdomain": "albiacsd",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://albiacsd.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -596,7 +596,7 @@
   },
   {
     "subdomain": "alcoa",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alcoa.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -605,7 +605,7 @@
   },
   {
     "subdomain": "alcott2030",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alcott2030.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -614,7 +614,7 @@
   },
   {
     "subdomain": "alden-primaryhause",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alden-primaryhause.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -623,7 +623,7 @@
   },
   {
     "subdomain": "aldenbulldogs",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aldenbulldogs.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -632,7 +632,7 @@
   },
   {
     "subdomain": "aldenintermediateschool",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://aldenintermediateschool.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -641,7 +641,7 @@
   },
   {
     "subdomain": "alexander-es",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alexander-es.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -650,7 +650,7 @@
   },
   {
     "subdomain": "alford",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://alford.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -659,7 +659,7 @@
   },
   {
     "subdomain": "algomachristian",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://algomachristian.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
@@ -678,7 +678,7 @@
   },
   {
     "subdomain": "allenelem",
-    "schoolName": null,
+    "schoolName": "Learn, teach, create! edclub",
     "url": "https://allenelem.typingclub.com",
     "source": "commoncrawl",
     "typingclubValid": true,
