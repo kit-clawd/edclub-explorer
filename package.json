@@ -1,16 +1,17 @@
 {
   "name": "edclub-explorer",
   "version": "1.0.0",
-  "description": "",
-  "main": "data.js",
+  "description": "EdClub competitor intelligence - 3600+ schools using TypingClub/EdClub",
+  "main": "src/worker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/worker.js",
+    "migrate": "node src/migrate.js",
+    "dev": "node --watch src/worker.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "playwright": "^1.58.1",
-    "puppeteer": "^24.36.1"
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
