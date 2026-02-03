@@ -898,7 +898,9 @@
   {
     "subdomain": "bridgeway-island3",
     "schoolName": "Bridgeway Island Elementary School",
-    "url": "https://bridgeway-island3.typingclub.com"
+    "url": "https://bridgeway-island3.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bridgeway-island4",
