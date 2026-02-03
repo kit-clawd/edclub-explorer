@@ -133,6 +133,12 @@
     "lastSeen": "2024-11-11"
   },
   {
+    "subdomain": "aldenintermediateschool",
+    "schoolName": null,
+    "url": "https://aldenintermediateschool.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "alleneast",
     "schoolName": "Allen East Elementary School",
     "url": "https://alleneast.typingclub.com",
@@ -203,6 +209,12 @@
     "lastSeen": "2024-07-14"
   },
   {
+    "subdomain": "anna-rungo",
+    "schoolName": null,
+    "url": "https://anna-rungo.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "anne-sullivan-communication-center",
     "schoolName": "Anne Sullivan Communication Center",
     "url": "https://anne-sullivan-communication-center.typingclub.com",
@@ -217,18 +229,18 @@
     "lastSeen": null
   },
   {
-    "subdomain": "apex-elementary-school",
-    "schoolName": "Apex Elementary School",
-    "url": "https://apex-elementary-school.typingclub.com",
-    "firstSeen": "2020-10-21",
-    "lastSeen": "2020-10-21"
-  },
-  {
     "subdomain": "apex-elementary",
     "schoolName": "Apex Elementary School",
     "url": "https://apex-elementary.typingclub.com",
     "firstSeen": null,
     "lastSeen": null
+  },
+  {
+    "subdomain": "apex-elementary-school",
+    "schoolName": "Apex Elementary School",
+    "url": "https://apex-elementary-school.typingclub.com",
+    "firstSeen": "2020-10-21",
+    "lastSeen": "2020-10-21"
   },
   {
     "subdomain": "appleton",
@@ -294,6 +306,12 @@
     "lastSeen": "2020-10-29"
   },
   {
+    "subdomain": "arroyodeloso",
+    "schoolName": null,
+    "url": "https://arroyodeloso.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "arsu",
     "schoolName": "Fair Haven Grade School",
     "url": "https://arsu.typingclub.com",
@@ -313,6 +331,12 @@
     "url": "https://asbschool.typingclub.com",
     "firstSeen": null,
     "lastSeen": null
+  },
+  {
+    "subdomain": "ascensionlutheranschool",
+    "schoolName": null,
+    "url": "https://ascensionlutheranschool.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "ascs-typing",
@@ -378,18 +402,18 @@
     "lastSeen": null
   },
   {
-    "subdomain": "baldwin2016",
-    "schoolName": "Baldwin Elementary School",
-    "url": "https://baldwin2016.typingclub.com",
-    "firstSeen": "2021-05-12",
-    "lastSeen": "2021-05-12"
-  },
-  {
     "subdomain": "baldwin-woodville-ar",
     "schoolName": "Baldwin-Woodville Area Schools",
     "url": "https://baldwin-woodville-ar.typingclub.com",
     "firstSeen": "2024-07-05",
     "lastSeen": "2024-07-05"
+  },
+  {
+    "subdomain": "baldwin2016",
+    "schoolName": "Baldwin Elementary School",
+    "url": "https://baldwin2016.typingclub.com",
+    "firstSeen": "2021-05-12",
+    "lastSeen": "2021-05-12"
   },
   {
     "subdomain": "balmoral",
@@ -525,16 +549,16 @@
     "lastSeen": "2019-05-27"
   },
   {
-    "subdomain": "belmar-elementary2",
-    "schoolName": "Belmar Elementary School",
-    "url": "https://belmar-elementary2.typingclub.com",
+    "subdomain": "belmar-elementary",
+    "schoolName": "Belmar Elementary",
+    "url": "https://belmar-elementary.typingclub.com",
     "firstSeen": null,
     "lastSeen": null
   },
   {
-    "subdomain": "belmar-elementary",
-    "schoolName": "Belmar Elementary",
-    "url": "https://belmar-elementary.typingclub.com",
+    "subdomain": "belmar-elementary2",
+    "schoolName": "Belmar Elementary School",
+    "url": "https://belmar-elementary2.typingclub.com",
     "firstSeen": null,
     "lastSeen": null
   },
@@ -572,6 +596,12 @@
     "url": "https://benton.typingclub.com",
     "firstSeen": "2019-10-22",
     "lastSeen": "2019-10-22"
+  },
+  {
+    "subdomain": "bergen-valley4",
+    "schoolName": null,
+    "url": "https://bergen-valley4.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "bergsdeafed",
@@ -700,6 +730,13 @@
     "lastSeen": null
   },
   {
+    "subdomain": "birchwood",
+    "schoolName": "School District of Birchwood",
+    "url": "https://birchwood.typingclub.com",
+    "firstSeen": "2019-10-15",
+    "lastSeen": "2025-12-15"
+  },
+  {
     "subdomain": "birchwood-school",
     "schoolName": "Birchwood School",
     "url": "https://birchwood-school.typingclub.com",
@@ -707,11 +744,10 @@
     "lastSeen": "2024-09-13"
   },
   {
-    "subdomain": "birchwood",
-    "schoolName": "School District of Birchwood",
-    "url": "https://birchwood.typingclub.com",
-    "firstSeen": "2019-10-15",
-    "lastSeen": "2025-12-15"
+    "subdomain": "bisk4",
+    "schoolName": null,
+    "url": "https://bisk4.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "bison",
@@ -838,9 +874,9 @@
     "url": "https://briarcrest.typingclub.com"
   },
   {
-    "subdomain": "bridgeportbobcats",
-    "schoolName": "",
-    "url": "https://bridgeportbobcats.typingclub.com"
+    "subdomain": "bridgeport-grade-nash",
+    "schoolName": "Bridgeport Grade School",
+    "url": "https://bridgeport-grade-nash.typingclub.com"
   },
   {
     "subdomain": "bridgeport-gradejones",
@@ -848,14 +884,19 @@
     "url": "https://bridgeport-gradejones.typingclub.com"
   },
   {
-    "subdomain": "bridgeport-grade-nash",
-    "schoolName": "Bridgeport Grade School",
-    "url": "https://bridgeport-grade-nash.typingclub.com"
-  },
-  {
     "subdomain": "bridgeport-gradewaggoner",
     "schoolName": "Bridgeport Grade School",
     "url": "https://bridgeport-gradewaggoner.typingclub.com"
+  },
+  {
+    "subdomain": "bridgeportbobcats",
+    "schoolName": "",
+    "url": "https://bridgeportbobcats.typingclub.com"
+  },
+  {
+    "subdomain": "bridgeway-island-elementary-school",
+    "schoolName": "Bridgeway Island Elementary School",
+    "url": "https://bridgeway-island-elementary-school.typingclub.com"
   },
   {
     "subdomain": "bridgeway-island3",
@@ -866,11 +907,6 @@
     "subdomain": "bridgeway-island4",
     "schoolName": "Bridgeway Island Elementary School",
     "url": "https://bridgeway-island4.typingclub.com"
-  },
-  {
-    "subdomain": "bridgeway-island-elementary-school",
-    "schoolName": "Bridgeway Island Elementary School",
-    "url": "https://bridgeway-island-elementary-school.typingclub.com"
   },
   {
     "subdomain": "bronxville-elementary",
@@ -896,6 +932,12 @@
     "subdomain": "bsusd",
     "schoolName": "Bolinas-Stinson USD",
     "url": "https://bsusd.typingclub.com"
+  },
+  {
+    "subdomain": "buckleyschools",
+    "schoolName": null,
+    "url": "https://buckleyschools.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "bullpups",
@@ -943,6 +985,11 @@
     "url": "https://bushland.typingclub.com"
   },
   {
+    "subdomain": "c-fbisd",
+    "schoolName": "",
+    "url": "https://c-fbisd.typingclub.com"
+  },
+  {
     "subdomain": "cache-lpe",
     "schoolName": "Cache La Poudre Elementary School",
     "url": "https://cache-lpe.typingclub.com"
@@ -963,6 +1010,11 @@
     "url": "https://calwheat.typingclub.com"
   },
   {
+    "subdomain": "cambridge",
+    "schoolName": "Cambridge Public Schools",
+    "url": "https://cambridge.typingclub.com"
+  },
+  {
     "subdomain": "cambridge-intermediate",
     "schoolName": "Cambridge Intermediate School",
     "url": "https://cambridge-intermediate.typingclub.com"
@@ -971,11 +1023,6 @@
     "subdomain": "cambridgemontessori",
     "schoolName": "Cambridge Montessori School",
     "url": "https://cambridgemontessori.typingclub.com"
-  },
-  {
-    "subdomain": "cambridge",
-    "schoolName": "Cambridge Public Schools",
-    "url": "https://cambridge.typingclub.com"
   },
   {
     "subdomain": "camelot-elem",
@@ -1083,11 +1130,6 @@
     "url": "https://centerville-elementary2.typingclub.com"
   },
   {
-    "subdomain": "centralelementary",
-    "schoolName": "Central Elementary",
-    "url": "https://centralelementary.typingclub.com"
-  },
-  {
     "subdomain": "central-middle",
     "schoolName": "Central Middle School",
     "url": "https://central-middle.typingclub.com"
@@ -1096,6 +1138,11 @@
     "subdomain": "central-park3",
     "schoolName": "Central Park Elementary",
     "url": "https://central-park3.typingclub.com"
+  },
+  {
+    "subdomain": "centralelementary",
+    "schoolName": "Central Elementary",
+    "url": "https://centralelementary.typingclub.com"
   },
   {
     "subdomain": "century",
@@ -1118,9 +1165,9 @@
     "url": "https://cestyping.typingclub.com"
   },
   {
-    "subdomain": "c-fbisd",
+    "subdomain": "cf-ssl42897-protected-s",
     "schoolName": "",
-    "url": "https://c-fbisd.typingclub.com"
+    "url": "https://cf-ssl42897-protected-s.typingclub.com"
   },
   {
     "subdomain": "cfktyping",
@@ -1131,11 +1178,6 @@
     "subdomain": "cfschools",
     "schoolName": "Cedar Falls Community Schools",
     "url": "https://cfschools.typingclub.com"
-  },
-  {
-    "subdomain": "cf-ssl42897-protected-s",
-    "schoolName": "",
-    "url": "https://cf-ssl42897-protected-s.typingclub.com"
   },
   {
     "subdomain": "cfstpats",
@@ -1248,6 +1290,18 @@
     "url": "https://cismanila.typingclub.com"
   },
   {
+    "subdomain": "clarion-limestone-elementary",
+    "schoolName": null,
+    "url": "https://clarion-limestone-elementary.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "clarkstonschools",
+    "schoolName": null,
+    "url": "https://clarkstonschools.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "clay-battelle",
     "schoolName": "Clay Battelle Middle-High School",
     "url": "https://clay-battelle.typingclub.com"
@@ -1299,7 +1353,7 @@
   },
   {
     "subdomain": "colegiomexicobachillerato",
-    "schoolName": "Colegio México Bachillerato",
+    "schoolName": "Colegio M\u00e9xico Bachillerato",
     "url": "https://colegiomexicobachillerato.typingclub.com"
   },
   {
@@ -1308,9 +1362,10 @@
     "url": "https://colonial-beach.typingclub.com"
   },
   {
-    "subdomain": "columbia-elementary4",
-    "schoolName": "columbia elementary",
-    "url": "https://columbia-elementary4.typingclub.com"
+    "subdomain": "columbia-cougars",
+    "schoolName": null,
+    "url": "https://columbia-cougars.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "columbia-elementary-school",
@@ -1318,9 +1373,20 @@
     "url": "https://columbia-elementary-school.typingclub.com"
   },
   {
+    "subdomain": "columbia-elementary4",
+    "schoolName": "columbia elementary",
+    "url": "https://columbia-elementary4.typingclub.com"
+  },
+  {
     "subdomain": "computerlab",
     "schoolName": "John Hanson French Immersion",
     "url": "https://computerlab.typingclub.com"
+  },
+  {
+    "subdomain": "coolidgeisd",
+    "schoolName": null,
+    "url": "https://coolidgeisd.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "cooperfamily2",
@@ -1348,14 +1414,14 @@
     "url": "https://county.typingclub.com"
   },
   {
-    "subdomain": "cppasd",
-    "schoolName": "",
-    "url": "https://cppasd.typingclub.com"
-  },
-  {
     "subdomain": "cpp",
     "schoolName": "Corning-Painted Post Area School Dist",
     "url": "https://cpp.typingclub.com"
+  },
+  {
+    "subdomain": "cppasd",
+    "schoolName": "",
+    "url": "https://cppasd.typingclub.com"
   },
   {
     "subdomain": "cpsd400",
@@ -1433,6 +1499,12 @@
     "url": "https://cssu.typingclub.com"
   },
   {
+    "subdomain": "cta-goodman2",
+    "schoolName": null,
+    "url": "https://cta-goodman2.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "ctough2017",
     "schoolName": "Coulson Tough K-6 Flex School",
     "url": "https://ctough2017.typingclub.com"
@@ -1448,14 +1520,14 @@
     "url": "https://curleywolves.typingclub.com"
   },
   {
-    "subdomain": "cusdk8",
-    "schoolName": "Cupertino Union School District",
-    "url": "https://cusdk8.typingclub.com"
-  },
-  {
     "subdomain": "cusd",
     "schoolName": "CUSD",
     "url": "https://cusd.typingclub.com"
+  },
+  {
+    "subdomain": "cusdk8",
+    "schoolName": "Cupertino Union School District",
+    "url": "https://cusdk8.typingclub.com"
   },
   {
     "subdomain": "cutler",
@@ -1508,14 +1580,14 @@
     "url": "https://dennison.typingclub.com"
   },
   {
-    "subdomain": "desoto86",
-    "schoolName": "DeSoto",
-    "url": "https://desoto86.typingclub.com"
-  },
-  {
     "subdomain": "desoto-il",
     "schoolName": "DeSoto IL",
     "url": "https://desoto-il.typingclub.com"
+  },
+  {
+    "subdomain": "desoto86",
+    "schoolName": "DeSoto",
+    "url": "https://desoto86.typingclub.com"
   },
   {
     "subdomain": "desotopirates",
@@ -1613,6 +1685,12 @@
     "url": "https://donnellmiddleschool.typingclub.com"
   },
   {
+    "subdomain": "dorchester-elementary",
+    "schoolName": null,
+    "url": "https://dorchester-elementary.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "dorseybulldogs",
     "schoolName": "Dorsey Attendance Center",
     "url": "https://dorseybulldogs.typingclub.com"
@@ -1703,6 +1781,21 @@
     "url": "https://edgertonpublic.typingclub.com"
   },
   {
+    "subdomain": "edgewood",
+    "schoolName": "Edgewood Elementary",
+    "url": "https://edgewood.typingclub.com"
+  },
+  {
+    "subdomain": "edgewood-community",
+    "schoolName": "Edgewood Community School",
+    "url": "https://edgewood-community.typingclub.com"
+  },
+  {
+    "subdomain": "edgewood-community-school",
+    "schoolName": "Edgewood Community School",
+    "url": "https://edgewood-community-school.typingclub.com"
+  },
+  {
     "subdomain": "edgewood-community2",
     "schoolName": "Edgewood Community School",
     "url": "https://edgewood-community2.typingclub.com"
@@ -1718,21 +1811,6 @@
     "url": "https://edgewood-community4.typingclub.com"
   },
   {
-    "subdomain": "edgewood-community-school",
-    "schoolName": "Edgewood Community School",
-    "url": "https://edgewood-community-school.typingclub.com"
-  },
-  {
-    "subdomain": "edgewood-community",
-    "schoolName": "Edgewood Community School",
-    "url": "https://edgewood-community.typingclub.com"
-  },
-  {
-    "subdomain": "edgewoodmiddleschool",
-    "schoolName": "Edgewood Middle School",
-    "url": "https://edgewoodmiddleschool.typingclub.com"
-  },
-  {
     "subdomain": "edgewood-rhian",
     "schoolName": "Edgewood Community School",
     "url": "https://edgewood-rhian.typingclub.com"
@@ -1743,9 +1821,15 @@
     "url": "https://edgewood-sumner3rdgrade.typingclub.com"
   },
   {
-    "subdomain": "edgewood",
-    "schoolName": "Edgewood Elementary",
-    "url": "https://edgewood.typingclub.com"
+    "subdomain": "edgewoodisd",
+    "schoolName": null,
+    "url": "https://edgewoodisd.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "edgewoodmiddleschool",
+    "schoolName": "Edgewood Middle School",
+    "url": "https://edgewoodmiddleschool.typingclub.com"
   },
   {
     "subdomain": "edison-elementary",
@@ -1763,6 +1847,12 @@
     "url": "https://ees123.typingclub.com"
   },
   {
+    "subdomain": "eesbsdvt",
+    "schoolName": null,
+    "url": "https://eesbsdvt.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "elsinboro-twp-school",
     "schoolName": "Elsinboro Twp School",
     "url": "https://elsinboro-twp-school.typingclub.com"
@@ -1771,6 +1861,11 @@
     "subdomain": "emge-elementary",
     "schoolName": "Emge Elementary School",
     "url": "https://emge-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "ephesus",
+    "schoolName": "Ephesus Road Elementary School",
+    "url": "https://ephesus.typingclub.com"
   },
   {
     "subdomain": "ephesus-greto",
@@ -1788,14 +1883,15 @@
     "url": "https://ephesus-road-elementary-school.typingclub.com"
   },
   {
-    "subdomain": "ephesus",
-    "schoolName": "Ephesus Road Elementary School",
-    "url": "https://ephesus.typingclub.com"
-  },
-  {
     "subdomain": "equinox",
     "schoolName": "Oyster Rive Middle School",
     "url": "https://equinox.typingclub.com"
+  },
+  {
+    "subdomain": "esperanzaelementaryschool",
+    "schoolName": null,
+    "url": "https://esperanzaelementaryschool.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "essex-elementary",
@@ -1913,14 +2009,14 @@
     "url": "https://fiestagardens.typingclub.com"
   },
   {
-    "subdomain": "firstflightelementary",
-    "schoolName": "First Flight Elementary School",
-    "url": "https://firstflightelementary.typingclub.com"
-  },
-  {
     "subdomain": "first-flight",
     "schoolName": "First Flight Elementary School",
     "url": "https://first-flight.typingclub.com"
+  },
+  {
+    "subdomain": "firstflightelementary",
+    "schoolName": "First Flight Elementary School",
+    "url": "https://firstflightelementary.typingclub.com"
   },
   {
     "subdomain": "firstline",
@@ -1943,9 +2039,9 @@
     "url": "https://flselk.typingclub.com"
   },
   {
-    "subdomain": "forestparktrojans",
-    "schoolName": "Forest Park",
-    "url": "https://forestparktrojans.typingclub.com"
+    "subdomain": "forest",
+    "schoolName": "Forest",
+    "url": "https://forest.typingclub.com"
   },
   {
     "subdomain": "forestpark",
@@ -1953,9 +2049,9 @@
     "url": "https://forestpark.typingclub.com"
   },
   {
-    "subdomain": "forest",
-    "schoolName": "Forest",
-    "url": "https://forest.typingclub.com"
+    "subdomain": "forestparktrojans",
+    "schoolName": "Forest Park",
+    "url": "https://forestparktrojans.typingclub.com"
   },
   {
     "subdomain": "foxborough",
@@ -2001,6 +2097,12 @@
     "subdomain": "friesslake",
     "schoolName": "Friess Lake",
     "url": "https://friesslake.typingclub.com"
+  },
+  {
+    "subdomain": "frittenden-school",
+    "schoolName": null,
+    "url": "https://frittenden-school.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "frontier-mosakahiken",
@@ -2103,14 +2205,14 @@
     "url": "https://goodspringselementary.typingclub.com"
   },
   {
-    "subdomain": "gordon-parks2",
-    "schoolName": "Gordon Parks Elementary School",
-    "url": "https://gordon-parks2.typingclub.com"
-  },
-  {
     "subdomain": "gordon-parks",
     "schoolName": "Gordon Parks Elementary School",
     "url": "https://gordon-parks.typingclub.com"
+  },
+  {
+    "subdomain": "gordon-parks2",
+    "schoolName": "Gordon Parks Elementary School",
+    "url": "https://gordon-parks2.typingclub.com"
   },
   {
     "subdomain": "goshen-lempster-school",
@@ -2181,6 +2283,12 @@
     "subdomain": "gsdacs",
     "schoolName": "Grenada SDA Comprehensive",
     "url": "https://gsdacs.typingclub.com"
+  },
+  {
+    "subdomain": "gubearcats",
+    "schoolName": null,
+    "url": "https://gubearcats.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "gustineges",
@@ -2358,6 +2466,12 @@
     "url": "https://hillside-elementary36.typingclub.com"
   },
   {
+    "subdomain": "hillstoncs",
+    "schoolName": null,
+    "url": "https://hillstoncs.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "hilo-union",
     "schoolName": "Hilo Union Elementary School",
     "url": "https://hilo-union.typingclub.com"
@@ -2388,6 +2502,16 @@
     "url": "https://holy-cross-academy.typingclub.com"
   },
   {
+    "subdomain": "holy-trinity-dc",
+    "schoolName": "Holy Trinity DC",
+    "url": "https://holy-trinity-dc.typingclub.com"
+  },
+  {
+    "subdomain": "holy-trinity-school2",
+    "schoolName": "Holy Trinity School",
+    "url": "https://holy-trinity-school2.typingclub.com"
+  },
+  {
     "subdomain": "holycrosstech",
     "schoolName": "Holy Cross School",
     "url": "https://holycrosstech.typingclub.com"
@@ -2408,19 +2532,15 @@
     "url": "https://holyfamilysc.typingclub.com"
   },
   {
-    "subdomain": "holy-trinity-dc",
-    "schoolName": "Holy Trinity DC",
-    "url": "https://holy-trinity-dc.typingclub.com"
-  },
-  {
-    "subdomain": "holy-trinity-school2",
-    "schoolName": "Holy Trinity School",
-    "url": "https://holy-trinity-school2.typingclub.com"
-  },
-  {
     "subdomain": "hong-kong-academy",
     "schoolName": "Hong Kong Academy",
     "url": "https://hong-kong-academy.typingclub.com"
+  },
+  {
+    "subdomain": "hook-elementary2",
+    "schoolName": null,
+    "url": "https://hook-elementary2.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "hoover-city-schools",
@@ -2476,6 +2596,12 @@
     "subdomain": "huntingtonbeach",
     "schoolName": "Huntington Beach City School District",
     "url": "https://huntingtonbeach.typingclub.com"
+  },
+  {
+    "subdomain": "huusd",
+    "schoolName": null,
+    "url": "https://huusd.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "hymanfine",
@@ -2541,6 +2667,12 @@
     "subdomain": "inlandleaders",
     "schoolName": "Inland Leaders Charter Schl-Bryant Cmps",
     "url": "https://inlandleaders.typingclub.com"
+  },
+  {
+    "subdomain": "innovativeconceptacademy",
+    "schoolName": null,
+    "url": "https://innovativeconceptacademy.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "internationalschoolsingapore",
@@ -2631,6 +2763,12 @@
     "subdomain": "john-e-riley-school",
     "schoolName": "John E Riley School",
     "url": "https://john-e-riley-school.typingclub.com"
+  },
+  {
+    "subdomain": "johson",
+    "schoolName": null,
+    "url": "https://johson.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "jonathan-jennings",
@@ -2843,6 +2981,16 @@
     "url": "https://lafsd.typingclub.com"
   },
   {
+    "subdomain": "lake-park-elementary",
+    "schoolName": "Lake Park Elementary",
+    "url": "https://lake-park-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "lake-parkaudubon",
+    "schoolName": "Lake Park Audubon School District",
+    "url": "https://lake-parkaudubon.typingclub.com"
+  },
+  {
     "subdomain": "lakeland-hills2",
     "schoolName": "Lakeland Hills Elementary School",
     "url": "https://lakeland-hills2.typingclub.com"
@@ -2853,16 +3001,6 @@
     "url": "https://lakeoconeeacademy.typingclub.com"
   },
   {
-    "subdomain": "lake-parkaudubon",
-    "schoolName": "Lake Park Audubon School District",
-    "url": "https://lake-parkaudubon.typingclub.com"
-  },
-  {
-    "subdomain": "lake-park-elementary",
-    "schoolName": "Lake Park Elementary",
-    "url": "https://lake-park-elementary.typingclub.com"
-  },
-  {
     "subdomain": "langfordsd",
     "schoolName": "",
     "url": "https://langfordsd.typingclub.com"
@@ -2871,6 +3009,12 @@
     "subdomain": "laurel1",
     "schoolName": "Laurel",
     "url": "https://laurel1.typingclub.com"
+  },
+  {
+    "subdomain": "lbcrs5th",
+    "schoolName": null,
+    "url": "https://lbcrs5th.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "lcmpruim",
@@ -2908,6 +3052,11 @@
     "url": "https://leevining.typingclub.com"
   },
   {
+    "subdomain": "legacy-elementary",
+    "schoolName": "Legacy Elementary",
+    "url": "https://legacy-elementary.typingclub.com"
+  },
+  {
     "subdomain": "legacyallianceok",
     "schoolName": "Michelle Stansell",
     "url": "https://legacyallianceok.typingclub.com"
@@ -2918,14 +3067,21 @@
     "url": "https://legacyclc.typingclub.com"
   },
   {
-    "subdomain": "legacy-elementary",
-    "schoolName": "Legacy Elementary",
-    "url": "https://legacy-elementary.typingclub.com"
-  },
-  {
     "subdomain": "leipsic",
     "schoolName": "Leipsic Local School District",
     "url": "https://leipsic.typingclub.com"
+  },
+  {
+    "subdomain": "lemonroad",
+    "schoolName": null,
+    "url": "https://lemonroad.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "leonvirtual",
+    "schoolName": null,
+    "url": "https://leonvirtual.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "lewis",
@@ -2938,19 +3094,9 @@
     "url": "https://lfdcs.typingclub.com"
   },
   {
-    "subdomain": "liberty2",
-    "schoolName": "Liberty",
-    "url": "https://liberty2.typingclub.com"
-  },
-  {
     "subdomain": "liberty-center-elementary-school",
     "schoolName": "Liberty Center Elementary School",
     "url": "https://liberty-center-elementary-school.typingclub.com"
-  },
-  {
-    "subdomain": "libertymiddleschool",
-    "schoolName": "LMS",
-    "url": "https://libertymiddleschool.typingclub.com"
   },
   {
     "subdomain": "liberty-park",
@@ -2958,14 +3104,24 @@
     "url": "https://liberty-park.typingclub.com"
   },
   {
+    "subdomain": "liberty-ridge-elementarylre",
+    "schoolName": "liberty ridge elementary",
+    "url": "https://liberty-ridge-elementarylre.typingclub.com"
+  },
+  {
     "subdomain": "liberty-ridge2",
     "schoolName": "Liberty Ridge Elementary School",
     "url": "https://liberty-ridge2.typingclub.com"
   },
   {
-    "subdomain": "liberty-ridge-elementarylre",
-    "schoolName": "liberty ridge elementary",
-    "url": "https://liberty-ridge-elementarylre.typingclub.com"
+    "subdomain": "liberty2",
+    "schoolName": "Liberty",
+    "url": "https://liberty2.typingclub.com"
+  },
+  {
+    "subdomain": "libertymiddleschool",
+    "schoolName": "LMS",
+    "url": "https://libertymiddleschool.typingclub.com"
   },
   {
     "subdomain": "liceodelvalle",
@@ -2981,6 +3137,12 @@
     "subdomain": "lincoln11",
     "schoolName": "lincoln",
     "url": "https://lincoln11.typingclub.com"
+  },
+  {
+    "subdomain": "lincolnleopard",
+    "schoolName": null,
+    "url": "https://lincolnleopard.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "lincolnscec",
@@ -3053,6 +3215,12 @@
     "url": "https://lsacolecamp.typingclub.com"
   },
   {
+    "subdomain": "lscsd",
+    "schoolName": null,
+    "url": "https://lscsd.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "luciamar",
     "schoolName": "Lucia Mar Unified",
     "url": "https://luciamar.typingclub.com"
@@ -3068,14 +3236,14 @@
     "url": "https://luxemburg-casco-prim2.typingclub.com"
   },
   {
-    "subdomain": "lymecsd",
-    "schoolName": "Lyme Central School District",
-    "url": "https://lymecsd.typingclub.com"
-  },
-  {
     "subdomain": "lyme-elementary",
     "schoolName": "Lyme Elementary School",
     "url": "https://lyme-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "lymecsd",
+    "schoolName": "Lyme Central School District",
+    "url": "https://lymecsd.typingclub.com"
   },
   {
     "subdomain": "lynchburg-city2",
@@ -3093,14 +3261,14 @@
     "url": "https://macquariecollege.typingclub.com"
   },
   {
-    "subdomain": "mahnomen-hs",
-    "schoolName": "Mahnomen H.S.",
-    "url": "https://mahnomen-hs.typingclub.com"
-  },
-  {
     "subdomain": "mahnomen",
     "schoolName": "Mahnomen High School",
     "url": "https://mahnomen.typingclub.com"
+  },
+  {
+    "subdomain": "mahnomen-hs",
+    "schoolName": "Mahnomen H.S.",
+    "url": "https://mahnomen-hs.typingclub.com"
   },
   {
     "subdomain": "maidu",
@@ -3218,6 +3386,11 @@
     "url": "https://max-school.typingclub.com"
   },
   {
+    "subdomain": "may-watts",
+    "schoolName": "May Watts Elementary School",
+    "url": "https://may-watts.typingclub.com"
+  },
+  {
     "subdomain": "mayfieldjs",
     "schoolName": "Mayfield Junior School",
     "url": "https://mayfieldjs.typingclub.com"
@@ -3231,11 +3404,6 @@
     "subdomain": "mayo-middle-school",
     "schoolName": "Mayo Middle School",
     "url": "https://mayo-middle-school.typingclub.com"
-  },
-  {
-    "subdomain": "may-watts",
-    "schoolName": "May Watts Elementary School",
-    "url": "https://may-watts.typingclub.com"
   },
   {
     "subdomain": "maywatts",
@@ -3298,14 +3466,14 @@
     "url": "https://mckenzie.typingclub.com"
   },
   {
-    "subdomain": "mckinley-elementary3",
-    "schoolName": "McKinley Elementary School",
-    "url": "https://mckinley-elementary3.typingclub.com"
-  },
-  {
     "subdomain": "mckinley-elementary-school",
     "schoolName": "McKinley Elementary School",
     "url": "https://mckinley-elementary-school.typingclub.com"
+  },
+  {
+    "subdomain": "mckinley-elementary3",
+    "schoolName": "McKinley Elementary School",
+    "url": "https://mckinley-elementary3.typingclub.com"
   },
   {
     "subdomain": "mcpasd",
@@ -3373,6 +3541,12 @@
     "url": "https://mes150.typingclub.com"
   },
   {
+    "subdomain": "mesblackshear",
+    "schoolName": null,
+    "url": "https://mesblackshear.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "mettie-jordan-elementary",
     "schoolName": "Mettie Jordan Elementary School",
     "url": "https://mettie-jordan-elementary.typingclub.com"
@@ -3393,14 +3567,14 @@
     "url": "https://michalski.typingclub.com"
   },
   {
-    "subdomain": "middleton735",
-    "schoolName": "John Middleton Elementary School",
-    "url": "https://middleton735.typingclub.com"
-  },
-  {
     "subdomain": "middleton-elementary",
     "schoolName": "Middleton Elementary",
     "url": "https://middleton-elementary.typingclub.com"
+  },
+  {
+    "subdomain": "middleton735",
+    "schoolName": "John Middleton Elementary School",
+    "url": "https://middleton735.typingclub.com"
   },
   {
     "subdomain": "midget",
@@ -3408,14 +3582,14 @@
     "url": "https://midget.typingclub.com"
   },
   {
-    "subdomain": "milpitas-thaonguyen",
-    "schoolName": "Milpitas Adult Education",
-    "url": "https://milpitas-thaonguyen.typingclub.com"
-  },
-  {
     "subdomain": "milpitas",
     "schoolName": "Milpitas Unified School District",
     "url": "https://milpitas.typingclub.com"
+  },
+  {
+    "subdomain": "milpitas-thaonguyen",
+    "schoolName": "Milpitas Adult Education",
+    "url": "https://milpitas-thaonguyen.typingclub.com"
   },
   {
     "subdomain": "minidoka",
@@ -3538,6 +3712,11 @@
     "url": "https://mortensen-bartuska.typingclub.com"
   },
   {
+    "subdomain": "mortensen-elementary-school",
+    "schoolName": "Mortensen Elementary School",
+    "url": "https://mortensen-elementary-school.typingclub.com"
+  },
+  {
     "subdomain": "mortensen-elementary2",
     "schoolName": "Mortensen Elementary School",
     "url": "https://mortensen-elementary2.typingclub.com"
@@ -3561,11 +3740,6 @@
     "subdomain": "mortensen-elementaryrooms",
     "schoolName": "Mortensen Elementary School",
     "url": "https://mortensen-elementaryrooms.typingclub.com"
-  },
-  {
-    "subdomain": "mortensen-elementary-school",
-    "schoolName": "Mortensen Elementary School",
-    "url": "https://mortensen-elementary-school.typingclub.com"
   },
   {
     "subdomain": "mortensen-franek",
@@ -3693,11 +3867,6 @@
     "url": "https://mps-neihardt.typingclub.com"
   },
   {
-    "subdomain": "mpsnorris",
-    "schoolName": "George Norris Elementary School",
-    "url": "https://mpsnorris.typingclub.com"
-  },
-  {
     "subdomain": "mps-reagan",
     "schoolName": "Ronald W Reagan Elementary School",
     "url": "https://mps-reagan.typingclub.com"
@@ -3728,11 +3897,6 @@
     "url": "https://mps-upchurch.typingclub.com"
   },
   {
-    "subdomain": "mpsvt",
-    "schoolName": "Union Elementary School",
-    "url": "https://mpsvt.typingclub.com"
-  },
-  {
     "subdomain": "mps-wheeler",
     "schoolName": "Georgia Wheeler Elementary School",
     "url": "https://mps-wheeler.typingclub.com"
@@ -3741,6 +3905,27 @@
     "subdomain": "mps-willowdale",
     "schoolName": "Willowdale Elementary School",
     "url": "https://mps-willowdale.typingclub.com"
+  },
+  {
+    "subdomain": "mpsnorris",
+    "schoolName": "George Norris Elementary School",
+    "url": "https://mpsnorris.typingclub.com"
+  },
+  {
+    "subdomain": "mpsvt",
+    "schoolName": "Union Elementary School",
+    "url": "https://mpsvt.typingclub.com"
+  },
+  {
+    "subdomain": "mr-v-teaches",
+    "schoolName": "MrVTeaches",
+    "url": "https://mr-v-teaches.typingclub.com"
+  },
+  {
+    "subdomain": "mrcode",
+    "schoolName": null,
+    "url": "https://mrcode.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "mrlam",
@@ -3793,11 +3978,6 @@
     "url": "https://mrsswindle.typingclub.com"
   },
   {
-    "subdomain": "mr-v-teaches",
-    "schoolName": "MrVTeaches",
-    "url": "https://mr-v-teaches.typingclub.com"
-  },
-  {
     "subdomain": "msfojan",
     "schoolName": "Ms. Fojan",
     "url": "https://msfojan.typingclub.com"
@@ -3813,11 +3993,6 @@
     "url": "https://msmelara.typingclub.com"
   },
   {
-    "subdomain": "mtacc",
-    "schoolName": "MTACC Typing Club",
-    "url": "https://mtacc.typingclub.com"
-  },
-  {
     "subdomain": "mt-eaton",
     "schoolName": "Mt. Eaton Elementary School",
     "url": "https://mt-eaton.typingclub.com"
@@ -3826,6 +4001,23 @@
     "subdomain": "mt-vernon",
     "schoolName": "Mt. Vernon Elementary",
     "url": "https://mt-vernon.typingclub.com"
+  },
+  {
+    "subdomain": "mtacc",
+    "schoolName": "MTACC Typing Club",
+    "url": "https://mtacc.typingclub.com"
+  },
+  {
+    "subdomain": "mumford-elementaryk",
+    "schoolName": null,
+    "url": "https://mumford-elementaryk.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "mumfordgrade2typing",
+    "schoolName": null,
+    "url": "https://mumfordgrade2typing.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "muriel-martin",
@@ -3868,6 +4060,11 @@
     "url": "https://new-albany.typingclub.com"
   },
   {
+    "subdomain": "new-york-mills-elementary-school",
+    "schoolName": "New York Mills Elementary School",
+    "url": "https://new-york-mills-elementary-school.typingclub.com"
+  },
+  {
     "subdomain": "newathens",
     "schoolName": "New Athens Community Unit District 60",
     "url": "https://newathens.typingclub.com"
@@ -3896,11 +4093,6 @@
     "subdomain": "newwayacademy",
     "schoolName": "New Way Academy",
     "url": "https://newwayacademy.typingclub.com"
-  },
-  {
-    "subdomain": "new-york-mills-elementary-school",
-    "schoolName": "New York Mills Elementary School",
-    "url": "https://new-york-mills-elementary-school.typingclub.com"
   },
   {
     "subdomain": "nfischer",
@@ -3943,6 +4135,28 @@
     "url": "https://norman.typingclub.com"
   },
   {
+    "subdomain": "norrislab",
+    "schoolName": null,
+    "url": "https://norrislab.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "north-mor-elementary-school",
+    "schoolName": "",
+    "url": "https://north-mor-elementary-school.typingclub.com"
+  },
+  {
+    "subdomain": "north-woods-school",
+    "schoolName": "North Woods School",
+    "url": "https://north-woods-school.typingclub.com"
+  },
+  {
+    "subdomain": "northcross2",
+    "schoolName": null,
+    "url": "https://northcross2.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "northern-adirondack",
     "schoolName": "Northern Adirondack",
     "url": "https://northern-adirondack.typingclub.com"
@@ -3956,11 +4170,6 @@
     "subdomain": "northhill",
     "schoolName": "North Hill Elementary School",
     "url": "https://northhill.typingclub.com"
-  },
-  {
-    "subdomain": "north-mor-elementary-school",
-    "schoolName": "",
-    "url": "https://north-mor-elementary-school.typingclub.com"
   },
   {
     "subdomain": "northranch",
@@ -3988,19 +4197,14 @@
     "url": "https://northwarrenmrc.typingclub.com"
   },
   {
-    "subdomain": "north-woods-school",
-    "schoolName": "North Woods School",
-    "url": "https://north-woods-school.typingclub.com"
+    "subdomain": "norton-creek-elementary-school",
+    "schoolName": "Norton Creek Elementary School",
+    "url": "https://norton-creek-elementary-school.typingclub.com"
   },
   {
     "subdomain": "norton-creek2",
     "schoolName": "Norton Creek Elementary School",
     "url": "https://norton-creek2.typingclub.com"
-  },
-  {
-    "subdomain": "norton-creek-elementary-school",
-    "schoolName": "Norton Creek Elementary School",
-    "url": "https://norton-creek-elementary-school.typingclub.com"
   },
   {
     "subdomain": "norwalkps",
@@ -4018,24 +4222,24 @@
     "url": "https://nrheg.typingclub.com"
   },
   {
-    "subdomain": "oakhills-elementary-school",
-    "schoolName": "Oakhills Elementary School",
-    "url": "https://oakhills-elementary-school.typingclub.com"
-  },
-  {
     "subdomain": "oak-view",
     "schoolName": "Oak View Union Elementary School District",
     "url": "https://oak-view.typingclub.com"
   },
   {
-    "subdomain": "oberlincityschools",
-    "schoolName": "Oberlin City School District",
-    "url": "https://oberlincityschools.typingclub.com"
+    "subdomain": "oakhills-elementary-school",
+    "schoolName": "Oakhills Elementary School",
+    "url": "https://oakhills-elementary-school.typingclub.com"
   },
   {
     "subdomain": "oberlin",
     "schoolName": "Eastwood Elementary School",
     "url": "https://oberlin.typingclub.com"
+  },
+  {
+    "subdomain": "oberlincityschools",
+    "schoolName": "Oberlin City School District",
+    "url": "https://oberlincityschools.typingclub.com"
   },
   {
     "subdomain": "odellschool",
@@ -4178,14 +4382,14 @@
     "url": "https://paradise-valley-elementary-school.typingclub.com"
   },
   {
-    "subdomain": "parkade",
-    "schoolName": "Parkade Elementary School",
-    "url": "https://parkade.typingclub.com"
-  },
-  {
     "subdomain": "park-city",
     "schoolName": "Park City School District",
     "url": "https://park-city.typingclub.com"
+  },
+  {
+    "subdomain": "parkade",
+    "schoolName": "Parkade Elementary School",
+    "url": "https://parkade.typingclub.com"
   },
   {
     "subdomain": "parkin",
@@ -4193,14 +4397,14 @@
     "url": "https://parkin.typingclub.com"
   },
   {
-    "subdomain": "parklandlutheran",
-    "schoolName": "Parkland Lutheran School",
-    "url": "https://parklandlutheran.typingclub.com"
-  },
-  {
     "subdomain": "parkland",
     "schoolName": "Parkland School District",
     "url": "https://parkland.typingclub.com"
+  },
+  {
+    "subdomain": "parklandlutheran",
+    "schoolName": "Parkland Lutheran School",
+    "url": "https://parklandlutheran.typingclub.com"
   },
   {
     "subdomain": "parkviewknights",
@@ -4223,14 +4427,15 @@
     "url": "https://pasadenachristian.typingclub.com"
   },
   {
+    "subdomain": "pastorcallison",
+    "schoolName": null,
+    "url": "https://pastorcallison.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "pathfinder",
     "schoolName": "Pathfinder",
     "url": "https://pathfinder.typingclub.com"
-  },
-  {
-    "subdomain": "patrick-e-bowe-school",
-    "schoolName": "Patrick E. Bowe School",
-    "url": "https://patrick-e-bowe-school.typingclub.com"
   },
   {
     "subdomain": "patrick-e",
@@ -4238,14 +4443,19 @@
     "url": "https://patrick-e.typingclub.com"
   },
   {
-    "subdomain": "pcr3rocks",
-    "schoolName": "Phelps County R-III Elementary School",
-    "url": "https://pcr3rocks.typingclub.com"
+    "subdomain": "patrick-e-bowe-school",
+    "schoolName": "Patrick E. Bowe School",
+    "url": "https://patrick-e-bowe-school.typingclub.com"
   },
   {
     "subdomain": "pcr-3",
     "schoolName": "PCR-3",
     "url": "https://pcr-3.typingclub.com"
+  },
+  {
+    "subdomain": "pcr3rocks",
+    "schoolName": "Phelps County R-III Elementary School",
+    "url": "https://pcr3rocks.typingclub.com"
   },
   {
     "subdomain": "pcschools",
@@ -4298,24 +4508,24 @@
     "url": "https://pemetic.typingclub.com"
   },
   {
-    "subdomain": "pennridge-school",
-    "schoolName": "Pennridge School District",
-    "url": "https://pennridge-school.typingclub.com"
-  },
-  {
     "subdomain": "pennridge",
     "schoolName": "Pennridge School District",
     "url": "https://pennridge.typingclub.com"
   },
   {
-    "subdomain": "perrydale",
-    "schoolName": "Perrydale School",
-    "url": "https://perrydale.typingclub.com"
+    "subdomain": "pennridge-school",
+    "schoolName": "Pennridge School District",
+    "url": "https://pennridge-school.typingclub.com"
   },
   {
     "subdomain": "perry",
     "schoolName": "MSD Perry Township",
     "url": "https://perry.typingclub.com"
+  },
+  {
+    "subdomain": "perrydale",
+    "schoolName": "Perrydale School",
+    "url": "https://perrydale.typingclub.com"
   },
   {
     "subdomain": "pes-4th-grade",
@@ -4343,14 +4553,14 @@
     "url": "https://pgtigers.typingclub.com"
   },
   {
-    "subdomain": "phelpscor3",
-    "schoolName": "Phelps County R-III Elementary School",
-    "url": "https://phelpscor3.typingclub.com"
-  },
-  {
     "subdomain": "phelps-county-r-3",
     "schoolName": "Phelps County R-3",
     "url": "https://phelps-county-r-3.typingclub.com"
+  },
+  {
+    "subdomain": "phelpscor3",
+    "schoolName": "Phelps County R-III Elementary School",
+    "url": "https://phelpscor3.typingclub.com"
   },
   {
     "subdomain": "pilgrim-lutheran",
@@ -4358,14 +4568,19 @@
     "url": "https://pilgrim-lutheran.typingclub.com"
   },
   {
-    "subdomain": "pinebush",
-    "schoolName": "Pine Bush Central School District",
-    "url": "https://pinebush.typingclub.com"
-  },
-  {
     "subdomain": "pine-grove2",
     "schoolName": "Pine Grove Elementary School",
     "url": "https://pine-grove2.typingclub.com"
+  },
+  {
+    "subdomain": "pine-view",
+    "schoolName": "Pine View Elementary School",
+    "url": "https://pine-view.typingclub.com"
+  },
+  {
+    "subdomain": "pinebush",
+    "schoolName": "Pine Bush Central School District",
+    "url": "https://pinebush.typingclub.com"
   },
   {
     "subdomain": "pinepoint",
@@ -4376,11 +4591,6 @@
     "subdomain": "piner-olivet-union",
     "schoolName": "Piner-Olivet Union School District",
     "url": "https://piner-olivet-union.typingclub.com"
-  },
-  {
-    "subdomain": "pine-view",
-    "schoolName": "Pine View Elementary School",
-    "url": "https://pine-view.typingclub.com"
   },
   {
     "subdomain": "pio-elementary",
@@ -4483,14 +4693,14 @@
     "url": "https://pottsville-elementary.typingclub.com"
   },
   {
-    "subdomain": "prairiepoint",
-    "schoolName": "Prairie Point Elementary School",
-    "url": "https://prairiepoint.typingclub.com"
-  },
-  {
     "subdomain": "prairie-school2",
     "schoolName": "Prairie School",
     "url": "https://prairie-school2.typingclub.com"
+  },
+  {
+    "subdomain": "prairiepoint",
+    "schoolName": "Prairie Point Elementary School",
+    "url": "https://prairiepoint.typingclub.com"
   },
   {
     "subdomain": "pratt-elementary-school",
@@ -4618,6 +4828,11 @@
     "url": "https://rdale.typingclub.com"
   },
   {
+    "subdomain": "red-rocks",
+    "schoolName": "Red Rocks Elementary School",
+    "url": "https://red-rocks.typingclub.com"
+  },
+  {
     "subdomain": "reddingschools",
     "schoolName": "Redding School District",
     "url": "https://reddingschools.typingclub.com"
@@ -4636,11 +4851,6 @@
     "subdomain": "redlandsacademy",
     "schoolName": "Redlands Adventist Academy",
     "url": "https://redlandsacademy.typingclub.com"
-  },
-  {
-    "subdomain": "red-rocks",
-    "schoolName": "Red Rocks Elementary School",
-    "url": "https://red-rocks.typingclub.com"
   },
   {
     "subdomain": "resowls",
@@ -4703,6 +4913,11 @@
     "url": "https://rises.typingclub.com"
   },
   {
+    "subdomain": "river-view",
+    "schoolName": "River View Local School District",
+    "url": "https://river-view.typingclub.com"
+  },
+  {
     "subdomain": "riveredge",
     "schoolName": "River Edge",
     "url": "https://riveredge.typingclub.com"
@@ -4716,11 +4931,6 @@
     "subdomain": "riverside-intermediate",
     "schoolName": "Riverside Intermediate",
     "url": "https://riverside-intermediate.typingclub.com"
-  },
-  {
-    "subdomain": "river-view",
-    "schoolName": "River View Local School District",
-    "url": "https://river-view.typingclub.com"
   },
   {
     "subdomain": "rmlhs",
@@ -4758,14 +4968,14 @@
     "url": "https://rogers-park2.typingclub.com"
   },
   {
-    "subdomain": "roosevelt-academy2",
-    "schoolName": "Roosevelt Academy",
-    "url": "https://roosevelt-academy2.typingclub.com"
-  },
-  {
     "subdomain": "roosevelt",
     "schoolName": "Roosevelt Elementary School",
     "url": "https://roosevelt.typingclub.com"
+  },
+  {
+    "subdomain": "roosevelt-academy2",
+    "schoolName": "Roosevelt Academy",
+    "url": "https://roosevelt-academy2.typingclub.com"
   },
   {
     "subdomain": "rosecityotters",
@@ -4788,6 +4998,11 @@
     "url": "https://ross-park-elementary-ellis.typingclub.com"
   },
   {
+    "subdomain": "rs-wolves",
+    "schoolName": "Reeds Spring Elementary School",
+    "url": "https://rs-wolves.typingclub.com"
+  },
+  {
     "subdomain": "rsd13practice",
     "schoolName": "RSD 13",
     "url": "https://rsd13practice.typingclub.com"
@@ -4796,11 +5011,6 @@
     "subdomain": "rsu74",
     "schoolName": "RSU #74",
     "url": "https://rsu74.typingclub.com"
-  },
-  {
-    "subdomain": "rs-wolves",
-    "schoolName": "Reeds Spring Elementary School",
-    "url": "https://rs-wolves.typingclub.com"
   },
   {
     "subdomain": "rumseyhall",
@@ -4863,14 +5073,20 @@
     "url": "https://sage-elementary.typingclub.com"
   },
   {
+    "subdomain": "saint-mary-catholic-school",
+    "schoolName": "Saint Mary Catholic School",
+    "url": "https://saint-mary-catholic-school.typingclub.com"
+  },
+  {
     "subdomain": "saintjohn",
     "schoolName": "Saint John the Baptist",
     "url": "https://saintjohn.typingclub.com"
   },
   {
-    "subdomain": "saint-mary-catholic-school",
-    "schoolName": "Saint Mary Catholic School",
-    "url": "https://saint-mary-catholic-school.typingclub.com"
+    "subdomain": "saintlawrenceschool",
+    "schoolName": null,
+    "url": "https://saintlawrenceschool.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "saintmichael",
@@ -4948,6 +5164,17 @@
     "url": "https://sbrsd.typingclub.com"
   },
   {
+    "subdomain": "sc-souder",
+    "schoolName": "Stony Creek Elementary School",
+    "url": "https://sc-souder.typingclub.com"
+  },
+  {
+    "subdomain": "scarsdaleschools",
+    "schoolName": null,
+    "url": "https://scarsdaleschools.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "sccshouston",
     "schoolName": "St. Cecilia Catholic School",
     "url": "https://sccshouston.typingclub.com"
@@ -4963,6 +5190,12 @@
     "url": "https://schillertech.typingclub.com"
   },
   {
+    "subdomain": "schloss-traunsee",
+    "schoolName": null,
+    "url": "https://schloss-traunsee.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "school-of-the-incarnation",
     "schoolName": "School of The Incarnation",
     "url": "https://school-of-the-incarnation.typingclub.com"
@@ -4976,11 +5209,6 @@
     "subdomain": "scsdk8",
     "schoolName": "San Carlos School District",
     "url": "https://scsdk8.typingclub.com"
-  },
-  {
-    "subdomain": "sc-souder",
-    "schoolName": "Stony Creek Elementary School",
-    "url": "https://sc-souder.typingclub.com"
   },
   {
     "subdomain": "sd34-asiasumas",
@@ -5218,6 +5446,12 @@
     "url": "https://snaresbrook.typingclub.com"
   },
   {
+    "subdomain": "snoopedu",
+    "schoolName": null,
+    "url": "https://snoopedu.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "snowsprings",
     "schoolName": "Snow Springs Elementary School",
     "url": "https://snowsprings.typingclub.com"
@@ -5238,6 +5472,17 @@
     "url": "https://sotscleveland.typingclub.com"
   },
   {
+    "subdomain": "south-burlington",
+    "schoolName": null,
+    "url": "https://south-burlington.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "south-middle-rodey",
+    "schoolName": "South Middle School",
+    "url": "https://south-middle-rodey.typingclub.com"
+  },
+  {
     "subdomain": "southbelt",
     "schoolName": "South Belt Elementary School",
     "url": "https://southbelt.typingclub.com"
@@ -5253,14 +5498,15 @@
     "url": "https://southeastpolk.typingclub.com"
   },
   {
+    "subdomain": "southernpublicschools",
+    "schoolName": null,
+    "url": "https://southernpublicschools.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "southlake",
     "schoolName": "",
     "url": "https://southlake.typingclub.com"
-  },
-  {
-    "subdomain": "south-middle-rodey",
-    "schoolName": "South Middle School",
-    "url": "https://south-middle-rodey.typingclub.com"
   },
   {
     "subdomain": "southwest-elementary",
@@ -5338,6 +5584,112 @@
     "url": "https://sswtes.typingclub.com"
   },
   {
+    "subdomain": "st-annes-cc",
+    "schoolName": "St. Annes CC",
+    "url": "https://st-annes-cc.typingclub.com"
+  },
+  {
+    "subdomain": "st-augs",
+    "schoolName": "St Augustine's School",
+    "url": "https://st-augs.typingclub.com"
+  },
+  {
+    "subdomain": "st-bernadette",
+    "schoolName": "St. Bernadette",
+    "url": "https://st-bernadette.typingclub.com"
+  },
+  {
+    "subdomain": "st-cronans2",
+    "schoolName": "St. Cronans",
+    "url": "https://st-cronans2.typingclub.com"
+  },
+  {
+    "subdomain": "st-edward",
+    "schoolName": "St. Edward School",
+    "url": "https://st-edward.typingclub.com"
+  },
+  {
+    "subdomain": "st-egbert",
+    "schoolName": "St. Egbert Catholic School",
+    "url": "https://st-egbert.typingclub.com"
+  },
+  {
+    "subdomain": "st-felicitas-school",
+    "schoolName": "St Felicitas School",
+    "url": "https://st-felicitas-school.typingclub.com"
+  },
+  {
+    "subdomain": "st-hugotypingclubcom",
+    "schoolName": "St Hugo of the Hills School",
+    "url": "https://st-hugotypingclubcom.typingclub.com"
+  },
+  {
+    "subdomain": "st-james-school",
+    "schoolName": "St. James School",
+    "url": "https://st-james-school.typingclub.com"
+  },
+  {
+    "subdomain": "st-josephs-primary",
+    "schoolName": "St. Joseph's Primary",
+    "url": "https://st-josephs-primary.typingclub.com"
+  },
+  {
+    "subdomain": "st-jude-school",
+    "schoolName": "St. Jude School",
+    "url": "https://st-jude-school.typingclub.com"
+  },
+  {
+    "subdomain": "st-leo-school-oakland",
+    "schoolName": "St Leo School Oakland",
+    "url": "https://st-leo-school-oakland.typingclub.com"
+  },
+  {
+    "subdomain": "st-margaret4",
+    "schoolName": null,
+    "url": "https://st-margaret4.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
+    "subdomain": "st-mark-catholic-school",
+    "schoolName": "St. Mark Catholic School",
+    "url": "https://st-mark-catholic-school.typingclub.com"
+  },
+  {
+    "subdomain": "st-marysjm-baldock",
+    "schoolName": "St Mary's Junior School Baldock",
+    "url": "https://st-marysjm-baldock.typingclub.com"
+  },
+  {
+    "subdomain": "st-patrick",
+    "schoolName": "St. Patrick of Heatherdowns",
+    "url": "https://st-patrick.typingclub.com"
+  },
+  {
+    "subdomain": "st-paul-kensington",
+    "schoolName": "St. Paul Kensington",
+    "url": "https://st-paul-kensington.typingclub.com"
+  },
+  {
+    "subdomain": "st-pauls-lutheran-munster",
+    "schoolName": "St. Paul's Lutheran Munster",
+    "url": "https://st-pauls-lutheran-munster.typingclub.com"
+  },
+  {
+    "subdomain": "st-pauls-school",
+    "schoolName": "St. Paul's School",
+    "url": "https://st-pauls-school.typingclub.com"
+  },
+  {
+    "subdomain": "st-peter5",
+    "schoolName": "St Peter Lutheran School",
+    "url": "https://st-peter5.typingclub.com"
+  },
+  {
+    "subdomain": "st-peters2",
+    "schoolName": "St. Peter's School",
+    "url": "https://st-peters2.typingclub.com"
+  },
+  {
     "subdomain": "st1",
     "schoolName": "",
     "url": "https://st1.typingclub.com"
@@ -5346,11 +5698,6 @@
     "subdomain": "stafford-obrien",
     "schoolName": "Stafford Primary School",
     "url": "https://stafford-obrien.typingclub.com"
-  },
-  {
-    "subdomain": "st-annes-cc",
-    "schoolName": "St. Annes CC",
-    "url": "https://st-annes-cc.typingclub.com"
   },
   {
     "subdomain": "stannesf",
@@ -5368,34 +5715,14 @@
     "url": "https://staredu.typingclub.com"
   },
   {
-    "subdomain": "st-augs",
-    "schoolName": "St Augustine's School",
-    "url": "https://st-augs.typingclub.com"
-  },
-  {
     "subdomain": "staugustinschool",
     "schoolName": "St. Augustin School",
     "url": "https://staugustinschool.typingclub.com"
   },
   {
-    "subdomain": "st-bernadette",
-    "schoolName": "St. Bernadette",
-    "url": "https://st-bernadette.typingclub.com"
-  },
-  {
-    "subdomain": "st-cronans2",
-    "schoolName": "St. Cronans",
-    "url": "https://st-cronans2.typingclub.com"
-  },
-  {
     "subdomain": "steckstars",
     "schoolName": "Steck Elementary",
     "url": "https://steckstars.typingclub.com"
-  },
-  {
-    "subdomain": "st-edward",
-    "schoolName": "St. Edward School",
-    "url": "https://st-edward.typingclub.com"
   },
   {
     "subdomain": "stefanik",
@@ -5408,9 +5735,10 @@
     "url": "https://steffen.typingclub.com"
   },
   {
-    "subdomain": "st-egbert",
-    "schoolName": "St. Egbert Catholic School",
-    "url": "https://st-egbert.typingclub.com"
+    "subdomain": "stelibelper",
+    "schoolName": null,
+    "url": "https://stelibelper.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "stellar-charter1",
@@ -5418,19 +5746,15 @@
     "url": "https://stellar-charter1.typingclub.com"
   },
   {
+    "subdomain": "stelucie2324",
+    "schoolName": null,
+    "url": "https://stelucie2324.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "stevensonms",
     "schoolName": "Stevenson Middle School",
     "url": "https://stevensonms.typingclub.com"
-  },
-  {
-    "subdomain": "st-felicitas-school",
-    "schoolName": "St Felicitas School",
-    "url": "https://st-felicitas-school.typingclub.com"
-  },
-  {
-    "subdomain": "st-hugotypingclubcom",
-    "schoolName": "St Hugo of the Hills School",
-    "url": "https://st-hugotypingclubcom.typingclub.com"
   },
   {
     "subdomain": "stjameshaubstadt",
@@ -5438,34 +5762,14 @@
     "url": "https://stjameshaubstadt.typingclub.com"
   },
   {
-    "subdomain": "st-james-school",
-    "schoolName": "St. James School",
-    "url": "https://st-james-school.typingclub.com"
-  },
-  {
     "subdomain": "stjohnsceprimary",
     "schoolName": "St John's CE Primary",
     "url": "https://stjohnsceprimary.typingclub.com"
   },
   {
-    "subdomain": "st-josephs-primary",
-    "schoolName": "St. Joseph's Primary",
-    "url": "https://st-josephs-primary.typingclub.com"
-  },
-  {
     "subdomain": "stjospehost",
     "schoolName": "St. Joseph Catholic School",
     "url": "https://stjospehost.typingclub.com"
-  },
-  {
-    "subdomain": "st-jude-school",
-    "schoolName": "St. Jude School",
-    "url": "https://st-jude-school.typingclub.com"
-  },
-  {
-    "subdomain": "st-leo-school-oakland",
-    "schoolName": "St Leo School Oakland",
-    "url": "https://st-leo-school-oakland.typingclub.com"
   },
   {
     "subdomain": "stlukes",
@@ -5478,11 +5782,6 @@
     "url": "https://stm1884.typingclub.com"
   },
   {
-    "subdomain": "st-mark-catholic-school",
-    "schoolName": "St. Mark Catholic School",
-    "url": "https://st-mark-catholic-school.typingclub.com"
-  },
-  {
     "subdomain": "stmarthaschool",
     "schoolName": "St. Martha School",
     "url": "https://stmarthaschool.typingclub.com"
@@ -5491,11 +5790,6 @@
     "subdomain": "stmarysgreensburg",
     "schoolName": "St. Mary's School",
     "url": "https://stmarysgreensburg.typingclub.com"
-  },
-  {
-    "subdomain": "st-marysjm-baldock",
-    "schoolName": "St Mary's Junior School Baldock",
-    "url": "https://st-marysjm-baldock.typingclub.com"
   },
   {
     "subdomain": "stmcomputers",
@@ -5543,19 +5837,9 @@
     "url": "https://stony-creekht4.typingclub.com"
   },
   {
-    "subdomain": "st-patrick",
-    "schoolName": "St. Patrick of Heatherdowns",
-    "url": "https://st-patrick.typingclub.com"
-  },
-  {
     "subdomain": "stpatschoolag",
     "schoolName": "St. Patrick Catholic School",
     "url": "https://stpatschoolag.typingclub.com"
-  },
-  {
-    "subdomain": "st-paul-kensington",
-    "schoolName": "St. Paul Kensington",
-    "url": "https://st-paul-kensington.typingclub.com"
   },
   {
     "subdomain": "stpaulsheboygan",
@@ -5563,29 +5847,9 @@
     "url": "https://stpaulsheboygan.typingclub.com"
   },
   {
-    "subdomain": "st-pauls-lutheran-munster",
-    "schoolName": "St. Paul's Lutheran Munster",
-    "url": "https://st-pauls-lutheran-munster.typingclub.com"
-  },
-  {
     "subdomain": "stpaulsonalaska5",
     "schoolName": "St. Paul's Lutheran",
     "url": "https://stpaulsonalaska5.typingclub.com"
-  },
-  {
-    "subdomain": "st-pauls-school",
-    "schoolName": "St. Paul's School",
-    "url": "https://st-pauls-school.typingclub.com"
-  },
-  {
-    "subdomain": "st-peter5",
-    "schoolName": "St Peter Lutheran School",
-    "url": "https://st-peter5.typingclub.com"
-  },
-  {
-    "subdomain": "st-peters2",
-    "schoolName": "St. Peter's School",
-    "url": "https://st-peters2.typingclub.com"
   },
   {
     "subdomain": "stpeterschool",
@@ -5608,9 +5872,10 @@
     "url": "https://stringfellow-elementary.typingclub.com"
   },
   {
-    "subdomain": "stukeyabc",
-    "schoolName": "Stukey Elementary School",
-    "url": "https://stukeyabc.typingclub.com"
+    "subdomain": "stuartbathurst",
+    "schoolName": null,
+    "url": "https://stuartbathurst.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "stukey-elementary2",
@@ -5621,6 +5886,11 @@
     "subdomain": "stukey-elementary4",
     "schoolName": "Stukey Elementary School",
     "url": "https://stukey-elementary4.typingclub.com"
+  },
+  {
+    "subdomain": "stukeyabc",
+    "schoolName": "Stukey Elementary School",
+    "url": "https://stukeyabc.typingclub.com"
   },
   {
     "subdomain": "summitcove",
@@ -5663,14 +5933,14 @@
     "url": "https://svusdk12.typingclub.com"
   },
   {
-    "subdomain": "swaink12nc",
-    "schoolName": "Swain County Schools",
-    "url": "https://swaink12nc.typingclub.com"
-  },
-  {
     "subdomain": "swain-west",
     "schoolName": "Swain West Elementary",
     "url": "https://swain-west.typingclub.com"
+  },
+  {
+    "subdomain": "swaink12nc",
+    "schoolName": "Swain County Schools",
+    "url": "https://swaink12nc.typingclub.com"
   },
   {
     "subdomain": "swan-hills-school",
@@ -5798,6 +6068,12 @@
     "url": "https://thomas-fleming.typingclub.com"
   },
   {
+    "subdomain": "thoreau2032",
+    "schoolName": null,
+    "url": "https://thoreau2032.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "threepeaks",
     "schoolName": "Three Peaks Elementary School",
     "url": "https://threepeaks.typingclub.com"
@@ -5816,6 +6092,12 @@
     "subdomain": "timbo",
     "schoolName": "Timbo Elementary School",
     "url": "https://timbo.typingclub.com"
+  },
+  {
+    "subdomain": "titus",
+    "schoolName": null,
+    "url": "https://titus.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "tjmsvalpo",
@@ -5883,6 +6165,12 @@
     "url": "https://topercer.typingclub.com"
   },
   {
+    "subdomain": "torbridge",
+    "schoolName": null,
+    "url": "https://torbridge.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "torreypines",
     "schoolName": "Torrey Pines Elementary School",
     "url": "https://torreypines.typingclub.com"
@@ -5933,14 +6221,14 @@
     "url": "https://tsukubainterschool.typingclub.com"
   },
   {
-    "subdomain": "tukwila-elementary",
-    "schoolName": "Tukwila Elementary School",
-    "url": "https://tukwila-elementary.typingclub.com"
-  },
-  {
     "subdomain": "tukwila-elem-school",
     "schoolName": "",
     "url": "https://tukwila-elem-school.typingclub.com"
+  },
+  {
+    "subdomain": "tukwila-elementary",
+    "schoolName": "Tukwila Elementary School",
+    "url": "https://tukwila-elementary.typingclub.com"
   },
   {
     "subdomain": "tustin",
@@ -5953,6 +6241,12 @@
     "url": "https://two-harbors.typingclub.com"
   },
   {
+    "subdomain": "tye-river2",
+    "schoolName": null,
+    "url": "https://tye-river2.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "typingclub.com",
     "schoolName": "",
     "url": "https://typingclub.com.typingclub.com",
@@ -5963,6 +6257,12 @@
     "schoolName": "",
     "url": "https://typinggames.apps.typingclub.com",
     "error": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://typinggames.apps.typingclub.com/\nCall "
+  },
+  {
+    "subdomain": "typingthewildcatway",
+    "schoolName": null,
+    "url": "https://typingthewildcatway.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "unityeast",
@@ -5980,14 +6280,14 @@
     "url": "https://urtigers.typingclub.com"
   },
   {
-    "subdomain": "usd253",
-    "schoolName": "USD253",
-    "url": "https://usd253.typingclub.com"
-  },
-  {
     "subdomain": "usd-310",
     "schoolName": "USD 310 - Fairfield Schools",
     "url": "https://usd-310.typingclub.com"
+  },
+  {
+    "subdomain": "usd253",
+    "schoolName": "USD253",
+    "url": "https://usd253.typingclub.com"
   },
   {
     "subdomain": "usd489lincolnhays",
@@ -5995,14 +6295,14 @@
     "url": "https://usd489lincolnhays.typingclub.com"
   },
   {
-    "subdomain": "usnusnfree",
-    "schoolName": "University School of Nashville",
-    "url": "https://usnusnfree.typingclub.com"
-  },
-  {
     "subdomain": "usnusn",
     "schoolName": "University School of Nashville",
     "url": "https://usnusn.typingclub.com"
+  },
+  {
+    "subdomain": "usnusnfree",
+    "schoolName": "University School of Nashville",
+    "url": "https://usnusnfree.typingclub.com"
   },
   {
     "subdomain": "uwcsea-dover",
@@ -6085,6 +6385,16 @@
     "url": "https://vistadelsur.typingclub.com"
   },
   {
+    "subdomain": "w-verne-mckinney",
+    "schoolName": "W. Verne McKinney",
+    "url": "https://w-verne-mckinney.typingclub.com"
+  },
+  {
+    "subdomain": "w-w-robinson-elementary-school",
+    "schoolName": "W W Robinson Elementary School",
+    "url": "https://w-w-robinson-elementary-school.typingclub.com"
+  },
+  {
     "subdomain": "wabeno-area-school-district",
     "schoolName": "Wabeno Area School District",
     "url": "https://wabeno-area-school-district.typingclub.com"
@@ -6110,14 +6420,14 @@
     "url": "https://warder.typingclub.com"
   },
   {
-    "subdomain": "warroad-elementary",
-    "schoolName": "Warroad Elementary School",
-    "url": "https://warroad-elementary.typingclub.com"
-  },
-  {
     "subdomain": "warroad-elem",
     "schoolName": "Warroad Elementary School",
     "url": "https://warroad-elem.typingclub.com"
+  },
+  {
+    "subdomain": "warroad-elementary",
+    "schoolName": "Warroad Elementary School",
+    "url": "https://warroad-elementary.typingclub.com"
   },
   {
     "subdomain": "washington-district50",
@@ -6195,6 +6505,31 @@
     "url": "https://wesmillard.typingclub.com"
   },
   {
+    "subdomain": "west-elem-wford",
+    "schoolName": "West Elementary--Weatherford, OK",
+    "url": "https://west-elem-wford.typingclub.com"
+  },
+  {
+    "subdomain": "west-haverstraw",
+    "schoolName": "West Haverstraw Elementary School",
+    "url": "https://west-haverstraw.typingclub.com"
+  },
+  {
+    "subdomain": "west-jeffersonmsb",
+    "schoolName": "West Jefferson High School",
+    "url": "https://west-jeffersonmsb.typingclub.com"
+  },
+  {
+    "subdomain": "west-madison",
+    "schoolName": "West Madison",
+    "url": "https://west-madison.typingclub.com"
+  },
+  {
+    "subdomain": "west-morley",
+    "schoolName": "West Morley PS",
+    "url": "https://west-morley.typingclub.com"
+  },
+  {
     "subdomain": "westbourne-house",
     "schoolName": "Westbourne House School",
     "url": "https://westbourne-house.typingclub.com"
@@ -6208,11 +6543,6 @@
     "subdomain": "westchester30030",
     "schoolName": "Westchester Elementary",
     "url": "https://westchester30030.typingclub.com"
-  },
-  {
-    "subdomain": "west-elem-wford",
-    "schoolName": "West Elementary--Weatherford, OK",
-    "url": "https://west-elem-wford.typingclub.com"
   },
   {
     "subdomain": "westgate-elementary3",
@@ -6230,29 +6560,9 @@
     "url": "https://westhaven.typingclub.com"
   },
   {
-    "subdomain": "west-haverstraw",
-    "schoolName": "West Haverstraw Elementary School",
-    "url": "https://west-haverstraw.typingclub.com"
-  },
-  {
     "subdomain": "westholtps",
     "schoolName": "West Holt Public School Dist 239 School",
     "url": "https://westholtps.typingclub.com"
-  },
-  {
-    "subdomain": "west-jeffersonmsb",
-    "schoolName": "West Jefferson High School",
-    "url": "https://west-jeffersonmsb.typingclub.com"
-  },
-  {
-    "subdomain": "west-madison",
-    "schoolName": "West Madison",
-    "url": "https://west-madison.typingclub.com"
-  },
-  {
-    "subdomain": "west-morley",
-    "schoolName": "West Morley PS",
-    "url": "https://west-morley.typingclub.com"
   },
   {
     "subdomain": "westonps",
@@ -6273,6 +6583,12 @@
     "subdomain": "wetumka",
     "schoolName": "Wetumka High School",
     "url": "https://wetumka.typingclub.com"
+  },
+  {
+    "subdomain": "weymouth",
+    "schoolName": null,
+    "url": "https://weymouth.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "wfbschools",
@@ -6340,14 +6656,14 @@
     "url": "https://willardmo.typingclub.com"
   },
   {
-    "subdomain": "willistonschools",
-    "schoolName": "Williston Basin Schools District #7",
-    "url": "https://willistonschools.typingclub.com"
-  },
-  {
     "subdomain": "williston-stewart",
     "schoolName": "Williston Central School",
     "url": "https://williston-stewart.typingclub.com"
+  },
+  {
+    "subdomain": "willistonschools",
+    "schoolName": "Williston Basin Schools District #7",
+    "url": "https://willistonschools.typingclub.com"
   },
   {
     "subdomain": "wilmette39",
@@ -6395,6 +6711,12 @@
     "url": "https://winthrop-hwschools.typingclub.com"
   },
   {
+    "subdomain": "wistjohnsneillsville",
+    "schoolName": null,
+    "url": "https://wistjohnsneillsville.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "wma-es",
     "schoolName": "West Michigan Acdmy of Environmental SCI",
     "url": "https://wma-es.typingclub.com"
@@ -6430,6 +6752,12 @@
     "url": "https://woodward.typingclub.com"
   },
   {
+    "subdomain": "woodway-elementary",
+    "schoolName": null,
+    "url": "https://woodway-elementary.typingclub.com",
+    "source": "commoncrawl-edclub"
+  },
+  {
     "subdomain": "worcesterschools",
     "schoolName": "Worcester Public School District",
     "url": "https://worcesterschools.typingclub.com"
@@ -6450,14 +6778,14 @@
     "url": "https://wtisburyschool.typingclub.com"
   },
   {
-    "subdomain": "w-verne-mckinney",
-    "schoolName": "W. Verne McKinney",
-    "url": "https://w-verne-mckinney.typingclub.com"
-  },
-  {
     "subdomain": "wvtigers",
     "schoolName": "Westview Elementary",
     "url": "https://wvtigers.typingclub.com"
+  },
+  {
+    "subdomain": "ww-robinson",
+    "schoolName": "WW Robinson Elementary",
+    "url": "https://ww-robinson.typingclub.com"
   },
   {
     "subdomain": "wwbearslab",
@@ -6465,14 +6793,16 @@
     "url": "https://wwbearslab.typingclub.com"
   },
   {
-    "subdomain": "w-w-robinson-elementary-school",
-    "schoolName": "W W Robinson Elementary School",
-    "url": "https://w-w-robinson-elementary-school.typingclub.com"
+    "subdomain": "wynantskill",
+    "schoolName": null,
+    "url": "https://wynantskill.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
-    "subdomain": "ww-robinson",
-    "schoolName": "WW Robinson Elementary",
-    "url": "https://ww-robinson.typingclub.com"
+    "subdomain": "wythecounty",
+    "schoolName": null,
+    "url": "https://wythecounty.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "wyvil",
@@ -6523,6 +6853,12 @@
     "subdomain": "youngamericanscorporation",
     "schoolName": "Badillo Elementary School",
     "url": "https://youngamericanscorporation.typingclub.com"
+  },
+  {
+    "subdomain": "zach-elementary3",
+    "schoolName": null,
+    "url": "https://zach-elementary3.typingclub.com",
+    "source": "commoncrawl-edclub"
   },
   {
     "subdomain": "zacharyschools",
