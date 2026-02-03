@@ -151,6 +151,7 @@
         
         .subdomain-link:hover { text-decoration: underline; }
         .subdomain-link.edclub { color: #f472b6; font-size: 0.8rem; }
+        .dead { color: #ef4444; font-size: 0.75rem; }
         
         .date-cell { white-space: nowrap; }
         .date-cell.recent { color: var(--success); font-weight: 500; }
@@ -219,11 +220,11 @@
             </div>
             <div class="stat">
                 <div class="stat-value yellow" id="statEstablished">--</div>
-                <div class="stat-label">⭐ Established (30+ records)</div>
+                <div class="stat-label">✅ Validated</div>
             </div>
             <div class="stat">
                 <div class="stat-value green" id="statNew">--</div>
-                <div class="stat-label">🆕 New (since 2025)</div>
+                <div class="stat-label">⚠️ Dead/Invalid</div>
             </div>
         </div>
         
@@ -318,15 +319,15 @@
         function updateStats() {
             const total = data.length;
             const active2026 = data.filter(d => d.lastSeen && d.lastSeen >= '2026-01-01').length;
-            const newSince2025 = data.filter(d => d.firstSeen && d.firstSeen >= '2025-01-01').length;
-            // Established = we'll estimate based on having wayback data from before 2024
-            const established = data.filter(d => d.firstSeen && d.firstSeen < '2024-01-01').length;
+            const validated = data.filter(d => d.validDomains).length;
+            const bothDomains = data.filter(d => d.validDomains === 'both').length;
+            const dead = data.filter(d => d.validDomains === 'none').length;
             
             document.getElementById('statTotal').textContent = total.toLocaleString();
             document.getElementById('totalCount').textContent = total.toLocaleString();
             document.getElementById('statActive').textContent = active2026.toLocaleString();
-            document.getElementById('statEstablished').textContent = established.toLocaleString();
-            document.getElementById('statNew').textContent = newSince2025.toLocaleString();
+            document.getElementById('statEstablished').textContent = validated.toLocaleString();
+            document.getElementById('statNew').textContent = (validated > 0 ? dead : 0).toLocaleString();
         }
         
         function getFilteredData() {
@@ -411,8 +412,10 @@
                     <tr>
                         <td class="name-cell">${escapeHtml(displayName)}</td>
                         <td>
-                            <a class="subdomain-link" href="https://${d.subdomain}.typingclub.com" target="_blank">${d.subdomain}.typingclub.com</a><br>
-                            <a class="subdomain-link edclub" href="https://${d.subdomain}.edclub.com" target="_blank">${d.subdomain}.edclub.com</a>
+                            ${d.typingclubValid !== false ? `<a class="subdomain-link" href="https://${d.subdomain}.typingclub.com" target="_blank">${d.subdomain}.typingclub.com</a>` : ''}
+                            ${d.typingclubValid !== false && d.edclubValid !== false ? '<br>' : ''}
+                            ${d.edclubValid !== false ? `<a class="subdomain-link edclub" href="https://${d.subdomain}.edclub.com" target="_blank">${d.subdomain}.edclub.com</a>` : ''}
+                            ${d.validDomains === 'none' ? '<span class="dead">⚠️ Invalid</span>' : ''}
                         </td>
                         <td><span class="type-badge type-${typeClass}">${type}</span></td>
                         <td class="date-cell">${d.firstSeen || '-'}</td>

@@ -3,2771 +3,4091 @@
     "subdomain": "179msk",
     "schoolName": null,
     "url": "https://179msk.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "1stgrade",
     "schoolName": null,
     "url": "https://1stgrade.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "2floydes",
     "schoolName": null,
     "url": "https://2floydes.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3-5-stjohns",
     "schoolName": "St. John's",
     "url": "https://3-5-stjohns.typingclub.com",
     "firstSeen": "2023-05-29",
-    "lastSeen": "2025-12-05"
+    "lastSeen": "2025-12-05",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3buckingham",
     "schoolName": null,
     "url": "https://3buckingham.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3g-dr",
     "schoolName": null,
     "url": "https://3g-dr.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3gearing",
     "schoolName": "Raven Stream Elementary School",
     "url": "https://3gearing.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3ghbttwisters",
     "schoolName": null,
     "url": "https://3ghbttwisters.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "3gleafs",
     "schoolName": null,
     "url": "https://3gleafs.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "443dcms",
     "schoolName": null,
     "url": "https://443dcms.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "49online",
     "schoolName": null,
     "url": "https://49online.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "4f1920",
     "schoolName": null,
     "url": "https://4f1920.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "4rcdcehh",
     "schoolName": null,
     "url": "https://4rcdcehh.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "4th-grade-carlos-fuentes",
     "schoolName": null,
     "url": "https://4th-grade-carlos-fuentes.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "521oakview",
     "schoolName": null,
     "url": "https://521oakview.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "548zilart",
     "schoolName": null,
     "url": "https://548zilart.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "56lab",
     "schoolName": null,
     "url": "https://56lab.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "5thredoak",
     "schoolName": null,
     "url": "https://5thredoak.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "7hills",
     "schoolName": "7 Hills",
     "url": "https://7hills.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "7oaks",
     "schoolName": null,
     "url": "https://7oaks.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "a-c-central-cmnty-unit-schl-district-262",
     "schoolName": null,
     "url": "https://a-c-central-cmnty-unit-schl-district-262.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "a-ms-hohenruppersdorf",
     "schoolName": null,
     "url": "https://a-ms-hohenruppersdorf.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "a2-schools",
     "schoolName": null,
     "url": "https://a2-schools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "abbyel",
     "schoolName": "Abbotsford Elementary School",
     "url": "https://abbyel.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "abbyreinke",
     "schoolName": null,
     "url": "https://abbyreinke.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "abcedudo",
     "schoolName": null,
     "url": "https://abcedudo.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "abdgillespie",
     "schoolName": null,
     "url": "https://abdgillespie.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aca-bowen",
     "schoolName": "ACA Bowen",
     "url": "https://aca-bowen.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "academiesatgbds",
     "schoolName": "Gerrard Berman Day School",
     "url": "https://academiesatgbds.typingclub.com",
     "firstSeen": "2016-05-19",
-    "lastSeen": "2018-01-15"
+    "lastSeen": "2018-01-15",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "academysb",
     "schoolName": null,
     "url": "https://academysb.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "acpsmd",
     "schoolName": null,
     "url": "https://acpsmd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "acsd-franklin",
     "schoolName": null,
     "url": "https://acsd-franklin.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "acsd4",
     "schoolName": null,
     "url": "https://acsd4.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "actonblairsville",
     "schoolName": null,
     "url": "https://actonblairsville.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "actonlascruces",
     "schoolName": "Acton Academy Las Cruces",
     "url": "https://actonlascruces.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "addison-elementary3",
     "schoolName": "Addison Elementary School",
     "url": "https://addison-elementary3.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "addison-elementary4",
     "schoolName": "Addison Elementary School",
     "url": "https://addison-elementary4.typingclub.com",
     "firstSeen": "2019-10-17",
-    "lastSeen": "2019-10-17"
+    "lastSeen": "2019-10-17",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "adirondack",
     "schoolName": null,
     "url": "https://adirondack.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "adugan0",
     "schoolName": null,
     "url": "https://adugan0.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aecsd",
     "schoolName": null,
     "url": "https://aecsd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aep-saint-joseph-des-carmes",
     "schoolName": null,
     "url": "https://aep-saint-joseph-des-carmes.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aes123",
     "schoolName": null,
     "url": "https://aes123.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aespanthers",
     "schoolName": "Archdale Elementary School",
     "url": "https://aespanthers.typingclub.com",
     "firstSeen": "2021-01-23",
-    "lastSeen": "2024-07-18"
+    "lastSeen": "2024-07-18",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aestaylor2",
     "schoolName": null,
     "url": "https://aestaylor2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "afton-lakeland-elementary",
     "schoolName": "Afton-Lakeland Elementary School",
     "url": "https://afton-lakeland-elementary.typingclub.com",
     "firstSeen": "2019-10-16",
-    "lastSeen": "2022-05-29"
+    "lastSeen": "2022-05-29",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "agnetyping",
     "schoolName": null,
     "url": "https://agnetyping.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ahisd",
     "schoolName": null,
     "url": "https://ahisd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ahsbruck",
     "schoolName": "BG/BRG Bruck an der Mur",
     "url": "https://ahsbruck.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aidb-ats",
     "schoolName": null,
     "url": "https://aidb-ats.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aim-academy-fairmount",
     "schoolName": null,
     "url": "https://aim-academy-fairmount.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ainsworth-middle-school",
     "schoolName": null,
     "url": "https://ainsworth-middle-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ainsworthschools",
     "schoolName": "Ainsworth Middle School",
     "url": "https://ainsworthschools.typingclub.com",
     "firstSeen": "2019-12-12",
-    "lastSeen": "2022-07-07"
+    "lastSeen": "2022-07-07",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aiscyprus",
     "schoolName": null,
     "url": "https://aiscyprus.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aishk",
     "schoolName": null,
     "url": "https://aishk.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aja2018",
     "schoolName": "Adelphian Junior Academy",
     "url": "https://aja2018.typingclub.com",
     "firstSeen": "2019-10-16",
-    "lastSeen": "2023-09-27"
+    "lastSeen": "2023-09-27",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "akron-elementary2",
     "schoolName": null,
     "url": "https://akron-elementary2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alachua-elementary",
     "schoolName": "Alachua Elementary",
     "url": "https://alachua-elementary.typingclub.com",
     "firstSeen": "2013-07-04",
-    "lastSeen": "2019-06-01"
+    "lastSeen": "2019-06-01",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alak12",
     "schoolName": "American Leadership Academy",
     "url": "https://alak12.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alameda-elementary",
     "schoolName": null,
     "url": "https://alameda-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alamedaschools",
     "schoolName": "Alameda Unified School District",
     "url": "https://alamedaschools.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alamosa-elementary",
     "schoolName": null,
     "url": "https://alamosa-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alan-shepard",
     "schoolName": "Alan Shepard Elementary",
     "url": "https://alan-shepard.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "albanyusd",
     "schoolName": "Albany Unified School District",
     "url": "https://albanyusd.typingclub.com",
     "firstSeen": "2024-11-11",
-    "lastSeen": "2024-11-11"
+    "lastSeen": "2024-11-11",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "albiacsd",
     "schoolName": null,
     "url": "https://albiacsd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alcoa",
     "schoolName": null,
     "url": "https://alcoa.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alcott2030",
     "schoolName": null,
     "url": "https://alcott2030.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alden-primaryhause",
     "schoolName": null,
     "url": "https://alden-primaryhause.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aldenbulldogs",
     "schoolName": null,
     "url": "https://aldenbulldogs.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aldenintermediateschool",
     "schoolName": null,
     "url": "https://aldenintermediateschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alexander-es",
     "schoolName": null,
     "url": "https://alexander-es.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alford",
     "schoolName": null,
     "url": "https://alford.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "algomachristian",
     "schoolName": null,
     "url": "https://algomachristian.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alleneast",
     "schoolName": "Allen East Elementary School",
     "url": "https://alleneast.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allenelem",
     "schoolName": null,
     "url": "https://allenelem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allenstown-elementary",
     "schoolName": "Allenstown Elementary School",
     "url": "https://allenstown-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allenstown-school",
     "schoolName": "Allenstown School / SAU53",
     "url": "https://allenstown-school.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allentx",
     "schoolName": null,
     "url": "https://allentx.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allenvillageschool",
     "schoolName": "Allen Village School",
     "url": "https://allenvillageschool.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allsaintscatholic",
     "schoolName": null,
     "url": "https://allsaintscatholic.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allsaintsnorman",
     "schoolName": null,
     "url": "https://allsaintsnorman.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allsaintsofsjv",
     "schoolName": null,
     "url": "https://allsaintsofsjv.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "allschools",
     "schoolName": "Cooper",
     "url": "https://allschools.typingclub.com",
     "firstSeen": "2014-03-17",
-    "lastSeen": "2014-03-17"
+    "lastSeen": "2014-03-17",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alouette",
     "schoolName": null,
     "url": "https://alouette.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alpenaschools",
     "schoolName": "Alpena Public Schools",
     "url": "https://alpenaschools.typingclub.com",
     "firstSeen": "2013-04-16",
-    "lastSeen": "2025-06-04"
+    "lastSeen": "2025-06-04",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alphahart",
     "schoolName": null,
     "url": "https://alphahart.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alpine-middlebucks",
     "schoolName": null,
     "url": "https://alpine-middlebucks.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alpinecomputers",
     "schoolName": null,
     "url": "https://alpinecomputers.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "alshomoukh",
     "schoolName": "Al Shomoukh International School",
     "url": "https://alshomoukh.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "altamontelem",
     "schoolName": null,
     "url": "https://altamontelem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "altavista",
     "schoolName": "Alta Vista Elementary School",
     "url": "https://altavista.typingclub.com",
     "firstSeen": "2018-11-29",
-    "lastSeen": "2019-10-14"
+    "lastSeen": "2019-10-14",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "altavista11",
     "schoolName": null,
     "url": "https://altavista11.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "altclub",
     "schoolName": null,
     "url": "https://altclub.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "am-gym",
     "schoolName": null,
     "url": "https://am-gym.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "amboy-junior2",
     "schoolName": "Amboy Junior High School",
     "url": "https://amboy-junior2.typingclub.com",
     "firstSeen": "2019-10-20",
-    "lastSeen": "2019-10-20"
+    "lastSeen": "2019-10-20",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "amelia-earhart-elementary-school",
     "schoolName": null,
     "url": "https://amelia-earhart-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "american-nicaraguan-school",
     "schoolName": null,
     "url": "https://american-nicaraguan-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "amherst-elementary3",
     "schoolName": null,
     "url": "https://amherst-elementary3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "amsterdam",
     "schoolName": "Amsterdam Elementary School",
     "url": "https://amsterdam.typingclub.com",
     "firstSeen": "2019-12-06",
-    "lastSeen": "2024-07-14"
+    "lastSeen": "2024-07-14",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anchorage",
     "schoolName": null,
     "url": "https://anchorage.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anchorbay",
     "schoolName": null,
     "url": "https://anchorbay.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ankeny",
     "schoolName": null,
     "url": "https://ankeny.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anna-rungo",
     "schoolName": null,
     "url": "https://anna-rungo.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "annajarvis",
     "schoolName": null,
     "url": "https://annajarvis.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anne-sullivan-communication-center",
     "schoolName": "Anne Sullivan Communication Center",
     "url": "https://anne-sullivan-communication-center.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anne-sullivan-elementary-school",
     "schoolName": null,
     "url": "https://anne-sullivan-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "annistown",
     "schoolName": null,
     "url": "https://annistown.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "annunciationbvm",
     "schoolName": null,
     "url": "https://annunciationbvm.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "anqing",
     "schoolName": null,
     "url": "https://anqing.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "antelope-creek",
     "schoolName": "Antelope Creek Elementary School",
     "url": "https://antelope-creek.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "antelopeschools",
     "schoolName": null,
     "url": "https://antelopeschools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "antilles",
     "schoolName": null,
     "url": "https://antilles.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "antonacci",
     "schoolName": null,
     "url": "https://antonacci.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aosrtyping",
     "schoolName": null,
     "url": "https://aosrtyping.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "apex-elementary",
     "schoolName": "Apex Elementary School",
     "url": "https://apex-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "apex-elementary-school",
     "schoolName": "Apex Elementary School",
     "url": "https://apex-elementary-school.typingclub.com",
     "firstSeen": "2020-10-21",
-    "lastSeen": "2020-10-21"
+    "lastSeen": "2020-10-21",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "apex-primary",
     "schoolName": null,
     "url": "https://apex-primary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "appleton",
     "schoolName": "Appleton Area School District",
     "url": "https://appleton.typingclub.com",
     "firstSeen": "2017-05-09",
-    "lastSeen": "2022-08-11"
+    "lastSeen": "2022-08-11",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "applingco",
     "schoolName": null,
     "url": "https://applingco.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aps48",
     "schoolName": null,
     "url": "https://aps48.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "apshawa-elementarygrade3",
     "schoolName": null,
     "url": "https://apshawa-elementarygrade3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "apsva",
     "schoolName": "Arlington Public Schools",
     "url": "https://apsva.typingclub.com",
     "firstSeen": "2019-10-16",
-    "lastSeen": "2025-12-09"
+    "lastSeen": "2025-12-09",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aquinas-academygbg",
     "schoolName": null,
     "url": "https://aquinas-academygbg.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aquincascade",
     "schoolName": null,
     "url": "https://aquincascade.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arborland",
     "schoolName": "Arborland Montessori Children's Academy",
     "url": "https://arborland.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arcadia-wi-school",
     "schoolName": "Arcadia School District",
     "url": "https://arcadia-wi-school.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "archdale-elementary-school",
     "schoolName": "Archdale Elementary School",
     "url": "https://archdale-elementary-school.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ardmore",
     "schoolName": "Ardmore Adventist Academy",
     "url": "https://ardmore.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aremrsbell",
     "schoolName": null,
     "url": "https://aremrsbell.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arevalobermejo",
     "schoolName": null,
     "url": "https://arevalobermejo.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arkansas-arts-academy",
     "schoolName": null,
     "url": "https://arkansas-arts-academy.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arkoma3",
     "schoolName": null,
     "url": "https://arkoma3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arlingtonsciencefocusschool",
     "schoolName": "Arlington Science Focus School",
     "url": "https://arlingtonsciencefocusschool.typingclub.com",
     "firstSeen": "2022-12-09",
-    "lastSeen": "2022-12-09"
+    "lastSeen": "2022-12-09",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arlmiddleschool",
     "schoolName": "ARL Middle School",
     "url": "https://arlmiddleschool.typingclub.com",
     "firstSeen": "2013-05-17",
-    "lastSeen": "2019-06-28"
+    "lastSeen": "2019-06-28",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "armstrong-elementary",
     "schoolName": "Armstrong Elementary School",
     "url": "https://armstrong-elementary.typingclub.com",
     "firstSeen": "2019-10-15",
-    "lastSeen": "2020-10-29"
+    "lastSeen": "2020-10-29",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arpsowls",
     "schoolName": null,
     "url": "https://arpsowls.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arpsowls-williams",
     "schoolName": null,
     "url": "https://arpsowls-williams.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arrowheadziegler",
     "schoolName": null,
     "url": "https://arrowheadziegler.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arroyodeloso",
     "schoolName": null,
     "url": "https://arroyodeloso.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "arsu",
     "schoolName": "Fair Haven Grade School",
     "url": "https://arsu.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "artsbased",
     "schoolName": null,
     "url": "https://artsbased.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asaadams",
     "schoolName": "Asa C Adams Elementary School",
     "url": "https://asaadams.typingclub.com",
     "firstSeen": "2019-10-15",
-    "lastSeen": "2025-02-19"
+    "lastSeen": "2025-02-19",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asacharterschool",
     "schoolName": null,
     "url": "https://asacharterschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asbschool",
     "schoolName": "Assumption - St. Bridget School",
     "url": "https://asbschool.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ascensionlutheranschool",
     "schoolName": null,
     "url": "https://ascensionlutheranschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ascs-mn",
     "schoolName": null,
     "url": "https://ascs-mn.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ascs-typing",
     "schoolName": "All Souls Catholic School",
     "url": "https://ascs-typing.typingclub.com",
     "firstSeen": "2016-11-22",
-    "lastSeen": "2019-10-19"
+    "lastSeen": "2019-10-19",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asdarcadia",
     "schoolName": null,
     "url": "https://asdarcadia.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asdk12-cte",
     "schoolName": "ASD - Career & Technical Education",
     "url": "https://asdk12-cte.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aseschool",
     "schoolName": null,
     "url": "https://aseschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asfmtyping",
     "schoolName": null,
     "url": "https://asfmtyping.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "asha-stevensicantype",
     "schoolName": null,
     "url": "https://asha-stevensicantype.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ashby-elementary",
     "schoolName": "Ashby Elementary School",
     "url": "https://ashby-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ashfoldschool",
     "schoolName": null,
     "url": "https://ashfoldschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ashmi",
     "schoolName": null,
     "url": "https://ashmi.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "ashtc",
     "schoolName": null,
     "url": "https://ashtc.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aslondon",
     "schoolName": null,
     "url": "https://aslondon.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aspencrossing",
     "schoolName": null,
     "url": "https://aspencrossing.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aspenelem",
     "schoolName": null,
     "url": "https://aspenelem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aspenk12",
     "schoolName": "",
     "url": "https://aspenk12.typingclub.com",
     "firstSeen": "2013-02-27",
-    "lastSeen": "2019-07-05"
+    "lastSeen": "2019-07-05",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "athenscs",
     "schoolName": null,
     "url": "https://athenscs.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "atticabulldogs",
     "schoolName": null,
     "url": "https://atticabulldogs.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "auburndaleelementary",
     "schoolName": "Greenwood Elementary",
     "url": "https://auburndaleelementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "auburnvillageschool",
     "schoolName": "Auburn Village School",
     "url": "https://auburnvillageschool.typingclub.com",
     "firstSeen": "2015-11-15",
-    "lastSeen": "2024-07-20"
+    "lastSeen": "2024-07-20",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "audubon-elementarynissen",
     "schoolName": null,
     "url": "https://audubon-elementarynissen.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aurora-borealis",
     "schoolName": "Aurora Borealis Charter School",
     "url": "https://aurora-borealis.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aviciano",
     "schoolName": null,
     "url": "https://aviciano.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "avilla-school",
     "schoolName": "Avilla School",
     "url": "https://avilla-school.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "avillapanthers",
     "schoolName": null,
     "url": "https://avillapanthers.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "aviston-elementary",
     "schoolName": null,
     "url": "https://aviston-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "avon-elementary3",
     "schoolName": null,
     "url": "https://avon-elementary3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "avondale",
     "schoolName": null,
     "url": "https://avondale.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "avonschool",
     "schoolName": null,
     "url": "https://avonschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "b40middle",
     "schoolName": "Branciforte Middle School",
     "url": "https://b40middle.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bacich",
     "schoolName": null,
     "url": "https://bacich.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "backus3",
     "schoolName": null,
     "url": "https://backus3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bacon-elementary",
     "schoolName": null,
     "url": "https://bacon-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bailey",
     "schoolName": null,
     "url": "https://bailey.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bailey-elementary-school",
     "schoolName": null,
     "url": "https://bailey-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "baldwin-woodville-ar",
     "schoolName": "Baldwin-Woodville Area Schools",
     "url": "https://baldwin-woodville-ar.typingclub.com",
     "firstSeen": "2024-07-05",
-    "lastSeen": "2024-07-05"
+    "lastSeen": "2024-07-05",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "baldwin2016",
     "schoolName": "Baldwin Elementary School",
     "url": "https://baldwin2016.typingclub.com",
     "firstSeen": "2021-05-12",
-    "lastSeen": "2021-05-12"
+    "lastSeen": "2021-05-12",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "baldwinschools",
     "schoolName": null,
     "url": "https://baldwinschools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "balmoral",
     "schoolName": "Balmoral",
     "url": "https://balmoral.typingclub.com",
     "firstSeen": "2013-04-22",
-    "lastSeen": "2019-07-14"
+    "lastSeen": "2019-07-14",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "baltic-school2",
     "schoolName": null,
     "url": "https://baltic-school2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bannerelementary",
     "schoolName": null,
     "url": "https://bannerelementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bannoncreek16",
     "schoolName": null,
     "url": "https://bannoncreek16.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barkhamsted",
     "schoolName": null,
     "url": "https://barkhamsted.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barnardiston-hall",
     "schoolName": null,
     "url": "https://barnardiston-hall.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barnegatschools",
     "schoolName": null,
     "url": "https://barnegatschools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barnstable",
     "schoolName": null,
     "url": "https://barnstable.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barranca",
     "schoolName": "Barranca Mesa Elementary",
     "url": "https://barranca.typingclub.com",
     "firstSeen": "2016-03-12",
-    "lastSeen": "2019-06-15"
+    "lastSeen": "2019-06-15",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barrett",
     "schoolName": null,
     "url": "https://barrett.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barrhead-elementary3a",
     "schoolName": null,
     "url": "https://barrhead-elementary3a.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barrington-middle",
     "schoolName": null,
     "url": "https://barrington-middle.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "barrington220",
     "schoolName": "Barrington CCUSD 220",
     "url": "https://barrington220.typingclub.com",
     "firstSeen": "2014-10-07",
-    "lastSeen": "2025-06-21"
+    "lastSeen": "2025-06-21",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bartelsobraves",
     "schoolName": "Bartelso Elementary School",
     "url": "https://bartelsobraves.typingclub.com",
     "firstSeen": "2021-09-21",
-    "lastSeen": "2025-07-17"
+    "lastSeen": "2025-07-17",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bathcats",
     "schoolName": "",
     "url": "https://bathcats.typingclub.com",
     "firstSeen": "2022-12-09",
-    "lastSeen": "2022-12-09"
+    "lastSeen": "2022-12-09",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "battell",
     "schoolName": "Battell Elementary School",
     "url": "https://battell.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bauder",
     "schoolName": null,
     "url": "https://bauder.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bay-farm-310",
     "schoolName": null,
     "url": "https://bay-farm-310.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bayberry",
     "schoolName": null,
     "url": "https://bayberry.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bayfarm18",
     "schoolName": null,
     "url": "https://bayfarm18.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bayvillageschools",
     "schoolName": "Bay Village City School Dist",
     "url": "https://bayvillageschools.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bbcps",
     "schoolName": "Benjamin Banneker Charter Public School",
     "url": "https://bbcps.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bbctype",
     "schoolName": null,
     "url": "https://bbctype.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcebears",
     "schoolName": null,
     "url": "https://bcebears.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcelem",
     "schoolName": null,
     "url": "https://bcelem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bces-lib",
     "schoolName": null,
     "url": "https://bces-lib.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcesowls2",
     "schoolName": null,
     "url": "https://bcesowls2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bck8typing",
     "schoolName": null,
     "url": "https://bck8typing.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcpsauburn",
     "schoolName": null,
     "url": "https://bcpsauburn.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcpsmcalear",
     "schoolName": "McAlear-Sawden Elementary School",
     "url": "https://bcpsmcalear.typingclub.com",
     "firstSeen": "2022-05-20",
-    "lastSeen": "2024-06-14"
+    "lastSeen": "2024-06-14",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcsberlin",
     "schoolName": "Berlin Community Elementary School",
     "url": "https://bcsberlin.typingclub.com",
     "firstSeen": "2021-06-23",
-    "lastSeen": "2021-06-23"
+    "lastSeen": "2021-06-23",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcsdbearcats",
     "schoolName": "Bedford City School District",
     "url": "https://bcsdbearcats.typingclub.com",
     "firstSeen": "2016-03-07",
-    "lastSeen": "2025-05-25"
+    "lastSeen": "2025-05-25",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcsetech",
     "schoolName": "BCSE",
     "url": "https://bcsetech.typingclub.com",
     "firstSeen": "2024-01-01",
-    "lastSeen": "2024-08-06"
+    "lastSeen": "2024-08-06",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcsftl",
     "schoolName": null,
     "url": "https://bcsftl.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bcsoh",
     "schoolName": null,
     "url": "https://bcsoh.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bdelementaryschool",
     "schoolName": null,
     "url": "https://bdelementaryschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beachmont",
     "schoolName": "Beachmont Veterans Memorial School",
     "url": "https://beachmont.typingclub.com",
     "firstSeen": "2019-10-14",
-    "lastSeen": "2025-07-26"
+    "lastSeen": "2025-07-26",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beattie-elementary",
     "schoolName": "Beattie Elementary",
     "url": "https://beattie-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beaubien-school",
     "schoolName": null,
     "url": "https://beaubien-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beauregard-parish",
     "schoolName": "Beauregard Parish School District",
     "url": "https://beauregard-parish.typingclub.com",
     "firstSeen": "2019-10-21",
-    "lastSeen": "2025-02-17"
+    "lastSeen": "2025-02-17",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beckemeyer-school",
     "schoolName": null,
     "url": "https://beckemeyer-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "becker",
     "schoolName": "Bowling Green R-1 School",
     "url": "https://becker.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "becker-elementary-school",
     "schoolName": null,
     "url": "https://becker-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bedford",
     "schoolName": null,
     "url": "https://bedford.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bedfordd7",
     "schoolName": null,
     "url": "https://bedfordd7.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bedminster",
     "schoolName": null,
     "url": "https://bedminster.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bedokgreenpri",
     "schoolName": null,
     "url": "https://bedokgreenpri.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beemanschool",
     "schoolName": "Beeman Memorial Elementary School",
     "url": "https://beemanschool.typingclub.com",
     "firstSeen": "2019-10-22",
-    "lastSeen": "2020-09-25"
+    "lastSeen": "2020-09-25",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beersstreetschool",
     "schoolName": "",
     "url": "https://beersstreetschool.typingclub.com",
     "firstSeen": "2016-03-14",
-    "lastSeen": "2019-06-27"
+    "lastSeen": "2019-06-27",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "behlow",
     "schoolName": null,
     "url": "https://behlow.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belcherschool",
     "schoolName": null,
     "url": "https://belcherschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belchertownps",
     "schoolName": null,
     "url": "https://belchertownps.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belden-leadership",
     "schoolName": null,
     "url": "https://belden-leadership.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belding-area-schools",
     "schoolName": null,
     "url": "https://belding-area-schools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bellecreekcs",
     "schoolName": null,
     "url": "https://bellecreekcs.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belleview-eagles",
     "schoolName": null,
     "url": "https://belleview-eagles.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belleview-elementary-walker",
     "schoolName": null,
     "url": "https://belleview-elementary-walker.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belleviewelementary",
     "schoolName": null,
     "url": "https://belleviewelementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bellevuees",
     "schoolName": "Bellevue",
     "url": "https://bellevuees.typingclub.com",
     "firstSeen": "2014-08-27",
-    "lastSeen": "2019-05-27"
+    "lastSeen": "2019-05-27",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belloakstech",
     "schoolName": null,
     "url": "https://belloakstech.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belmar-elementary",
     "schoolName": "Belmar Elementary",
     "url": "https://belmar-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belmar-elementary2",
     "schoolName": "Belmar Elementary School",
     "url": "https://belmar-elementary2.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belmay",
     "schoolName": "Belmay Primary School",
     "url": "https://belmay.typingclub.com",
     "firstSeen": "2017-01-01",
-    "lastSeen": "2017-01-01"
+    "lastSeen": "2017-01-01",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "belmont",
     "schoolName": null,
     "url": "https://belmont.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benchschool",
     "schoolName": null,
     "url": "https://benchschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bengil",
     "schoolName": null,
     "url": "https://bengil.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benito34",
     "schoolName": "SVSD",
     "url": "https://benito34.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benjamin-franklin2",
     "schoolName": null,
     "url": "https://benjamin-franklin2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bennettib",
     "schoolName": "",
     "url": "https://bennettib.typingclub.com",
     "firstSeen": "2019-09-22",
-    "lastSeen": "2024-05-09"
+    "lastSeen": "2024-05-09",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bennion-elementary2",
     "schoolName": null,
     "url": "https://bennion-elementary2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benparker",
     "schoolName": "Rev Benjamin Parker Elementary School",
     "url": "https://benparker.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bent-elementary",
     "schoolName": null,
     "url": "https://bent-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bentley-community",
     "schoolName": null,
     "url": "https://bentley-community.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benton",
     "schoolName": "Benton Public Schools",
     "url": "https://benton.typingclub.com",
     "firstSeen": "2019-10-22",
-    "lastSeen": "2019-10-22"
+    "lastSeen": "2019-10-22",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "benton-stem",
     "schoolName": null,
     "url": "https://benton-stem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berg3",
     "schoolName": null,
     "url": "https://berg3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bergen-meadow",
     "schoolName": null,
     "url": "https://bergen-meadow.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bergen-valley4",
     "schoolName": null,
     "url": "https://bergen-valley4.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bergman-elementary",
     "schoolName": null,
     "url": "https://bergman-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bergsdeafed",
     "schoolName": "",
     "url": "https://bergsdeafed.typingclub.com",
     "firstSeen": "2013-10-29",
-    "lastSeen": "2019-07-18"
+    "lastSeen": "2019-07-18",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berino-elementary",
     "schoolName": "Berino Elementary School",
     "url": "https://berino-elementary.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berkeley-unified",
     "schoolName": "Berkeley Unified School District",
     "url": "https://berkeley-unified.typingclub.com",
     "firstSeen": "2013-08-14",
-    "lastSeen": "2023-02-07"
+    "lastSeen": "2023-02-07",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berkeleyschool",
     "schoolName": null,
     "url": "https://berkeleyschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berkowitz",
     "schoolName": null,
     "url": "https://berkowitz.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berkshire-elementary2",
     "schoolName": null,
     "url": "https://berkshire-elementary2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berlinschools",
     "schoolName": "Berlin Public Schools",
     "url": "https://berlinschools.typingclub.com",
     "firstSeen": "2019-11-13",
-    "lastSeen": "2024-07-06"
+    "lastSeen": "2024-07-06",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bernards-township",
     "schoolName": "Bernards Township School District",
     "url": "https://bernards-township.typingclub.com",
     "firstSeen": "2015-03-15",
-    "lastSeen": "2021-10-21"
+    "lastSeen": "2021-10-21",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berne-knox-westerlo-elementary",
     "schoolName": null,
     "url": "https://berne-knox-westerlo-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "berry-school",
     "schoolName": "Berry School",
     "url": "https://berry-school.typingclub.com",
     "firstSeen": "2023-09-29",
-    "lastSeen": "2025-01-13"
+    "lastSeen": "2025-01-13",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bes-foxes",
     "schoolName": null,
     "url": "https://bes-foxes.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beshounds",
     "schoolName": null,
     "url": "https://beshounds.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "besstudent",
     "schoolName": null,
     "url": "https://besstudent.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bestech",
     "schoolName": null,
     "url": "https://bestech.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bethanyeagles",
     "schoolName": "Bethany Lutheran School",
     "url": "https://bethanyeagles.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bethel-elementary",
     "schoolName": "Bethel Elementary",
     "url": "https://bethel-elementary.typingclub.com",
     "firstSeen": "2019-11-22",
-    "lastSeen": "2019-11-22"
+    "lastSeen": "2019-11-22",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bethelsd",
     "schoolName": null,
     "url": "https://bethelsd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bethke",
     "schoolName": "Bethke Elementary School",
     "url": "https://bethke.typingclub.com",
     "firstSeen": "2015-03-21",
-    "lastSeen": "2022-05-18"
+    "lastSeen": "2022-05-18",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bethlehemcsd",
     "schoolName": null,
     "url": "https://bethlehemcsd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beulah-heights",
     "schoolName": "Beulah Heights",
     "url": "https://beulah-heights.typingclub.com",
     "firstSeen": "2020-08-03",
-    "lastSeen": "2021-09-27"
+    "lastSeen": "2021-09-27",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beverly-city18",
     "schoolName": null,
     "url": "https://beverly-city18.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beverly-cleary",
     "schoolName": null,
     "url": "https://beverly-cleary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "beverly-hills",
     "schoolName": "Beverly Hills Elementary School",
     "url": "https://beverly-hills.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bexleyschools",
     "schoolName": "Bexley City Schools",
     "url": "https://bexleyschools.typingclub.com",
     "firstSeen": "2016-02-02",
-    "lastSeen": "2019-07-18"
+    "lastSeen": "2019-07-18",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bfacademy",
     "schoolName": null,
     "url": "https://bfacademy.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bfcds",
     "schoolName": "Burgundy Farm Country Day School",
     "url": "https://bfcds.typingclub.com",
     "firstSeen": "2022-03-30",
-    "lastSeen": "2024-04-26"
+    "lastSeen": "2024-04-26",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bgcparkersburg",
     "schoolName": "Boys and Girls Club of Parkersburg",
     "url": "https://bgcparkersburg.typingclub.com",
     "firstSeen": "2017-02-07",
-    "lastSeen": "2019-06-22"
+    "lastSeen": "2019-06-22",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bgsbulldogs",
     "schoolName": "Bulls Gap School",
     "url": "https://bgsbulldogs.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bhsprep",
     "schoolName": null,
     "url": "https://bhsprep.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bialikcollege",
     "schoolName": null,
     "url": "https://bialikcollege.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "big-bear-bbesbobcats",
     "schoolName": "Big Bear Elementary School",
     "url": "https://big-bear-bbesbobcats.typingclub.com",
     "firstSeen": "2019-10-19",
-    "lastSeen": "2023-01-31"
+    "lastSeen": "2023-01-31",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "big-sky",
     "schoolName": "Big Sky Elementary School",
     "url": "https://big-sky.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bigreds",
     "schoolName": null,
     "url": "https://bigreds.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "billroth73",
     "schoolName": null,
     "url": "https://billroth73.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "biloxischools",
     "schoolName": "Popps Ferry Elementary School",
     "url": "https://biloxischools.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "birchwood",
     "schoolName": "School District of Birchwood",
     "url": "https://birchwood.typingclub.com",
     "firstSeen": "2019-10-15",
-    "lastSeen": "2025-12-15"
+    "lastSeen": "2025-12-15",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "birchwood-school",
     "schoolName": "Birchwood School",
     "url": "https://birchwood-school.typingclub.com",
     "firstSeen": "2019-10-20",
-    "lastSeen": "2024-09-13"
+    "lastSeen": "2024-09-13",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bischgym",
     "schoolName": null,
     "url": "https://bischgym.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bishoplonsdale",
     "schoolName": null,
     "url": "https://bishoplonsdale.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bisk4",
     "schoolName": null,
     "url": "https://bisk4.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "biskeyboarding",
     "schoolName": null,
     "url": "https://biskeyboarding.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bison",
     "schoolName": "New Buffalo Area Schools",
     "url": "https://bison.typingclub.com",
     "firstSeen": "2017-06-26",
-    "lastSeen": "2022-01-29"
+    "lastSeen": "2022-01-29",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bj-ward",
     "schoolName": null,
     "url": "https://bj-ward.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blackfoxtyping",
     "schoolName": "Black Fox Elementary School",
     "url": "https://blackfoxtyping.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blackmansparks",
     "schoolName": null,
     "url": "https://blackmansparks.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blackwellfrierson",
     "schoolName": null,
     "url": "https://blackwellfrierson.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blaineschools",
     "schoolName": null,
     "url": "https://blaineschools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blairgowrie-high",
     "schoolName": null,
     "url": "https://blairgowrie-high.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blanchester-local",
     "schoolName": "",
     "url": "https://blanchester-local.typingclub.com",
     "firstSeen": "2016-07-30",
-    "lastSeen": "2016-07-30"
+    "lastSeen": "2016-07-30",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blanintermediate",
     "schoolName": "Blanchester Intermediate School",
     "url": "https://blanintermediate.typingclub.com",
     "firstSeen": "2019-10-15",
-    "lastSeen": "2019-10-15"
+    "lastSeen": "2019-10-15",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blayton",
     "schoolName": null,
     "url": "https://blayton.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blessedschool",
     "schoolName": null,
     "url": "https://blessedschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bliss-school",
     "schoolName": "Bliss Elementary School",
     "url": "https://bliss-school.typingclub.com",
     "firstSeen": "2023-06-06",
-    "lastSeen": "2025-12-11"
+    "lastSeen": "2025-12-11",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bloom-mem",
     "schoolName": null,
     "url": "https://bloom-mem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bloomfield07003",
     "schoolName": "Bloomfield Schools",
     "url": "https://bloomfield07003.typingclub.com",
     "firstSeen": "2021-11-28",
-    "lastSeen": "2025-07-22"
+    "lastSeen": "2025-07-22",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bloomfieldcsd",
     "schoolName": "Bloomfield Central School District",
     "url": "https://bloomfieldcsd.typingclub.com",
     "firstSeen": "2020-07-17",
-    "lastSeen": "2020-07-17"
+    "lastSeen": "2020-07-17",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bloomingdale13",
     "schoolName": "Bloomingdale School District 13",
     "url": "https://bloomingdale13.typingclub.com",
     "firstSeen": "2013-04-22",
-    "lastSeen": "2022-07-05"
+    "lastSeen": "2022-07-05",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blue-mountain",
     "schoolName": "Blue Mountain Elementary",
     "url": "https://blue-mountain.typingclub.com",
     "firstSeen": "2019-09-16",
-    "lastSeen": "2019-12-14"
+    "lastSeen": "2019-12-14",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blue-oak-charter-school",
     "schoolName": null,
     "url": "https://blue-oak-charter-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blue-valley-school",
     "schoolName": "Blue Valley School",
     "url": "https://blue-valley-school.typingclub.com",
     "firstSeen": "2020-10-29",
-    "lastSeen": "2023-04-01"
+    "lastSeen": "2023-04-01",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bluecats",
     "schoolName": null,
     "url": "https://bluecats.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bluffridge",
     "schoolName": "Bluff Ridge Elementary",
     "url": "https://bluffridge.typingclub.com",
     "firstSeen": "2019-10-20",
-    "lastSeen": "2024-05-03"
+    "lastSeen": "2024-05-03",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blufftones",
     "schoolName": null,
     "url": "https://blufftones.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blum-elementary",
     "schoolName": null,
     "url": "https://blum-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blundells",
     "schoolName": null,
     "url": "https://blundells.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blundells-senior",
     "schoolName": null,
     "url": "https://blundells-senior.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "blythe",
     "schoolName": null,
     "url": "https://blythe.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bmstechapps",
     "schoolName": null,
     "url": "https://bmstechapps.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "boltoncentralschool",
     "schoolName": "Bolton Central School",
     "url": "https://boltoncentralschool.typingclub.com",
     "firstSeen": "2019-10-24",
-    "lastSeen": "2024-12-02"
+    "lastSeen": "2024-12-02",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bonner",
     "schoolName": "Bonner School",
     "url": "https://bonner.typingclub.com",
     "firstSeen": "2017-02-08",
-    "lastSeen": "2019-06-27"
+    "lastSeen": "2019-06-27",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bonneville",
     "schoolName": "RME",
     "url": "https://bonneville.typingclub.com",
     "firstSeen": "2021-09-29",
-    "lastSeen": "2024-07-16"
+    "lastSeen": "2024-07-16",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bonnie-brae2",
     "schoolName": null,
     "url": "https://bonnie-brae2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "booker-t-washington-academy-primary-ctr",
     "schoolName": null,
     "url": "https://booker-t-washington-academy-primary-ctr.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "booneville",
     "schoolName": null,
     "url": "https://booneville.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "boulder-elementary",
     "schoolName": null,
     "url": "https://boulder-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bow-valley",
     "schoolName": "Bow Valley High School",
     "url": "https://bow-valley.typingclub.com",
     "firstSeen": "2017-06-02",
-    "lastSeen": "2019-08-30"
+    "lastSeen": "2019-08-30",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bowcps",
     "schoolName": null,
     "url": "https://bowcps.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "boydelem",
     "schoolName": null,
     "url": "https://boydelem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bpd3",
     "schoolName": null,
     "url": "https://bpd3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bplongfellow",
     "schoolName": null,
     "url": "https://bplongfellow.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bpme1",
     "schoolName": "Birchwood Elementary School",
     "url": "https://bpme1.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brakenbury",
     "schoolName": "Silas Willard",
     "url": "https://brakenbury.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "branch",
     "schoolName": "Irving L. Branch Elementary",
     "url": "https://branch.typingclub.com",
     "firstSeen": "2021-10-22",
-    "lastSeen": "2023-03-22"
+    "lastSeen": "2023-03-22",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "branciforte",
     "schoolName": "Branciforte Middle School",
     "url": "https://branciforte.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brashear",
     "schoolName": null,
     "url": "https://brashear.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "breck-el",
     "schoolName": "Breckenridge Elementary School",
     "url": "https://breck-el.typingclub.com",
     "firstSeen": "2017-05-11",
-    "lastSeen": "2017-05-11"
+    "lastSeen": "2017-05-11",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brentwoodlowerschool",
     "schoolName": "Brentwood School",
     "url": "https://brentwoodlowerschool.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bresd",
     "schoolName": null,
     "url": "https://bresd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bret-harte-elementary-school",
     "schoolName": null,
     "url": "https://bret-harte-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brexo",
     "schoolName": null,
     "url": "https://brexo.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brg18",
     "schoolName": null,
     "url": "https://brg18.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "briarcrest",
     "schoolName": "Briarcrest Elementary School",
     "url": "https://briarcrest.typingclub.com",
     "firstSeen": "2019-11-18",
-    "lastSeen": "2024-06-16"
+    "lastSeen": "2024-06-16",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeport-grade-nash",
     "schoolName": "Bridgeport Grade School",
     "url": "https://bridgeport-grade-nash.typingclub.com",
     "firstSeen": "2019-10-23",
-    "lastSeen": "2023-11-30"
+    "lastSeen": "2023-11-30",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeport-gradejones",
     "schoolName": "Bridgeport Grade School",
     "url": "https://bridgeport-gradejones.typingclub.com",
     "firstSeen": "2019-11-12",
-    "lastSeen": "2023-09-25"
+    "lastSeen": "2023-09-25",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeport-gradewaggoner",
     "schoolName": "Bridgeport Grade School",
     "url": "https://bridgeport-gradewaggoner.typingclub.com",
     "firstSeen": "2019-10-23",
-    "lastSeen": "2023-10-01"
+    "lastSeen": "2023-10-01",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeportbobcats",
     "schoolName": "",
     "url": "https://bridgeportbobcats.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgewater-emery-elementary",
     "schoolName": null,
     "url": "https://bridgewater-emery-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgewater-prep",
     "schoolName": null,
     "url": "https://bridgewater-prep.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeway-island-elementary-school",
     "schoolName": "Bridgeway Island Elementary School",
     "url": "https://bridgeway-island-elementary-school.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeway-island3",
     "schoolName": "Bridgeway Island Elementary School",
     "url": "https://bridgeway-island3.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridgeway-island4",
     "schoolName": "Bridgeway Island Elementary School",
     "url": "https://bridgeway-island4.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bridleridge",
     "schoolName": null,
     "url": "https://bridleridge.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brite-elem",
     "schoolName": null,
     "url": "https://brite-elem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "britt",
     "schoolName": null,
     "url": "https://britt.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brittan",
     "schoolName": null,
     "url": "https://brittan.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "broad-creek",
     "schoolName": null,
     "url": "https://broad-creek.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brocton-elementary-school",
     "schoolName": null,
     "url": "https://brocton-elementary-school.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bronxdance308",
     "schoolName": null,
     "url": "https://bronxdance308.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bronxville-elementary",
     "schoolName": "Bronxville Elementary School",
     "url": "https://bronxville-elementary.typingclub.com",
     "firstSeen": "2019-10-14",
-    "lastSeen": "2024-05-19"
+    "lastSeen": "2024-05-19",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brookfieldcla",
     "schoolName": null,
     "url": "https://brookfieldcla.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brookfieldschool",
     "schoolName": "Brookfield School-Main Campus",
     "url": "https://brookfieldschool.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brookhavenelementary",
     "schoolName": null,
     "url": "https://brookhavenelementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brookshome",
     "schoolName": null,
     "url": "https://brookshome.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brssd",
     "schoolName": null,
     "url": "https://brssd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brtyping",
     "schoolName": null,
     "url": "https://brtyping.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bruceton",
     "schoolName": "Bruceton School",
     "url": "https://bruceton.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bruinstype",
     "schoolName": null,
     "url": "https://bruinstype.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brunson-es-ar",
     "schoolName": null,
     "url": "https://brunson-es-ar.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "brunsontypingclub",
     "schoolName": null,
     "url": "https://brunsontypingclub.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bryan-county-elementary",
     "schoolName": null,
     "url": "https://bryan-county-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bryn-mawr",
     "schoolName": "Bryn Mawr Elementary School",
     "url": "https://bryn-mawr.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bse12",
     "schoolName": null,
     "url": "https://bse12.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bspacsd",
     "schoolName": null,
     "url": "https://bspacsd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bsusd",
     "schoolName": "Bolinas-Stinson USD",
     "url": "https://bsusd.typingclub.com",
     "firstSeen": "2015-08-10",
-    "lastSeen": "2022-07-05"
+    "lastSeen": "2022-07-05",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buck-lake-elementary",
     "schoolName": null,
     "url": "https://buck-lake-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buckeye-local-schools",
     "schoolName": null,
     "url": "https://buckeye-local-schools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buckeyeusd",
     "schoolName": null,
     "url": "https://buckeyeusd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buckhorn",
     "schoolName": null,
     "url": "https://buckhorn.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bucklake",
     "schoolName": null,
     "url": "https://bucklake.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buckleyschools",
     "schoolName": null,
     "url": "https://buckleyschools.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "budbeasley",
     "schoolName": null,
     "url": "https://budbeasley.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "budbrooke",
     "schoolName": null,
     "url": "https://budbrooke.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "budlong-ave64",
     "schoolName": null,
     "url": "https://budlong-ave64.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buenavistamontessori",
     "schoolName": null,
     "url": "https://buenavistamontessori.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buffalotrail",
     "schoolName": null,
     "url": "https://buffalotrail.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bugbytez",
     "schoolName": null,
     "url": "https://bugbytez.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bullpups",
     "schoolName": "Suwannee Middle School",
     "url": "https://bullpups.typingclub.com",
     "firstSeen": "2013-05-14",
-    "lastSeen": "2019-06-23"
+    "lastSeen": "2019-06-23",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "buncombe",
     "schoolName": "Buncombe County Central Office",
     "url": "https://buncombe.typingclub.com",
     "firstSeen": "2020-12-02",
-    "lastSeen": "2020-12-02"
+    "lastSeen": "2020-12-02",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "burley",
     "schoolName": "Burley Elementary School",
     "url": "https://burley.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "burlington-edison",
     "schoolName": "Burlington-Edison",
     "url": "https://burlington-edison.typingclub.com",
     "firstSeen": "2019-10-21",
-    "lastSeen": "2025-10-26"
+    "lastSeen": "2025-10-26",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "burrton-elementary",
     "schoolName": null,
     "url": "https://burrton-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "burton-valley",
     "schoolName": "Burton Valley Elementary",
     "url": "https://burton-valley.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "busbee-bulldogs",
     "schoolName": "Busbee Creative Arts Academy",
     "url": "https://busbee-bulldogs.typingclub.com",
     "firstSeen": null,
-    "lastSeen": null
+    "lastSeen": null,
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "busd",
     "schoolName": "Bellevue Union School District",
     "url": "https://busd.typingclub.com",
     "firstSeen": "2021-04-17",
-    "lastSeen": "2022-12-01"
+    "lastSeen": "2022-12-01",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "busdtyping",
     "schoolName": "Brentwood Union School District",
-    "url": "https://busdtyping.typingclub.com"
+    "url": "https://busdtyping.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bushhillpanthers",
     "schoolName": null,
     "url": "https://bushhillpanthers.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bushland",
     "schoolName": "",
-    "url": "https://bushland.typingclub.com"
+    "url": "https://bushland.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "bwcomputer",
     "schoolName": null,
     "url": "https://bwcomputer.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "byrnecreek",
     "schoolName": null,
     "url": "https://byrnecreek.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "byron226",
     "schoolName": null,
     "url": "https://byron226.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "c-fbisd",
     "schoolName": "",
-    "url": "https://c-fbisd.typingclub.com"
+    "url": "https://c-fbisd.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cabool-elementary",
     "schoolName": null,
     "url": "https://cabool-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cache-lpe",
     "schoolName": "Cache La Poudre Elementary School",
-    "url": "https://cache-lpe.typingclub.com"
+    "url": "https://cache-lpe.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cacprimary",
     "schoolName": "Coomera Anglican College",
-    "url": "https://cacprimary.typingclub.com"
+    "url": "https://cacprimary.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "caewboces",
     "schoolName": null,
     "url": "https://caewboces.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cafurr",
     "schoolName": null,
     "url": "https://cafurr.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "caj-knights",
     "schoolName": null,
     "url": "https://caj-knights.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cajon",
     "schoolName": null,
     "url": "https://cajon.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "caldwell-elementary2",
     "schoolName": null,
     "url": "https://caldwell-elementary2.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "caliche-elementary-school",
     "schoolName": "Caliche Elementary School",
-    "url": "https://caliche-elementary-school.typingclub.com"
+    "url": "https://caliche-elementary-school.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "calvarykc",
     "schoolName": null,
     "url": "https://calvarykc.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "calwheat",
     "schoolName": "Calamus-Wheatland Elementary School",
-    "url": "https://calwheat.typingclub.com"
+    "url": "https://calwheat.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "camargo-elementary",
     "schoolName": null,
     "url": "https://camargo-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cambridge",
     "schoolName": "Cambridge Public Schools",
-    "url": "https://cambridge.typingclub.com"
+    "url": "https://cambridge.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cambridge-intermediate",
     "schoolName": "Cambridge Intermediate School",
-    "url": "https://cambridge-intermediate.typingclub.com"
+    "url": "https://cambridge-intermediate.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "cambridgemontessori",
     "schoolName": "Cambridge Montessori School",
-    "url": "https://cambridgemontessori.typingclub.com"
+    "url": "https://cambridgemontessori.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "camden",
     "schoolName": null,
     "url": "https://camden.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "camelot-elem",
     "schoolName": "Camelot Elem",
-    "url": "https://camelot-elem.typingclub.com"
+    "url": "https://camelot-elem.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "camerones",
     "schoolName": null,
     "url": "https://camerones.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "campasano",
     "schoolName": null,
     "url": "https://campasano.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "campbellisd",
     "schoolName": null,
     "url": "https://campbellisd.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "campbellschool",
     "schoolName": null,
     "url": "https://campbellschool.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "campion",
     "schoolName": "Campion Academy",
-    "url": "https://campion.typingclub.com"
+    "url": "https://campion.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canaan",
     "schoolName": null,
     "url": "https://canaan.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canadahill",
     "schoolName": null,
     "url": "https://canadahill.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyon-elementary",
     "schoolName": null,
     "url": "https://canyon-elementary.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyon-springs-stem",
     "schoolName": null,
     "url": "https://canyon-springs-stem.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyon-springs3",
     "schoolName": null,
     "url": "https://canyon-springs3.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyon-view",
     "schoolName": "Canyon View Middle School",
-    "url": "https://canyon-view.typingclub.com"
+    "url": "https://canyon-view.typingclub.com",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyon2795",
     "schoolName": null,
     "url": "https://canyon2795.typingclub.com",
-    "source": "commoncrawl"
+    "source": "commoncrawl",
+    "typingclubValid": true,
+    "edclubValid": true,
+    "validDomains": "both"
   },
   {
     "subdomain": "canyoncreek",
@@ -3755,7 +5075,7 @@
   },
   {
     "subdomain": "colegiomexicobachillerato",
-    "schoolName": "Colegio M\u00e9xico Bachillerato",
+    "schoolName": "Colegio México Bachillerato",
     "url": "https://colegiomexicobachillerato.typingclub.com"
   },
   {
