@@ -233,312 +233,436 @@
   {
     "subdomain": "appleton",
     "schoolName": "Appleton Area School District",
-    "url": "https://appleton.typingclub.com"
+    "url": "https://appleton.typingclub.com",
+    "firstSeen": "2017-05-09",
+    "lastSeen": "2022-08-11"
   },
   {
     "subdomain": "apsva",
     "schoolName": "Arlington Public Schools",
-    "url": "https://apsva.typingclub.com"
+    "url": "https://apsva.typingclub.com",
+    "firstSeen": "2019-10-16",
+    "lastSeen": "2025-12-09"
   },
   {
     "subdomain": "arborland",
     "schoolName": "Arborland Montessori Children's Academy",
-    "url": "https://arborland.typingclub.com"
+    "url": "https://arborland.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "arcadia-wi-school",
     "schoolName": "Arcadia School District",
-    "url": "https://arcadia-wi-school.typingclub.com"
+    "url": "https://arcadia-wi-school.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "archdale-elementary-school",
     "schoolName": "Archdale Elementary School",
-    "url": "https://archdale-elementary-school.typingclub.com"
+    "url": "https://archdale-elementary-school.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "ardmore",
     "schoolName": "Ardmore Adventist Academy",
-    "url": "https://ardmore.typingclub.com"
+    "url": "https://ardmore.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "arlingtonsciencefocusschool",
     "schoolName": "Arlington Science Focus School",
-    "url": "https://arlingtonsciencefocusschool.typingclub.com"
+    "url": "https://arlingtonsciencefocusschool.typingclub.com",
+    "firstSeen": "2022-12-09",
+    "lastSeen": "2022-12-09"
   },
   {
     "subdomain": "arlmiddleschool",
     "schoolName": "ARL Middle School",
-    "url": "https://arlmiddleschool.typingclub.com"
+    "url": "https://arlmiddleschool.typingclub.com",
+    "firstSeen": "2013-05-17",
+    "lastSeen": "2019-06-28"
   },
   {
     "subdomain": "armstrong-elementary",
     "schoolName": "Armstrong Elementary School",
-    "url": "https://armstrong-elementary.typingclub.com"
+    "url": "https://armstrong-elementary.typingclub.com",
+    "firstSeen": "2019-10-15",
+    "lastSeen": "2020-10-29"
   },
   {
     "subdomain": "arsu",
     "schoolName": "Fair Haven Grade School",
-    "url": "https://arsu.typingclub.com"
+    "url": "https://arsu.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "asaadams",
     "schoolName": "Asa C Adams Elementary School",
-    "url": "https://asaadams.typingclub.com"
+    "url": "https://asaadams.typingclub.com",
+    "firstSeen": "2019-10-15",
+    "lastSeen": "2025-02-19"
   },
   {
     "subdomain": "asbschool",
     "schoolName": "Assumption - St. Bridget School",
-    "url": "https://asbschool.typingclub.com"
+    "url": "https://asbschool.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "ascs-typing",
     "schoolName": "All Souls Catholic School",
-    "url": "https://ascs-typing.typingclub.com"
+    "url": "https://ascs-typing.typingclub.com",
+    "firstSeen": "2016-11-22",
+    "lastSeen": "2019-10-19"
   },
   {
     "subdomain": "asdk12-cte",
     "schoolName": "ASD - Career & Technical Education",
-    "url": "https://asdk12-cte.typingclub.com"
+    "url": "https://asdk12-cte.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "ashby-elementary",
     "schoolName": "Ashby Elementary School",
-    "url": "https://ashby-elementary.typingclub.com"
+    "url": "https://ashby-elementary.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "aspenk12",
     "schoolName": "",
-    "url": "https://aspenk12.typingclub.com"
+    "url": "https://aspenk12.typingclub.com",
+    "firstSeen": "2013-02-27",
+    "lastSeen": "2019-07-05"
   },
   {
     "subdomain": "auburndaleelementary",
     "schoolName": "Greenwood Elementary",
-    "url": "https://auburndaleelementary.typingclub.com"
+    "url": "https://auburndaleelementary.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "auburnvillageschool",
     "schoolName": "Auburn Village School",
-    "url": "https://auburnvillageschool.typingclub.com"
+    "url": "https://auburnvillageschool.typingclub.com",
+    "firstSeen": "2015-11-15",
+    "lastSeen": "2024-07-20"
   },
   {
     "subdomain": "aurora-borealis",
     "schoolName": "Aurora Borealis Charter School",
-    "url": "https://aurora-borealis.typingclub.com"
+    "url": "https://aurora-borealis.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "avilla-school",
     "schoolName": "Avilla School",
-    "url": "https://avilla-school.typingclub.com"
+    "url": "https://avilla-school.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "b40middle",
     "schoolName": "Branciforte Middle School",
-    "url": "https://b40middle.typingclub.com"
+    "url": "https://b40middle.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "baldwin2016",
     "schoolName": "Baldwin Elementary School",
-    "url": "https://baldwin2016.typingclub.com"
+    "url": "https://baldwin2016.typingclub.com",
+    "firstSeen": "2021-05-12",
+    "lastSeen": "2021-05-12"
   },
   {
     "subdomain": "baldwin-woodville-ar",
     "schoolName": "Baldwin-Woodville Area Schools",
-    "url": "https://baldwin-woodville-ar.typingclub.com"
+    "url": "https://baldwin-woodville-ar.typingclub.com",
+    "firstSeen": "2024-07-05",
+    "lastSeen": "2024-07-05"
   },
   {
     "subdomain": "balmoral",
     "schoolName": "Balmoral",
-    "url": "https://balmoral.typingclub.com"
+    "url": "https://balmoral.typingclub.com",
+    "firstSeen": "2013-04-22",
+    "lastSeen": "2019-07-14"
   },
   {
     "subdomain": "barranca",
     "schoolName": "Barranca Mesa Elementary",
-    "url": "https://barranca.typingclub.com"
+    "url": "https://barranca.typingclub.com",
+    "firstSeen": "2016-03-12",
+    "lastSeen": "2019-06-15"
   },
   {
     "subdomain": "barrington220",
     "schoolName": "Barrington CCUSD 220",
-    "url": "https://barrington220.typingclub.com"
+    "url": "https://barrington220.typingclub.com",
+    "firstSeen": "2014-10-07",
+    "lastSeen": "2025-06-21"
   },
   {
     "subdomain": "bartelsobraves",
     "schoolName": "Bartelso Elementary School",
-    "url": "https://bartelsobraves.typingclub.com"
+    "url": "https://bartelsobraves.typingclub.com",
+    "firstSeen": "2021-09-21",
+    "lastSeen": "2025-07-17"
   },
   {
     "subdomain": "bathcats",
     "schoolName": "",
-    "url": "https://bathcats.typingclub.com"
+    "url": "https://bathcats.typingclub.com",
+    "firstSeen": "2022-12-09",
+    "lastSeen": "2022-12-09"
   },
   {
     "subdomain": "battell",
     "schoolName": "Battell Elementary School",
-    "url": "https://battell.typingclub.com"
+    "url": "https://battell.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bayvillageschools",
     "schoolName": "Bay Village City School Dist",
-    "url": "https://bayvillageschools.typingclub.com"
+    "url": "https://bayvillageschools.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bbcps",
     "schoolName": "Benjamin Banneker Charter Public School",
-    "url": "https://bbcps.typingclub.com"
+    "url": "https://bbcps.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bcpsmcalear",
     "schoolName": "McAlear-Sawden Elementary School",
-    "url": "https://bcpsmcalear.typingclub.com"
+    "url": "https://bcpsmcalear.typingclub.com",
+    "firstSeen": "2022-05-20",
+    "lastSeen": "2024-06-14"
   },
   {
     "subdomain": "bcsberlin",
     "schoolName": "Berlin Community Elementary School",
-    "url": "https://bcsberlin.typingclub.com"
+    "url": "https://bcsberlin.typingclub.com",
+    "firstSeen": "2021-06-23",
+    "lastSeen": "2021-06-23"
   },
   {
     "subdomain": "bcsdbearcats",
     "schoolName": "Bedford City School District",
-    "url": "https://bcsdbearcats.typingclub.com"
+    "url": "https://bcsdbearcats.typingclub.com",
+    "firstSeen": "2016-03-07",
+    "lastSeen": "2025-05-25"
   },
   {
     "subdomain": "bcsetech",
     "schoolName": "BCSE",
-    "url": "https://bcsetech.typingclub.com"
+    "url": "https://bcsetech.typingclub.com",
+    "firstSeen": "2024-01-01",
+    "lastSeen": "2024-08-06"
   },
   {
     "subdomain": "beachmont",
     "schoolName": "Beachmont Veterans Memorial School",
-    "url": "https://beachmont.typingclub.com"
+    "url": "https://beachmont.typingclub.com",
+    "firstSeen": "2019-10-14",
+    "lastSeen": "2025-07-26"
   },
   {
     "subdomain": "beattie-elementary",
     "schoolName": "Beattie Elementary",
-    "url": "https://beattie-elementary.typingclub.com"
+    "url": "https://beattie-elementary.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "beauregard-parish",
     "schoolName": "Beauregard Parish School District",
-    "url": "https://beauregard-parish.typingclub.com"
+    "url": "https://beauregard-parish.typingclub.com",
+    "firstSeen": "2019-10-21",
+    "lastSeen": "2025-02-17"
   },
   {
     "subdomain": "becker",
     "schoolName": "Bowling Green R-1 School",
-    "url": "https://becker.typingclub.com"
+    "url": "https://becker.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "beemanschool",
     "schoolName": "Beeman Memorial Elementary School",
-    "url": "https://beemanschool.typingclub.com"
+    "url": "https://beemanschool.typingclub.com",
+    "firstSeen": "2019-10-22",
+    "lastSeen": "2020-09-25"
   },
   {
     "subdomain": "beersstreetschool",
     "schoolName": "",
-    "url": "https://beersstreetschool.typingclub.com"
+    "url": "https://beersstreetschool.typingclub.com",
+    "firstSeen": "2016-03-14",
+    "lastSeen": "2019-06-27"
   },
   {
     "subdomain": "bellevuees",
     "schoolName": "Bellevue",
-    "url": "https://bellevuees.typingclub.com"
+    "url": "https://bellevuees.typingclub.com",
+    "firstSeen": "2014-08-27",
+    "lastSeen": "2019-05-27"
   },
   {
     "subdomain": "belmar-elementary2",
     "schoolName": "Belmar Elementary School",
-    "url": "https://belmar-elementary2.typingclub.com"
+    "url": "https://belmar-elementary2.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "belmar-elementary",
     "schoolName": "Belmar Elementary",
-    "url": "https://belmar-elementary.typingclub.com"
+    "url": "https://belmar-elementary.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "belmay",
     "schoolName": "Belmay Primary School",
-    "url": "https://belmay.typingclub.com"
+    "url": "https://belmay.typingclub.com",
+    "firstSeen": "2017-01-01",
+    "lastSeen": "2017-01-01"
   },
   {
     "subdomain": "benito34",
     "schoolName": "SVSD",
-    "url": "https://benito34.typingclub.com"
+    "url": "https://benito34.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bennettib",
     "schoolName": "",
-    "url": "https://bennettib.typingclub.com"
+    "url": "https://bennettib.typingclub.com",
+    "firstSeen": "2019-09-22",
+    "lastSeen": "2024-05-09"
   },
   {
     "subdomain": "benparker",
     "schoolName": "Rev Benjamin Parker Elementary School",
-    "url": "https://benparker.typingclub.com"
+    "url": "https://benparker.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "benton",
     "schoolName": "Benton Public Schools",
-    "url": "https://benton.typingclub.com"
+    "url": "https://benton.typingclub.com",
+    "firstSeen": "2019-10-22",
+    "lastSeen": "2019-10-22"
   },
   {
     "subdomain": "bergsdeafed",
     "schoolName": "",
-    "url": "https://bergsdeafed.typingclub.com"
+    "url": "https://bergsdeafed.typingclub.com",
+    "firstSeen": "2013-10-29",
+    "lastSeen": "2019-07-18"
   },
   {
     "subdomain": "berino-elementary",
     "schoolName": "Berino Elementary School",
-    "url": "https://berino-elementary.typingclub.com"
+    "url": "https://berino-elementary.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "berkeley-unified",
     "schoolName": "Berkeley Unified School District",
-    "url": "https://berkeley-unified.typingclub.com"
+    "url": "https://berkeley-unified.typingclub.com",
+    "firstSeen": "2013-08-14",
+    "lastSeen": "2023-02-07"
   },
   {
     "subdomain": "berlinschools",
     "schoolName": "Berlin Public Schools",
-    "url": "https://berlinschools.typingclub.com"
+    "url": "https://berlinschools.typingclub.com",
+    "firstSeen": "2019-11-13",
+    "lastSeen": "2024-07-06"
   },
   {
     "subdomain": "bernards-township",
     "schoolName": "Bernards Township School District",
-    "url": "https://bernards-township.typingclub.com"
+    "url": "https://bernards-township.typingclub.com",
+    "firstSeen": "2015-03-15",
+    "lastSeen": "2021-10-21"
   },
   {
     "subdomain": "berry-school",
     "schoolName": "Berry School",
-    "url": "https://berry-school.typingclub.com"
+    "url": "https://berry-school.typingclub.com",
+    "firstSeen": "2023-09-29",
+    "lastSeen": "2025-01-13"
   },
   {
     "subdomain": "bethanyeagles",
     "schoolName": "Bethany Lutheran School",
-    "url": "https://bethanyeagles.typingclub.com"
+    "url": "https://bethanyeagles.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bethel-elementary",
     "schoolName": "Bethel Elementary",
-    "url": "https://bethel-elementary.typingclub.com"
+    "url": "https://bethel-elementary.typingclub.com",
+    "firstSeen": "2019-11-22",
+    "lastSeen": "2019-11-22"
   },
   {
     "subdomain": "bethke",
     "schoolName": "Bethke Elementary School",
-    "url": "https://bethke.typingclub.com"
+    "url": "https://bethke.typingclub.com",
+    "firstSeen": "2015-03-21",
+    "lastSeen": "2022-05-18"
   },
   {
     "subdomain": "beulah-heights",
     "schoolName": "Beulah Heights",
-    "url": "https://beulah-heights.typingclub.com"
+    "url": "https://beulah-heights.typingclub.com",
+    "firstSeen": "2020-08-03",
+    "lastSeen": "2021-09-27"
   },
   {
     "subdomain": "beverly-hills",
     "schoolName": "Beverly Hills Elementary School",
-    "url": "https://beverly-hills.typingclub.com"
+    "url": "https://beverly-hills.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "bexleyschools",
     "schoolName": "Bexley City Schools",
-    "url": "https://bexleyschools.typingclub.com"
+    "url": "https://bexleyschools.typingclub.com",
+    "firstSeen": "2016-02-02",
+    "lastSeen": "2019-07-18"
   },
   {
     "subdomain": "bfcds",
     "schoolName": "Burgundy Farm Country Day School",
-    "url": "https://bfcds.typingclub.com"
+    "url": "https://bfcds.typingclub.com",
+    "firstSeen": "2022-03-30",
+    "lastSeen": "2024-04-26"
   },
   {
     "subdomain": "bgcparkersburg",
