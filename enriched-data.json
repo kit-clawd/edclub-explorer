@@ -667,72 +667,100 @@
   {
     "subdomain": "bgcparkersburg",
     "schoolName": "Boys and Girls Club of Parkersburg",
-    "url": "https://bgcparkersburg.typingclub.com"
+    "url": "https://bgcparkersburg.typingclub.com",
+    "firstSeen": "2017-02-07",
+    "lastSeen": "2019-06-22"
   },
   {
     "subdomain": "bgsbulldogs",
     "schoolName": "Bulls Gap School",
-    "url": "https://bgsbulldogs.typingclub.com"
+    "url": "https://bgsbulldogs.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "big-bear-bbesbobcats",
     "schoolName": "Big Bear Elementary School",
-    "url": "https://big-bear-bbesbobcats.typingclub.com"
+    "url": "https://big-bear-bbesbobcats.typingclub.com",
+    "firstSeen": "2019-10-19",
+    "lastSeen": "2023-01-31"
   },
   {
     "subdomain": "big-sky",
     "schoolName": "Big Sky Elementary School",
-    "url": "https://big-sky.typingclub.com"
+    "url": "https://big-sky.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "biloxischools",
     "schoolName": "Popps Ferry Elementary School",
-    "url": "https://biloxischools.typingclub.com"
+    "url": "https://biloxischools.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "birchwood-school",
     "schoolName": "Birchwood School",
-    "url": "https://birchwood-school.typingclub.com"
+    "url": "https://birchwood-school.typingclub.com",
+    "firstSeen": "2019-10-20",
+    "lastSeen": "2024-09-13"
   },
   {
     "subdomain": "birchwood",
     "schoolName": "School District of Birchwood",
-    "url": "https://birchwood.typingclub.com"
+    "url": "https://birchwood.typingclub.com",
+    "firstSeen": "2019-10-15",
+    "lastSeen": "2025-12-15"
   },
   {
     "subdomain": "bison",
     "schoolName": "New Buffalo Area Schools",
-    "url": "https://bison.typingclub.com"
+    "url": "https://bison.typingclub.com",
+    "firstSeen": "2017-06-26",
+    "lastSeen": "2022-01-29"
   },
   {
     "subdomain": "blackfoxtyping",
     "schoolName": "Black Fox Elementary School",
-    "url": "https://blackfoxtyping.typingclub.com"
+    "url": "https://blackfoxtyping.typingclub.com",
+    "firstSeen": null,
+    "lastSeen": null
   },
   {
     "subdomain": "blanchester-local",
     "schoolName": "",
-    "url": "https://blanchester-local.typingclub.com"
+    "url": "https://blanchester-local.typingclub.com",
+    "firstSeen": "2016-07-30",
+    "lastSeen": "2016-07-30"
   },
   {
     "subdomain": "blanintermediate",
     "schoolName": "Blanchester Intermediate School",
-    "url": "https://blanintermediate.typingclub.com"
+    "url": "https://blanintermediate.typingclub.com",
+    "firstSeen": "2019-10-15",
+    "lastSeen": "2019-10-15"
   },
   {
     "subdomain": "bliss-school",
     "schoolName": "Bliss Elementary School",
-    "url": "https://bliss-school.typingclub.com"
+    "url": "https://bliss-school.typingclub.com",
+    "firstSeen": "2023-06-06",
+    "lastSeen": "2025-12-11"
   },
   {
     "subdomain": "bloomfield07003",
     "schoolName": "Bloomfield Schools",
-    "url": "https://bloomfield07003.typingclub.com"
+    "url": "https://bloomfield07003.typingclub.com",
+    "firstSeen": "2021-11-28",
+    "lastSeen": "2025-07-22"
   },
   {
     "subdomain": "bloomfieldcsd",
     "schoolName": "Bloomfield Central School District",
-    "url": "https://bloomfieldcsd.typingclub.com"
+    "url": "https://bloomfieldcsd.typingclub.com",
+    "firstSeen": "2020-07-17",
+    "lastSeen": "2020-07-17"
   },
   {
     "subdomain": "bloomingdale13",

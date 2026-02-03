@@ -150,6 +150,7 @@
         }
         
         .subdomain-link:hover { text-decoration: underline; }
+        .subdomain-link.edclub { color: #f472b6; font-size: 0.8rem; }
         
         .date-cell { white-space: nowrap; }
         .date-cell.recent { color: var(--success); font-weight: 500; }
@@ -409,7 +410,10 @@
                 return `
                     <tr>
                         <td class="name-cell">${escapeHtml(displayName)}</td>
-                        <td><a class="subdomain-link" href="https://${d.subdomain}.typingclub.com" target="_blank">${d.subdomain}.typingclub.com</a></td>
+                        <td>
+                            <a class="subdomain-link" href="https://${d.subdomain}.typingclub.com" target="_blank">${d.subdomain}.typingclub.com</a><br>
+                            <a class="subdomain-link edclub" href="https://${d.subdomain}.edclub.com" target="_blank">${d.subdomain}.edclub.com</a>
+                        </td>
                         <td><span class="type-badge type-${typeClass}">${type}</span></td>
                         <td class="date-cell">${d.firstSeen || '-'}</td>
                         <td class="date-cell ${isActive2026 ? 'recent' : ''}">${d.lastSeen || '-'}${isActive2026 ? '<span class="dot"></span>' : ''}</td>
