@@ -232,7 +232,84 @@ curl -X PATCH "https://edclub-explorer-production.up.railway.app/api/domains/SUB
 - `city` — City name
 - `state` — Two-letter state code
 - `website` — School website URL
-- `classification` — "district", "school", "teacher", etc.
+- `type` — Entity classification: "district", "school", "teacher", "unknown"
+
+---
+
+## Step 5: Set Classification Type
+
+Classify each subdomain by entity type. This helps prioritize outreach and filter data.
+
+**API Call:**
+```bash
+curl -X PATCH "https://edclub-explorer-production.up.railway.app/api/domains/SUBDOMAIN" \
+  -H "Content-Type: application/json" \
+  -d '{"type": "district"}'
+```
+
+**Valid types:**
+- `district` — School district (highest value)
+- `school` — Individual school
+- `teacher` — Teacher/classroom account (lowest value)
+- `unknown` — Can't determine
+
+### Classification Patterns
+
+**DISTRICT indicators** (in subdomain or schoolName):
+| Pattern | Examples |
+|---------|----------|
+| `*usd` | tustinusd, sfusd |
+| `*isd` | austinisd, dallasisd |
+| `*csd`, `*sd` | nycsd, seattlesd |
+| `*schools` | lpschools, bayschools |
+| `district` | lincolndistrict |
+| `unified` | "Tustin Unified" |
+| `public schools` | "Lincoln Park Public Schools" |
+| `county schools` | "Fulton County Schools" |
+
+**SCHOOL indicators:**
+| Pattern | Examples |
+|---------|----------|
+| `elementary` | lincolnelementary, "Lincoln Elementary" |
+| `middle school` | "Roosevelt Middle School" |
+| `high school` | "Central High School" |
+| `-es`, `-ms`, `-hs` | lincoln-es, wilson-ms |
+| `-elem` | washington-elem |
+| `primary` | oakprimary |
+| `academy` | stemacademy |
+| `charter` | "KIPP Charter" |
+
+**TEACHER indicators:**
+| Pattern | Examples |
+|---------|----------|
+| `mr*`, `mrs*`, `ms*` | mrsmith, mrslong, msgarcia |
+| `miss*` | missk, misscrow |
+| `dr*` | drjohnson |
+| `room*` | room214, room49 |
+| `*grade*` | 1stgrade, mrssteege3rdgrade |
+| `*class*` | class2b |
+| `"'s class"` in name | "Mr. McKenzie's Class" |
+
+**SKIP these (system subdomains):**
+- `apps`, `api`, `www`, `test`, `demo`, `admin`, `portal`, `login`, `staging`, `dev`
+
+### Context Matters: `ms` Ambiguity
+
+The pattern `ms` can mean:
+- **Ms.** (teacher): `ms-garcia`, `mssmith`
+- **Middle School**: `lincoln-ms`, `wilsonms`
+
+**Rule:** 
+- `ms-*` or `ms` followed by a name → TEACHER
+- `*-ms` (suffix) → SCHOOL (middle school)
+
+### Classification Priority
+
+When multiple patterns match, use this priority:
+1. **TEACHER** (most specific — if it looks like a teacher, it is)
+2. **DISTRICT** (if district keywords present)
+3. **SCHOOL** (default for school-like names)
+4. **UNKNOWN** (no clear indicators)
 
 ---
 
@@ -317,4 +394,4 @@ Track all updates in `/root/clawd/edclub-nces-enrichment.md`:
 
 ---
 
-*Last updated: 2026-02-05*
+*Last updated: 2026-02-05 (added classification patterns)*
